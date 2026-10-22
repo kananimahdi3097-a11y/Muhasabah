@@ -1,10 +1,10 @@
 {
-  "versionCode": 5,
-  "versionName": "2.3",
+  "versionCode": 6,
+  "versionName": "2.4",
   "apk_full": "apk/Muhasabah.apk",
-  "sha256_full": "fd9b83cf725bbe158ed6b17f7bfc7e4edbe6a770075dde41cc850b9ce71d4e3b",
+  "sha256_full": "a506bfd2c8c554dbaae8ea8b5e665e78b1ceb3cb0946c031a8d5d5cd820a1ec7",
   "apk_lite": "apk/Muhasabah_lite.apk",
-  "sha256_lite": "cedbca5532c91871306260cf5c53d80099f5eb8ab70ca9f8b361159e0ba27d53",
-  "notes_en": "Discover cards fixed · English + Gujarati together · Task screen with Start/Pause/Reset · Reminders that repeat until Done · ↻ Refresh with Imam-e-Zamana & society hadith · Ask tab · Every setting adjustable",
-  "notes_gu": "જાણો કાર્ડ ઠીક · અંગ્રેજી + ગુજરાતી સાથે · શરૂ/થોભો/રીસેટ સાથે કામની સ્ક્રીન · 'થઈ ગયું' સુધી રિમાઇન્ડર · ઇમામે ઝમાના અને સમાજની હદીસ સાથે ↻ રિફ્રેશ · પૂછો ટૅબ · દરેક સેટિંગ બદલી શકાય"
+  "sha256_lite": "ce76122174fd6ee0789d856655249ad748a2244e03980d1a6dead9efdd4a5672",
+  "notes_en": "Pull down on any page to refresh · New greeting every day & every refresh · Hijri date · Smoother timer: pause keeps your time (▶ resume) · Wisdom topics no longer jump · Arabic on every hadith & Quran card · More beautiful Home",
+  "notes_gu": "દરેક પેજ નીચે ખેંચીને રિફ્રેશ · દરરોજ અને દરેક રિફ્રેશે નવું અભિવાદન · હિજરી તારીખ · ટાઇમર સુધાર્યું: થોભાવો ત્યારે સમય સચવાય (▶ ફરી શરૂ) · હિકમતના વિભાગ હવે કૂદતા નથી · દરેક હદીસ અને કુરઆન કાર્ડ પર અરબી · વધુ સુંદર હોમ"
 }
