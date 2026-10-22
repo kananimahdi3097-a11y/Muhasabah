@@ -1,10 +1,10 @@
 {
-  "versionCode": 7,
-  "versionName": "2.5",
+  "versionCode": 8,
+  "versionName": "2.6",
   "apk_full": "apk/Muhasabah.apk",
-  "sha256_full": "6ea5ae9224269eb982103f5b8e66c3cdf0ceb1f8ad50b391b1791f75ac14907a",
+  "sha256_full": "caf5f64e717a6cbe5895151bf1a566088db6f65f0e93f739f4ff8dc8629db316",
   "apk_lite": "apk/Muhasabah_lite.apk",
-  "sha256_lite": "b98c4a6fbdd382c9599f09aa1e38180a34c5ab2d8495ae04be5f8c468bb7fee6",
-  "notes_en": "Summaries: any day, every week, every month (Progress tab) · Weekly & monthly summary notifications · Tasks can be set for chosen days and a fixed time (e.g. Thursday 9 PM) with a reminder",
-  "notes_gu": "સારાંશ: કોઈ પણ દિવસ, દરેક અઠવાડિયું, દરેક મહિનો (પ્રગતિ ટૅબ) · અઠવાડિક અને માસિક સારાંશની સૂચના · કામ પસંદ કરેલા દિવસે અને નક્કી સમયે (દા.ત. ગુરુવાર રાત્રે 9) રિમાઇન્ડર સાથે"
+  "sha256_lite": "525d368e165b403962564061f29e0b12b1ddcc67950ae7a48e6a33e9aaeb4a52",
+  "notes_en": "Ask/AI tab removed · ⚙️ Settings button on every screen · 🔎 Search box in Wisdom",
+  "notes_gu": "પૂછો/AI ટૅબ કાઢી નાખી · દરેક સ્ક્રીન પર ⚙️ સેટિંગ્સ બટન · હિકમતમાં 🔎 શોધ"
 }
