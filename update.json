@@ -1,10 +1,10 @@
 {
-  "versionCode": 8,
-  "versionName": "2.6",
+  "versionCode": 9,
+  "versionName": "2.7",
   "apk_full": "apk/Muhasabah.apk",
-  "sha256_full": "caf5f64e717a6cbe5895151bf1a566088db6f65f0e93f739f4ff8dc8629db316",
+  "sha256_full": "3dd0db5f19d3ee16494e48370697624b30c05e08f02823bfac3bb73501fbe932",
   "apk_lite": "apk/Muhasabah_lite.apk",
-  "sha256_lite": "525d368e165b403962564061f29e0b12b1ddcc67950ae7a48e6a33e9aaeb4a52",
-  "notes_en": "Ask/AI tab removed · ⚙️ Settings button on every screen · 🔎 Search box in Wisdom",
-  "notes_gu": "પૂછો/AI ટૅબ કાઢી નાખી · દરેક સ્ક્રીન પર ⚙️ સેટિંગ્સ બટન · હિકમતમાં 🔎 શોધ"
+  "sha256_lite": "0eb909ac21316d3cffde82b96647b7ae17d77b8e51ea804d18a46b0826b868c0",
+  "notes_en": "New: Urdu (Nastaliq) and Hindi — for menus and for ayat/hadith/card translations (pick any mix in Settings → Language). Animated launch emblem and opening animation. Distinct, stronger haptics for every button (Settings → Look → Button vibration). Sleep, wake, scroll and bad-day nudges are now fresh every time — no more repeating lines.",
+  "notes_gu": "નવું: ઉર્દૂ (નસ્તાલીક) અને હિન્દી — મેનુ અને આયત/હદીસ/કાર્ડના અનુવાદ માટે (સેટિંગ્સ → ભાષા). ઍપ ખૂલે ત્યારે ચમકતું એનિમેટેડ લોગો. દરેક બટનનું અલગ, મજબૂત વાઇબ્રેશન. ઊંઘ, ઊઠવા, સ્ક્રોલ અને ખરાબ દિવસના મેસેજ હવે દર વખતે નવા."
 }
