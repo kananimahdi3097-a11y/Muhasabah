@@ -1,10 +1,10 @@
 {
-  "versionCode": 6,
-  "versionName": "2.4",
+  "versionCode": 7,
+  "versionName": "2.5",
   "apk_full": "apk/Muhasabah.apk",
-  "sha256_full": "a506bfd2c8c554dbaae8ea8b5e665e78b1ceb3cb0946c031a8d5d5cd820a1ec7",
+  "sha256_full": "6ea5ae9224269eb982103f5b8e66c3cdf0ceb1f8ad50b391b1791f75ac14907a",
   "apk_lite": "apk/Muhasabah_lite.apk",
-  "sha256_lite": "ce76122174fd6ee0789d856655249ad748a2244e03980d1a6dead9efdd4a5672",
-  "notes_en": "Pull down on any page to refresh · New greeting every day & every refresh · Hijri date · Smoother timer: pause keeps your time (▶ resume) · Wisdom topics no longer jump · Arabic on every hadith & Quran card · More beautiful Home",
-  "notes_gu": "દરેક પેજ નીચે ખેંચીને રિફ્રેશ · દરરોજ અને દરેક રિફ્રેશે નવું અભિવાદન · હિજરી તારીખ · ટાઇમર સુધાર્યું: થોભાવો ત્યારે સમય સચવાય (▶ ફરી શરૂ) · હિકમતના વિભાગ હવે કૂદતા નથી · દરેક હદીસ અને કુરઆન કાર્ડ પર અરબી · વધુ સુંદર હોમ"
+  "sha256_lite": "b98c4a6fbdd382c9599f09aa1e38180a34c5ab2d8495ae04be5f8c468bb7fee6",
+  "notes_en": "Summaries: any day, every week, every month (Progress tab) · Weekly & monthly summary notifications · Tasks can be set for chosen days and a fixed time (e.g. Thursday 9 PM) with a reminder",
+  "notes_gu": "સારાંશ: કોઈ પણ દિવસ, દરેક અઠવાડિયું, દરેક મહિનો (પ્રગતિ ટૅબ) · અઠવાડિક અને માસિક સારાંશની સૂચના · કામ પસંદ કરેલા દિવસે અને નક્કી સમયે (દા.ત. ગુરુવાર રાત્રે 9) રિમાઇન્ડર સાથે"
 }
