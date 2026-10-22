@@ -1,0 +1,10 @@
+{
+  "versionCode": 4,
+  "versionName": "2.2",
+  "apk_full": "apk/Muhasabah.apk",
+  "sha256_full": "4ca5653e97a1662302195d7e17d0f89f3311299c7322b847ff37bb1da0f70b6f",
+  "apk_lite": "apk/Muhasabah_lite.apk",
+  "sha256_lite": "6ee320d9083d9d674f7978b8a31a69b1bffe026db086088de3047017dc5ab8ff",
+  "notes_en": "First version with in-app updates. Future fixes arrive here automatically.",
+  "notes_gu": "ઍપમાં અપડેટ સાથેનું પહેલું વર્ઝન. હવે પછીના સુધારા અહીં આપમેળે આવશે."
+}
