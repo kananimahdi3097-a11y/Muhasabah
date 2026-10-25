@@ -1,0 +1,3016 @@
+{
+"id": "daily-1",
+"version": 1,
+"type": "daily",
+"title": "From the books — set 1",
+"credit": "Hadith text & English: Thaqalayn (Stichting Thaqalayn), CC BY 4.0, translators as credited per item; leading numbers/footnote markers removed. Gujarati, Urdu & Hindi translations: Muhasabah (please verify).",
+"items": [
+{
+"id": "d-nahjalbalagharadi-1817",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Sluggards lose rights and backbiters lose friends” · Hadith 289",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): مَنْ أَطَاعَ التَّوَانِيَ ضَيَّعَ الْحُقُوقَ، وَمَنْ أَطَاعَ الْوَاشِيَ ضَيَّعَ الصَّدِيقَ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: He who is a sluggard loses his rights and he who believes in the backbiter loses his friend.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: જે આળસુ છે તે પોતાના હક ગુમાવે છે, અને જે ચાડીખોરની વાત માને છે તે પોતાનો મિત્ર ગુમાવે છે.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: جو سستی کرتا ہے وہ اپنے حقوق کھو دیتا ہے، اور جو چغل خور کی بات مان لے وہ اپنا دوست کھو دیتا ہے۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: जो सुस्ती करता है वह अपने हक़ खो देता है, और जो चुग़लख़ोर की बात मान ले वह अपना दोस्त खो देता है।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/239/289",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-alkafivolume2kulayni-1081",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “Anger” · Hadith 3",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ مُحَمَّدِ بْنِ عِيسَى عَنْ يُونُسَ عَنْ دَاوُدَ بْنِ فَرْقَدٍ قَالَ قَالَ أَبُو عَبْدِ الله (عَلَيهِ السَّلام) الْغَضَبُ مِفْتَاحُ كُلِّ شَرٍّ.",
+"en": "“Abu ‘Abd Allah (a.s.) has said, ‘Anger is the key to all evil.’”",
+"gu": "ઇમામ જઅફર સાદિક (અ.સ.) એ ફરમાવ્યું: ગુસ્સો દરેક બુરાઈની ચાવી છે.",
+"ur": "امام جعفر صادق علیہ السلام نے فرمایا: غصہ ہر برائی کی کنجی ہے۔",
+"hi": "इमाम जाफ़र सादिक़ (अ.स.) ने फ़रमाया: ग़ुस्सा हर बुराई की कुंजी है।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (0/148)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/121/3",
+"tafsir": false,
+"by": "",
+"topic": "akhlaq"
+},
+{
+"id": "d-mujamalahadithalmutabaramuhsini-516",
+"ref": "Muʿjam al-Aḥādīth al-Muʿtabara · The Book of the Glorious Quran · Ch. “The Merits of the Qur’an” · Hadith 5",
+"book": "Muʿjam al-Aḥādīth al-Muʿtabara",
+"ar": "[1545/5] الكافي: عدة من أصحابنا، عن أحمد بن محمد وسهل بن زياد، جميعا، عن ابن محبوب، عن جميل بن صالح، عن الفضيل بن يسار، عن أبي عبدالله عليه السلام قال: سمعته يقول: إن الذي يعالج القرآن ويحفظه بمشقة منه وقلة حفظ له أجران",
+"en": "The one who labours over the Qur’an and memorizes it with great difficulty on his part and having poor memory - for him is double the reward",
+"gu": "જે કુરઆન માટે મહેનત કરે અને નબળી યાદશક્તિ છતાં ભારે તકલીફથી તેને યાદ કરે — તેના માટે બમણો સવાબ છે.",
+"ur": "جو قرآن کے لیے محنت کرے اور کمزور حافظے کے باوجود بڑی مشقت سے اسے یاد کرے — اس کے لیے دوگنا اجر ہے۔",
+"hi": "जो क़ुरआन के लिए मेहनत करे और कमज़ोर याददाश्त के बावजूद बड़ी मशक़्क़त से उसे याद करे — उसके लिए दोगुना सवाब है।",
+"grade": [
+{
+"by": "Asif al-Mohseni",
+"en": "Mu'tabar",
+"ar": "معتبر",
+"ref": "Muʿjam al-Aḥādīth al-Muʿtabara"
+}
+],
+"tr": "Ammaar Muslim",
+"url": "https://thaqalayn.com/hadith/9/5/1/5",
+"tafsir": false,
+"by": "",
+"topic": "quran"
+},
+{
+"id": "d-alkafivolume2kulayni-1714",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Supplication · Ch. “Asking Favors from Allah for the Holy Prophet, Muhammad and his Family, recipient of divine supreme covenant” · Hadith 8",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ عَبْدِ الله بْنِ سِنَانٍ عَنْ أَبِي عَبْدِ الله (عَلَيهِ السَّلام) قَالَ قَالَ رَسُولُ الله (صَلَّى اللهُ عَلَيْهِ وآلِه) الصَّلاةُ عَلَيَّ وَعَلَى أَهْلِ بَيْتِي تَذْهَبُ بِالنِّفَاقِ‏.",
+"en": "“The Messenger of Allah (sw) has said, ‘Sending blessings upon me and my family removes hypocrisy.’”",
+"gu": "રસૂલે ખુદા (સ.અ.વ.) એ ફરમાવ્યું: મારા પર અને મારી આલ પર સલવાત મોકલવી નિફાક (દંભ)ને દૂર કરે છે.",
+"ur": "رسول خدا صلی اللہ علیہ وآلہ نے فرمایا: مجھ پر اور میری آل پر درود بھیجنا نفاق کو دور کرتا ہے۔",
+"hi": "रसूल-ए-ख़ुदा (स.अ.व.) ने फ़रमाया: मुझ पर और मेरी आल पर सलवात भेजना निफ़ाक़ (दिखावे) को दूर करता है।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Hasan",
+"ar": "حسن كالصحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (12/98)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/2/20/8",
+"tafsir": false,
+"by": "",
+"topic": "dua"
+},
+{
+"id": "d-alkhisalsaduq-31",
+"ref": "Al-Khiṣāl · Part 1: On One-Numbered Characteristics · Ch. “A Characteristic that Destroys a Believer’s Dignity” · Hadith 1",
+"book": "Al-Khiṣāl",
+"ar": "30 حدثنا محمد بن علي ماجيلويه رضي الله عنه قال: حدثني محمد بن يحيى العطار، عن محمد بن أحمد بن يحيى بن عمران الاشعري، عن محمد بن عيسى بن عبيد، عن عبيد الله بن عبد الله الدهقان، عن درست بن أبي منصور الواسطي، عن إبراهيم ابن عبدالحميد، عن أبي الحسن عليه السلام قال: سرعة المشي تذهب ببهاء المؤمن",
+"en": "“Walking in a rush will destroy a believer’s dignity.”",
+"gu": "ઉતાવળથી ચાલવું મોઅમિનની ગરિમા (વકાર)ને ખતમ કરે છે.",
+"ur": "جلدی جلدی چلنا مومن کے وقار کو ختم کر دیتا ہے۔",
+"hi": "जल्दबाज़ी में चलना मोमिन के वक़ार को ख़त्म कर देता है।",
+"grade": [
+{
+"by": "Hadi al-Najafi",
+"en": "Mu'tabar",
+"ar": "معتبرة الإسناد",
+"ref": "Mawsūʿat Aḥādīth Ahl al-Bayt (5/106)"
+}
+],
+"tr": "Dr. Ali Peiravi",
+"url": "https://thaqalayn.com/hadith/10/2/24/1",
+"tafsir": false,
+"by": "kadhim",
+"topic": "khisal"
+},
+{
+"id": "d-nahjalbalagharadi-2064",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Contentment as inexhaustible wealth” · Hadith 606",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): الْقَنَاعَةُ مَالٌ لَا يَنْفَدُ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: Contentment is a wealth that does not exhaust.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: સંતોષ એવી દોલત છે જે કદી ખૂટતી નથી.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: قناعت ایسا مال ہے جو کبھی ختم نہیں ہوتا۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: क़नाअत (संतोष) ऐसी दौलत है जो कभी ख़त्म नहीं होती।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/475/606",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-alkafivolume2kulayni-1181",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “Those Whose Evil Is Feared” · Hadith 3",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "عَنْهُ عَنْ مُحَمَّدِ بْنِ عِيسَى بْنِ عُبَيْدٍ عَنْ يُونُسَ عَنْ عَبْدِ الله بْنِ سِنَانٍ قَالَ قَالَ أَبُو عَبْدِ الله (عَلَيهِ السَّلام) مَنْ خَافَ النَّاسُ لِسَانَهُ فَهُوَ فِي النَّارِ.",
+"en": "“Abu ‘Abd Allah (a.s.) has said, ‘Whoever is feared because of his foul language will be in the fire.’”",
+"gu": "ઇમામ જઅફર સાદિક (અ.સ.) એ ફરમાવ્યું: જેની ગંદી જબાનના કારણે લોકો તેનાથી ડરે, તે આગમાં હશે.",
+"ur": "امام جعفر صادق علیہ السلام نے فرمایا: جس کی بدزبانی کی وجہ سے لوگ اس سے ڈریں، وہ آگ میں ہو گا۔",
+"hi": "इमाम जाफ़र सादिक़ (अ.स.) ने फ़रमाया: जिसकी बदज़बानी की वजह से लोग उससे डरें, वह आग में होगा।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (10/282)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/132/3",
+"tafsir": false,
+"by": "",
+"topic": "akhlaq"
+},
+{
+"id": "d-nahjalbalagharadi-1977",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Divine Favors Amidst Disobedience” · Hadith 28",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): يَابْنَ آدَمَ، إِذَا رَأَيْتَ رَبَّكَ سُبْحَانَهُ يُتَابِعُ عَلَيْكَ نِعَمَهُ وَأَنْتَ تَعْصِيهِ فَاحْذَرْهُ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: O son of Adam, when you see that your Lord, the Glorified, bestows His favours on you while you are disobeying Him, you should fear Him.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: હે આદમના દીકરા! જ્યારે તું જુએ કે તારો રબ તારા પર નેઅમતો વરસાવે છે અને તું તેની નાફરમાની કરે છે, તો તેનાથી ડર.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: اے فرزند آدم! جب تو دیکھے کہ تیرا رب تجھ پر نعمتیں برساتا ہے اور تو اس کی نافرمانی کر رہا ہے، تو اس سے ڈر۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: ऐ आदम के बेटे! जब तू देखे कि तेरा रब तुझ पर नेमतें बरसा रहा है और तू उसकी नाफ़रमानी कर रहा है, तो उससे डर।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/25/28",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-mujamalahadithalmutabaramuhsini-515",
+"ref": "Muʿjam al-Aḥādīth al-Muʿtabara · The Book of the Glorious Quran · Ch. “The Merits of the Qur’an” · Hadith 4",
+"book": "Muʿjam al-Aḥādīth al-Muʿtabara",
+"ar": "[1544/4] الكافي: عدة من أصحابنا، عن أحمد بن محمد وسهل بن زياد، جميعا، عن ابن محبوب عن جميل بن صالح، عن الفضيل بن يسار، عن أبي عبدالله عليه السلام قال: الحافظ للقرآن العامل به مع السفرة الكرام البررة",
+"en": "The one who has memorized the Qur’an and acts upon it is with the Honourable and Virtuous Scribes",
+"gu": "જેણે કુરઆન યાદ કર્યું અને તેના પર અમલ કરે છે, તે બુઝુર્ગ અને નેક ફરિશ્તા-લેખકો સાથે છે.",
+"ur": "جس نے قرآن حفظ کیا اور اس پر عمل کرتا ہے، وہ معزز اور نیک فرشتہ کاتبوں کے ساتھ ہے۔",
+"hi": "जिसने क़ुरआन याद किया और उस पर अमल करता है, वह मुअज़्ज़ज़ और नेक फ़रिश्ता-कातिबों के साथ है।",
+"grade": [
+{
+"by": "Asif al-Mohseni",
+"en": "Mu'tabar",
+"ar": "معتبر",
+"ref": "Muʿjam al-Aḥādīth al-Muʿtabara"
+}
+],
+"tr": "Ammaar Muslim",
+"url": "https://thaqalayn.com/hadith/9/5/1/4",
+"tafsir": false,
+"by": "",
+"topic": "quran"
+},
+{
+"id": "d-alkafivolume2kulayni-1443",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “The Feeble-minded People” · Hadith 7",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ مُحَمَّدِ بْنِ عِيسَى عَنْ يُونُسَ عَنِ ابْنِ مُسْكَانَ عَنْ أَبِي بَصِيرٍ قَالَ قَالَ أَبُو عَبْدِ الله (عَلَيهِ السَّلام) مَنْ عَرَفَ اخْتِلافَ النَّاسِ فَلَيْسَ بِمُسْتَضْعَفٍ.",
+"en": "“Abu ‘Abd Allah (a.s.) has said, ‘Whoever knows the differences among people is not a feeble-minded person.’”",
+"gu": "ઇમામ જઅફર સાદિક (અ.સ.) એ ફરમાવ્યું: જે લોકો વચ્ચેના ફરક ઓળખે છે, તે નબળી સમજવાળો નથી.",
+"ur": "امام جعفر صادق علیہ السلام نے فرمایا: جو لوگوں کے درمیان فرق پہچانتا ہے وہ کم عقل نہیں۔",
+"hi": "इमाम जाफ़र सादिक़ (अ.स.) ने फ़रमाया: जो लोगों के बीच फ़र्क़ पहचानता है, वह कम-अक़्ल नहीं।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (11/212)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/172/7",
+"tafsir": false,
+"by": "",
+"topic": "akhlaq"
+},
+{
+"id": "d-alkafivolume2kulayni-2168",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Social Manners · Ch. “Finding Love and Affection among People” · Hadith 1",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ وَعَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ جَمِيعاً عَنِ ابْنِ مَحْبُوبٍ عَنْ هِشَامِ بْنِ سَالِمٍ عَنْ أَبِي بَصِيرٍ عَنْ أَبِي جَعْفَرٍ (عَلَيهِ السَّلام) قَالَ إِنَّ أَعْرَابِيّاً مِنْ بَنِي تَمِيمٍ أَتَى النَّبِيَّ (صَلَّى اللهُ عَلَيْهِ وآلِه) فَقَالَ لَهُ أَوْصِنِي فَكَانَ مِمَّا أَوْصَاهُ تَحَبَّبْ إِلَى النَّاسِ يُحِبُّوكَ.",
+"en": "“Once an Arab man came to the Holy Prophet and said, ‘Instinct me with good advice.’ Of the good advice to him was: ‘Love people, they will love you.’”",
+"gu": "એક અરબ માણસ નબી (સ.અ.વ.) પાસે આવ્યો અને કહ્યું: મને સારી નસીહત આપો. તેમાંની એક નસીહત હતી: લોકોને પ્રેમ કરો, લોકો તમને પ્રેમ કરશે.",
+"ur": "ایک عرب شخص نبی صلی اللہ علیہ وآلہ کے پاس آیا اور کہا: مجھے اچھی نصیحت فرمائیے۔ ان نصیحتوں میں سے ایک یہ تھی: لوگوں سے محبت کرو، وہ تم سے محبت کریں گے۔",
+"hi": "एक अरब आदमी नबी (स.अ.व.) के पास आया और कहा: मुझे अच्छी नसीहत दीजिए। उनमें से एक नसीहत यह थी: लोगों से मुहब्बत करो, वे तुमसे मुहब्बत करेंगे।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (12/537)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/4/5/1",
+"tafsir": false,
+"by": "",
+"topic": "manners"
+},
+{
+"id": "d-alkafivolume1kulayni-950",
+"ref": "Al-Kāfi, Vol. 1 · The Book about people with Divine Authority · Ch. “The rise of al-Mahdi with Divine Authority earlier or later will not affect one who has learned who his Imam is” · Hadith 1",
+"book": "Al-Kāfi, Vol. 1",
+"ar": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنْ حَمَّادِ بْنِ عِيسَى عَنْ حَرِيزٍ عَنْ زُرَارَةَ قَالَ قَالَ أَبُو عَبْدِ الله (عَلَيْهِ السَّلام) اعْرِفْ إِمَامَكَ فَإِنَّكَ إِذَا عَرَفْتَ لَمْ يَضُرَّكَ تَقَدَّمَ هَذَا الامْرُ أَوْ تَأَخَّرَ.",
+"en": "“Abu ‘Abdallah (a.s.) has said, ‘Learn who your Imam is. When you learn who he is then it will have no affect on you whether this matter (the rise of al-Mahdi with Divine Authority) will take place earlier or later.”",
+"gu": "ઇમામ જઅફર સાદિક (અ.સ.) એ ફરમાવ્યું: તમારા ઇમામને ઓળખો. જ્યારે તમે તેમને ઓળખી લેશો, ત્યારે આ અમ્ર (મહદી (અ.)નો કિયામ) વહેલો થાય કે મોડો — તમને નુકસાન નહીં થાય.",
+"ur": "امام جعفر صادق علیہ السلام نے فرمایا: اپنے امام کو پہچانو۔ جب تم انہیں پہچان لو گے تو یہ امر (امام مہدیؑ کا قیام) جلد ہو یا دیر سے، تمہیں کوئی نقصان نہیں پہنچائے گا۔",
+"hi": "इमाम जाफ़र सादिक़ (अ.स.) ने फ़रमाया: अपने इमाम को पहचानो। जब तुम उन्हें पहचान लोगे, तो यह अम्र (इमाम महदी (अ.) का क़याम) जल्दी हो या देर से — तुम्हें कोई नुक़सान नहीं होगा।",
+"grade": [
+{
+"by": "al-Behbudi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Sahih al-Kafi (1/42)"
+},
+{
+"by": "al-Majlisi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (4/184)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/4/84/1",
+"tafsir": false,
+"by": "",
+"topic": "imamat"
+},
+{
+"id": "d-alkhisalsaduq-635",
+"ref": "Al-Khiṣāl · Part 4: On Four-Numbered Characteristics · Ch. “Four of the Characteristics of the Prophets” · Hadith 1",
+"book": "Al-Khiṣāl",
+"ar": "12 1 حدثنا أبي رضي الله عنه قال: حدثنا سعد بن عبد الله، عن أحمد بن محمد ابن عيسى، عن الحسن بن محبوب، عن أبان، عن الحلبي، عن أبي عبد الله عليه السلام قال: إن الصبر والبر والحلم وحسن الخلق من أخلاق الانبياء",
+"en": "“Indeed perseverance, kindness, patience and being good-tempered are of the characteristics of the Prophets.”",
+"gu": "ખરેખર સહનશીલતા, નરમી, સબ્ર અને સારો સ્વભાવ નબીઓના ગુણોમાંથી છે.",
+"ur": "یقیناً بردباری، نرمی، صبر اور خوش اخلاقی انبیاء کی صفات میں سے ہیں۔",
+"hi": "यक़ीनन सहनशीलता, नरमी, सब्र और ख़ुश-अख़लाक़ी नबियों की सिफ़ात में से हैं।",
+"grade": [
+{
+"by": "Hadi al-Najafi",
+"en": "Sahih",
+"ar": "صحيحة الإسناد",
+"ref": "Mawsūʿat Aḥādīth Ahl al-Bayt (10/394)"
+}
+],
+"tr": "Dr. Ali Peiravi",
+"url": "https://thaqalayn.com/hadith/10/5/97/1",
+"tafsir": false,
+"by": "",
+"topic": "khisal"
+},
+{
+"id": "d-nahjalbalagharadi-2157",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Divine rights in blessings and their consequences” · Hadith 295",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): إِنَّ لله فِي كُلِّ نِعْمَةٍ حَقّاً، فَمَنْ أَدَّاهُ زَادَهُ مِنْهَا، وَمَنْ قَصَّرَ مِنْهُ خَاطَرَ بِزَوَالِ نِعْمَتِهِ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: Surely in every blessing there is a right of Allāh. If one discharges that right Allāh increases the blessing, and if one falls short of doing so one stands in danger of losing the blessing.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: દરેક નેઅમતમાં અલ્લાહનો હક છે. જે એ હક અદા કરે, અલ્લાહ નેઅમત વધારે છે; અને જે તેમાં કસર કરે, તે નેઅમત ગુમાવવાના જોખમમાં છે.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: ہر نعمت میں اللہ کا حق ہے۔ جو وہ حق ادا کرے اللہ نعمت بڑھا دیتا ہے، اور جو کوتاہی کرے وہ نعمت کھو دینے کے خطرے میں ہے۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: हर नेमत में अल्लाह का हक़ है। जो वह हक़ अदा करे, अल्लाह नेमत बढ़ा देता है; और जो कोताही करे, वह नेमत खो देने के ख़तरे में है।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/244/295",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-alkafivolume2kulayni-214",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “Balanced and Continuous Good Deeds” · Hadith 2",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنْ حَمَّادِ بْنِ عِيسَى عَنْ حَرِيزٍ عَنْ زُرَارَةَ عَنْ أَبِي جَعْفَرٍ (عَلَيهِ السَّلام) قَالَ قَالَ أَحَبُّ الأعْمَالِ إِلَى الله عَزَّ وَجَلَّ مَا دَاوَمَ عَلَيْهِ الْعَبْدُ وَإِنْ قَلَ‏.",
+"en": "“Abu Ja’far (a.s.) has said, ‘The most beloved deed in the sight of Allah, the Most Majestic, the Most Holy, is that which is continued even though it is very little.’”",
+"gu": "ઇમામ મોહમ્મદ બાકિર (અ.સ.) એ ફરમાવ્યું: અલ્લાહની નજરમાં સૌથી પ્યારો અમલ એ છે જે સતત થતો રહે, ભલે થોડો હોય.",
+"ur": "امام محمد باقر علیہ السلام نے فرمایا: اللہ کے نزدیک سب سے پسندیدہ عمل وہ ہے جو مسلسل ہو، چاہے تھوڑا ہی ہو۔",
+"hi": "इमाम मुहम्मद बाक़िर (अ.स.) ने फ़रमाया: अल्लाह की नज़र में सबसे प्यारा अमल वह है जो लगातार होता रहे, चाहे थोड़ा ही हो।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Hasan",
+"ar": "حسن كالصحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (8/80)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/41/2",
+"tafsir": false,
+"by": "",
+"topic": "akhlaq"
+},
+{
+"id": "d-alkafivolume2kulayni-865",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “A Believer’s Signs and Qualities” · Hadith 37",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى عَنِ ابْنِ فَضَّالٍ عَنِ ابْنِ بُكَيْرٍ عَنْ زُرَارَةَ عَنْ أَبِي جَعْفَرٍ (عَلَيهِ السَّلام) قَالَ الْمُؤْمِنُ أَصْلَبُ مِنَ الْجَبَلِ الْجَبَلُ يُسْتَقَلُّ مِنْهُ وَالْمُؤْمِنُ لا يُسْتَقَلُّ مِنْ دِينِهِ شَيْ‏ءٌ.",
+"en": "“A believer is stronger than a mountain. A mountain loses its parts but no loss takes place in the religion of a believer.”",
+"gu": "મોઅમિન પહાડ કરતાં વધુ મજબૂત છે. પહાડના ટુકડા ઘટે છે, પણ મોઅમિનના દીનમાં કંઈ ઘટતું નથી.",
+"ur": "مومن پہاڑ سے زیادہ مضبوط ہے۔ پہاڑ کے حصے کم ہو جاتے ہیں مگر مومن کے دین میں کوئی کمی نہیں آتی۔",
+"hi": "मोमिन पहाड़ से ज़्यादा मज़बूत है। पहाड़ के हिस्से घट जाते हैं, मगर मोमिन के दीन में कोई कमी नहीं आती।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Muwaththaq",
+"ar": "موثق",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (9/281)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/99/37",
+"tafsir": false,
+"by": "baqir",
+"topic": "akhlaq"
+},
+{
+"id": "d-alkafivolume5kulayni-181",
+"ref": "Al-Kāfi, Vol. 5 · The Book of Commerce · Ch. “Using the Worldly Resources as Means for Success in the Hereafter” · Hadith 9",
+"book": "Al-Kāfi, Vol. 5",
+"ar": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنْ صَفْوَانَ بْنِ يَحْيَى عَنْ ذَرِيحٍ الْمُحَارِبِيِّ عَنْ أَبِي عَبْدِ اللهِ (عَلَيْهِ السَّلام) قَالَ نِعْمَ الْعَوْنُ عَلَى الآخِرَةِ الدُّنْيَا.",
+"en": "“Abu ‘Abd Allah (a.s.), has said that the worldly resources are best means to overcome the difficulties of the next life.”",
+"gu": "ઇમામ જઅફર સાદિક (અ.સ.) એ ફરમાવ્યું: દુનિયાના સાધનો આખિરતની મુશ્કેલીઓ પાર કરવાનું શ્રેષ્ઠ સાધન છે.",
+"ur": "امام جعفر صادق علیہ السلام نے فرمایا: دنیا کے وسائل آخرت کی مشکلات پر قابو پانے کا بہترین ذریعہ ہیں۔",
+"hi": "इमाम जाफ़र सादिक़ (अ.स.) ने फ़रमाया: दुनिया के साधन आख़िरत की मुश्किलों को पार करने का सबसे अच्छा ज़रिया हैं।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Hasan",
+"ar": "حسن",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (19/15)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/2/3/9",
+"tafsir": false,
+"by": "",
+"topic": "business"
+},
+{
+"id": "d-nahjalbalagharadi-1901",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Contentment as the greatest wealth” · Hadith 419",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): الْغِنَى الْأَكْبَرُ الْيَأْسُ عَمَّا فِي أَيْدِى النَّاسِ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: The biggest wealth is that one should not have an eye on what others possess.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: સૌથી મોટી દોલત એ છે કે બીજાની પાસે જે છે તેના પર નજર ન રાખવી.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: سب سے بڑی دولت یہ ہے کہ دوسروں کے پاس جو ہے اس پر نظر نہ رکھی جائے۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: सबसे बड़ी दौलत यह है कि दूसरों के पास जो है उस पर नज़र न रखी जाए।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/342/419",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-nahjalbalagharadi-1798",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Ignoring pain for lasting happiness” · Hadith 261",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): أَغْضِ عَلَى الْقَذَى وَالْأَلَمِ تَرْضَ أَبَداً.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: Ignore pain otherwise you will never be happy.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: દુઃખને નજરઅંદાજ કરો, નહીં તો તમે કદી ખુશ નહીં રહો.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: تکلیف کو نظر انداز کرو، ورنہ تم کبھی خوش نہیں رہو گے۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: तकलीफ़ को नज़रअंदाज़ करो, वरना तुम कभी ख़ुश नहीं रहोगे।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/213/261",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-alkafivolume2kulayni-488",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “Promptness in Good Deeds” · Hadith 3",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "عَنْهُ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ مُرَازِمِ بْنِ حَكِيمٍ عَنْ أَبِي عَبْدِ الله (عَلَيهِ السَّلام) قَالَ كَانَ أَبِي يَقُولُ إِذَا هَمَمْتَ بِخَيْرٍ فَبَادِرْ فَإِنَّكَ لا تَدْرِي مَا يَحْدُثُ.",
+"en": "“My father (a.s.) would say, ‘When you intend to perform a good deed, do not delay; you may not know what happens next.’”",
+"gu": "મારા વાલિદ (અ.સ.) ફરમાવતા: જ્યારે કોઈ નેક કામનો ઇરાદો કરો તો મોડું ન કરો; તમને ખબર નથી કે પછી શું થશે.",
+"ur": "میرے والد علیہ السلام فرمایا کرتے تھے: جب کسی نیک کام کا ارادہ کرو تو دیر نہ کرو؛ تمہیں معلوم نہیں آگے کیا ہو گا۔",
+"hi": "मेरे वालिद (अ.स.) फ़रमाया करते थे: जब किसी नेक काम का इरादा करो तो देर न करो; तुम्हें नहीं पता आगे क्या होगा।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (8/334)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/65/3",
+"tafsir": false,
+"by": "",
+"topic": "akhlaq"
+},
+{
+"id": "d-alkafivolume2kulayni-750",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “To Show Kindness to and Honor a Believer” · Hadith 3",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "عَنْهُ عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى عَنْ يُونُسَ عَنْ عَبْدِ الله بْنِ سِنَانٍ عَنْ أَبِي عَبْدِ الله (عَلَيهِ السَّلام) قَالَ مَنْ أَتَاهُ أَخُوهُ الْمُسْلِمُ فَأَكْرَمَهُ فَإِنَّمَا أَكْرَمَ الله عَزَّ وَجَلَّ.",
+"en": "“One who honors his Muslim brother (in belief) who has come to him, in fact, has revered Allah, the Most Majestic, the Most Holy.”",
+"gu": "જે પોતાની પાસે આવેલા મુસ્લિમ ભાઈનું સન્માન કરે છે, તેણે હકીકતમાં અલ્લાહની તાઝીમ કરી.",
+"ur": "جو اپنے پاس آئے ہوئے مسلمان بھائی کی عزت کرتا ہے، اس نے درحقیقت اللہ کی تعظیم کی۔",
+"hi": "जो अपने पास आए मुसलमान भाई की इज़्ज़त करता है, उसने हक़ीक़त में अल्लाह की ताज़ीम की।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (9/137)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/88/3",
+"tafsir": false,
+"by": "",
+"topic": "akhlaq"
+},
+{
+"id": "d-mujamalahadithalmutabaramuhsini-71",
+"ref": "Muʿjam al-Aḥādīth al-Muʿtabara · Book of Intellect and Knowledge · Ch. “Prohibition on Debate and Argumentation” · Hadith 2",
+"book": "Muʿjam al-Aḥādīth al-Muʿtabara",
+"ar": "[2/67] امالى الصدوق: عن ابن المتوكل، عن الحميري، عن ابن عيسى، عن ابن محبوب، عن عنبسة العابد، عن أبي عبد الله الصادق عليه السلام قال: إياكم والخصومة في الدين فإنها تشغل القلب عن ذكر الله عز وجل وتورث النفاق وتكسب الضغائن وتستجير الكذب",
+"en": "beware of argumentation in the religion for it diverts the heart from the remembrance of Allāh Mighty and Majestic, leads to hypocrisy, brings about rancour and justifies borrowing lies (to win).",
+"gu": "દીનમાં ઝઘડાળુ દલીલબાજીથી બચો, કારણ કે તે દિલને અલ્લાહની યાદથી ફેરવી દે છે, નિફાક પેદા કરે છે, કીનો લાવે છે અને (જીતવા) જૂઠને જાયઝ બનાવે છે.",
+"ur": "دین میں جھگڑے والی بحث سے بچو، کیونکہ یہ دل کو اللہ کی یاد سے پھیر دیتی ہے، نفاق پیدا کرتی ہے، کینہ لاتی ہے اور (جیتنے کے لیے) جھوٹ کو روا کر دیتی ہے۔",
+"hi": "दीन में झगड़े वाली बहस से बचो, क्योंकि यह दिल को अल्लाह की याद से फेर देती है, निफ़ाक़ पैदा करती है, कीना लाती है और (जीतने के लिए) झूठ को जायज़ बना देती है।",
+"grade": [
+{
+"by": "Asif al-Mohseni",
+"en": "Mu'tabar",
+"ar": "معتبر",
+"ref": "Muʿjam al-Aḥādīth al-Muʿtabara"
+}
+],
+"tr": "Ammaar Muslim",
+"url": "https://thaqalayn.com/hadith/9/1/14/2",
+"tafsir": false,
+"by": "sadiq",
+"topic": "knowledge"
+},
+{
+"id": "d-alkafivolume2kulayni-1742",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Supplication · Ch. “Speaking of Allah, the Most Majestic, the Most Holy, Very Often” · Hadith 2",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "حُمَيْدُ بْنُ زِيَادٍ عَنِ ابْنِ سَمَاعَةَ عَنْ وُهَيْبِ بْنِ حَفْصٍ عَنْ أَبِي بَصِيرٍ عَنْ أَبِي عَبْدِ الله (عَلَيهِ السَّلام) قَالَ شِيعَتُنَا الَّذِينَ إِذَا خَلَوْا ذَكَرُوا الله كَثِيراً.",
+"en": "“Abu ‘Abd Allah (a.s.) has said, ‘Our Shi’a (followers) are those who when alone speak of Allah very often.’”",
+"gu": "ઇમામ જઅફર સાદિક (અ.સ.) એ ફરમાવ્યું: અમારા શિયા એ છે જે એકાંતમાં અલ્લાહને ખૂબ યાદ કરે છે.",
+"ur": "امام جعفر صادق علیہ السلام نے فرمایا: ہمارے شیعہ وہ ہیں جو تنہائی میں اللہ کو بہت یاد کرتے ہیں۔",
+"hi": "इमाम जाफ़र सादिक़ (अ.स.) ने फ़रमाया: हमारे शिया वे हैं जो तन्हाई में अल्लाह को बहुत याद करते हैं।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Muwaththaq",
+"ar": "موثق",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (2/134)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/2/22/2",
+"tafsir": false,
+"by": "",
+"topic": "dua"
+},
+{
+"id": "d-nahjalbalagharadi-1750",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Amīr al-mu’minīn's wisdom on knowledge and virtue” · Hadith 183",
+"book": "Nahj al-Balāgha",
+"ar": "يَا كُمَيْلَ بْنَ زِيَادٍ مَعْرِفَةُ الْعِلْمِ دِينٌ يُدَانُ بِهِ بِهِ يَكْسِبُ الْإِنْسَانُ الطَّاعَةَ فِى حَيَاتِهِ وَجَمِيلَ الْأُحْدُوثَةِ بَعْدَ وَفَاتِهِ وَ الْعِلْمُ حَاكِمٌ وَالْمَالُ مَحْكُومٌ عَلَيْهِ.",
+"en": "O Kumayl, knowledge is belief which is acted upon. With it man acquires obedience during his life and a good name after his death. Knowledge is the ruler while wealth is ruled upon.",
+"gu": "હે કુમૈલ! ઇલ્મ એવું ઈમાન છે જેના પર અમલ થાય. તેનાથી માણસ જીવનમાં ફરમાંબરદારી અને મૃત્યુ પછી સારું નામ મેળવે છે. ઇલ્મ હાકિમ છે અને માલ તેનો તાબેદાર છે.",
+"ur": "اے کمیل! علم ایسا ایمان ہے جس پر عمل کیا جائے۔ اس سے انسان زندگی میں اطاعت اور موت کے بعد نیک نامی پاتا ہے۔ علم حاکم ہے اور مال محکوم۔",
+"hi": "ऐ कुमैल! इल्म ऐसा ईमान है जिस पर अमल किया जाए। उससे इंसान ज़िंदगी में फ़रमाँबरदारी और मौत के बाद नेकनामी पाता है। इल्म हाकिम है और माल उसके तहत।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/147/183",
+"tafsir": false,
+"by": "ali",
+"topic": "nahj"
+},
+{
+"id": "d-nahjalbalagharadi-1993",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Wisdom in speech versus foolish impulsivity” · Hadith 51",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام) : لِسَانُ الْعَاقِلِ وَرَاءَ قَلْبِهِ، وَقَلْبُ الْأَحْمَقِ وَرَاءَ لِسَانِهِ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: The tongue of the wise man is behind his heart, and the heart of the fool is behind his tongue.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: અક્કલમંદની જબાન તેના દિલની પાછળ હોય છે, અને મૂર્ખનું દિલ તેની જબાનની પાછળ હોય છે.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: عقلمند کی زبان اس کے دل کے پیچھے ہوتی ہے اور بے وقوف کا دل اس کی زبان کے پیچھے۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: अक़्लमंद की ज़बान उसके दिल के पीछे होती है, और बेवक़ूफ़ का दिल उसकी ज़बान के पीछे।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/40/51",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-alkafivolume2kulayni-311",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “Excellence in Moral Behaviors” · Hadith 16",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ حَبِيبٍ الْخَثْعَمِيِّ عَنْ أَبِي عَبْدِ الله (عَلَيهِ السَّلام) قَالَ قَالَ رَسُولُ الله (صَلَّى اللهُ عَلَيْهِ وآلِه) أَفَاضِلُكُمْ أَحْسَنُكُمْ أَخْلاقاً الْمُوَطَّئُونَ أَكْنَافاً الَّذِينَ يَأْلَفُونَ وَيُؤْلَفُونَ وَتُوَطَّأُ رِحَالُهُمْ.",
+"en": "“The Messenger of Allah has said, ‘The meritorious ones among you are those who possess excellent moral behavior, who are easy to associate with, associate others with ease and comfort others.’”",
+"gu": "રસૂલે ખુદા (સ.અ.વ.) એ ફરમાવ્યું: તમારામાં શ્રેષ્ઠ એ છે જેમના અખ્લાક ઉત્તમ છે, જેમની સાથે રહેવું સહેલું છે, જે બીજા સાથે સહેલાઈથી હળીમળે અને બીજાને આરામ આપે.",
+"ur": "رسول خدا صلی اللہ علیہ وآلہ نے فرمایا: تم میں بہترین وہ ہیں جن کے اخلاق اچھے ہیں، جن کے ساتھ رہنا آسان ہے، جو دوسروں سے آسانی سے گھل مل جاتے ہیں اور دوسروں کو آرام پہنچاتے ہیں۔",
+"hi": "रसूल-ए-ख़ुदा (स.अ.व.) ने फ़रमाया: तुममें सबसे बेहतर वे हैं जिनके अख़लाक़ अच्छे हैं, जिनके साथ रहना आसान है, जो दूसरों से आसानी से घुल-मिल जाते हैं और दूसरों को आराम पहुँचाते हैं।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Hasan",
+"ar": "حسن كالصحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (8/174)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/49/16",
+"tafsir": true,
+"by": "",
+"topic": "akhlaq"
+},
+{
+"id": "d-alkafivolume2kulayni-300",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “Excellence in Moral Behaviors” · Hadith 5",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "أَبُو عَلِيٍّ الأشْعَرِيُّ عَنْ مُحَمَّدِ بْنِ عَبْدِ الْجَبَّارِ عَنْ صَفْوَانَ عَنْ ذَرِيحٍ عَنْ أَبِي عَبْدِ الله (عَلَيهِ السَّلام) قَالَ قَالَ رَسُولُ الله (صَلَّى اللهُ عَلَيْهِ وآلِه) إِنَّ صَاحِبَ الْخُلُقِ الْحَسَنِ لَهُ مِثْلُ أَجْرِ الصَّائِمِ الْقَائِمِ.",
+"en": "“The Messenger of Allah has said, ‘The reward for one who possesses excellent moral behavior is equal to the reward for one who worships all nights and fasts all days.”’",
+"gu": "રસૂલે ખુદા (સ.અ.વ.) એ ફરમાવ્યું: સારા અખ્લાકવાળાનો સવાબ એ માણસ જેટલો છે જે આખી રાત ઇબાદત કરે અને રોજ રોઝા રાખે.",
+"ur": "رسول خدا صلی اللہ علیہ وآلہ نے فرمایا: اچھے اخلاق والے کا اجر اس شخص کے برابر ہے جو ساری رات عبادت کرے اور ہمیشہ روزہ رکھے۔",
+"hi": "रसूल-ए-ख़ुदा (स.अ.व.) ने फ़रमाया: अच्छे अख़लाक़ वाले का सवाब उस आदमी के बराबर है जो सारी रात इबादत करे और हमेशा रोज़ा रखे।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (8/168)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/49/5",
+"tafsir": true,
+"by": "",
+"topic": "akhlaq"
+},
+{
+"id": "d-alkhisalsaduq-712",
+"ref": "Al-Khiṣāl · Part 5: On Five-Numbered Characteristics · Ch. “The Perfection of a Muslim’s Faith Can Be Recognized By Five Things” · Hadith 1",
+"book": "Al-Khiṣāl",
+"ar": "51 حدثنا محمد بن موسى بن المتوكل رضي الله عنه قال: حدثنا عبد الله بن جعفر الحميري، عن أحمد بن محمد بن عيسى، عن الحسن بن محبوب، عن أبي ولاد [الحناط]، عن أبي عبد الله عليه السلام قال: كان علي بن الحسين عليهما السلام يقول: إن المعرفة بكمال دين المسلم تركه الكلام فيما لا يعنيه، وقلة المراء وحلمه وصبره وحسن خلقه",
+"en": "“Indeed the perfection of a Muslim’s faith can be recognized by the following five things: not saying absurd things; quarrelling rarely; having perseverance; being patient and being good-tempered.”",
+"gu": "મુસ્લિમના ઈમાનની સંપૂર્ણતા આ પાંચ વાતોથી ઓળખાય છે: નકામી વાત ન કરવી; ઓછો ઝઘડો; સહનશીલતા; સબ્ર; અને સારો સ્વભાવ.",
+"ur": "مسلمان کے ایمان کا کمال ان پانچ باتوں سے پہچانا جاتا ہے: فضول بات نہ کرنا؛ کم جھگڑنا؛ بردباری؛ صبر؛ اور خوش اخلاقی۔",
+"hi": "मुसलमान के ईमान का कमाल इन पाँच बातों से पहचाना जाता है: फ़ुज़ूल बात न करना; कम झगड़ना; सहनशीलता; सब्र; और ख़ुश-अख़लाक़ी।",
+"grade": [
+{
+"by": "Asif al-Mohseni",
+"en": "Mu'tabar",
+"ar": "معتبر",
+"ref": "Muʿjam al-Aḥādīth al-Muʿtabara"
+},
+{
+"by": "Hadi al-Najafi",
+"en": "Mu'tabar",
+"ar": "معتبرة الإسناد",
+"ref": "Mawsūʿat Aḥādīth Ahl al-Bayt (10/194)"
+}
+],
+"tr": "Dr. Ali Peiravi",
+"url": "https://thaqalayn.com/hadith/10/6/44/1",
+"tafsir": false,
+"by": "sajjad",
+"topic": "khisal"
+},
+{
+"id": "d-alkafivolume2kulayni-1300",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “Rebuking People” · Hadith 2",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "عَنْهُ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ إِسْمَاعِيلَ بْنِ عَمَّارٍ عَنْ إِسْحَاقَ بْنِ عَمَّارٍ عَنْ أَبِي عَبْدِ الله (عَلَيهِ السَّلام) قَالَ قَالَ رَسُولُ الله (صَلَّى اللهُ عَلَيْهِ وآلِه) مَنْ أَذَاعَ فَاحِشَةً كَانَ كَمُبْتَدِئِهَا وَمَنْ عَيَّرَ مُؤْمِناً بِشَيْ‏ءٍ لَمْ يَمُتْ حَتَّى يَرْكَبَهُ.",
+"en": "“The Messenger of Allah has said, ‘Whoever publicizes an indecent act is considered as the initiator of such deed and whoever rebukes a believer for a thing will not die before he himself commits such a thing.’”",
+"gu": "રસૂલે ખુદા (સ.અ.વ.) એ ફરમાવ્યું: જે કોઈ બુરી વાત ફેલાવે છે તે તેને કરનાર જેવો છે, અને જે કોઈ મોઅમિનને કોઈ વાત પર મહેણું મારે, તે પોતે એ કામ કર્યા વગર મરશે નહીં.",
+"ur": "رسول خدا صلی اللہ علیہ وآلہ نے فرمایا: جو کسی برائی کو پھیلاتا ہے وہ اسے کرنے والے کی طرح ہے، اور جو کسی مومن کو کسی بات پر طعنہ دے، وہ خود اسے کیے بغیر نہیں مرے گا۔",
+"hi": "रसूल-ए-ख़ुदा (स.अ.व.) ने फ़रमाया: जो किसी बुराई को फैलाता है वह उसे करने वाले जैसा है, और जो किसी मोमिन को किसी बात पर ताना दे, वह ख़ुद वह काम किए बिना नहीं मरेगा।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Hasan",
+"ar": "حسن موثق كالصحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (0/404)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/147/2",
+"tafsir": true,
+"by": "",
+"topic": "akhlaq"
+},
+{
+"id": "d-alkafivolume2kulayni-477",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “Contentment” · Hadith 9",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "عَنْهُ عَنِ ابْنِ فَضَّالٍ عَنْ عَاصِمِ بْنِ حُمَيْدٍ عَنْ أَبِي حَمْزَةَ عَنْ أَبِي جَعْفَرٍ أَوْ أَبِي عَبْدِ الله (عَلَيهِ السَّلام) قَالَ مَنْ قَنِعَ بِمَا رَزَقَهُ الله فَهُوَ مِنْ أَغْنَى النَّاسِ.",
+"en": "“Whoever is content with what Allah has given him for his sustenance is the richest person of the people.”",
+"gu": "જે અલ્લાહે આપેલી રોઝી પર રાજી છે, તે લોકોમાં સૌથી અમીર છે.",
+"ur": "جو اللہ کی دی ہوئی روزی پر راضی ہے، وہ لوگوں میں سب سے زیادہ غنی ہے۔",
+"hi": "जो अल्लाह की दी हुई रोज़ी पर राज़ी है, वह लोगों में सबसे ज़्यादा ग़नी (अमीर) है।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Muwaththaq",
+"ar": "موثق كالصحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (8/326)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/63/9",
+"tafsir": false,
+"by": "baqir",
+"topic": "akhlaq"
+},
+{
+"id": "d-alkafivolume8kulayni-310",
+"ref": "Al-Kāfi, Vol. 8 · The Book - Garden (of Flowers) · Ch. “Allah has given three qualities to a believer” · Hadith 1",
+"book": "Al-Kāfi, Vol. 8",
+"ar": "ابْنُ مَحْبُوبٍ عَنْ أَبِي أَيُّوبَ عَنْ عَبْدِ الْمُؤْمِنِ الْأَنْصَارِيِّ عَنْ أَبِي جَعْفَرٍ (عليه السلام) قَالَ إِنَّ اللَّهَ تَبَارَكَ وَ تَعَالَى أَعْطَى الْمُؤْمِنَ ثَلَاثَ خِصَالٍ الْعِزَّ فِي الدُّنْيَا وَ الْآخِرَةِ وَ الْفَلْجَ فِي الدُّنْيَا وَ الْآخِرَةِ وَ الْمَهَابَةَ فِي صُدُورِ الظَّالِمِينَ.",
+"en": "Abu Ja’far (asws) having said that: ‘Allah (azwj) has Granted three characteristics to the Believer – the honour in the world and the Hereafter, and the success in the world and the Hereafter, and the prestige in front of the unjust ones’.",
+"gu": "ઇમામ મોહમ્મદ બાકિર (અ.સ.) એ ફરમાવ્યું: અલ્લાહે મોઅમિનને ત્રણ ગુણ આપ્યા છે — દુનિયા અને આખિરતમાં ઇઝ્ઝત, દુનિયા અને આખિરતમાં કામયાબી, અને ઝાલિમો સામે રોબ.",
+"ur": "امام محمد باقر علیہ السلام نے فرمایا: اللہ نے مومن کو تین خصلتیں عطا کی ہیں — دنیا و آخرت میں عزت، دنیا و آخرت میں کامیابی، اور ظالموں کے سامنے رعب۔",
+"hi": "इमाम मुहम्मद बाक़िर (अ.स.) ने फ़रमाया: अल्लाह ने मोमिन को तीन ख़ूबियाँ दी हैं — दुनिया और आख़िरत में इज़्ज़त, दुनिया और आख़िरत में कामयाबी, और ज़ालिमों के सामने रोब।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Hasan",
+"ar": "حسن",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (16/177)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/310/1",
+"tafsir": false,
+"by": "",
+"topic": "rawda"
+},
+{
+"id": "d-alkafivolume1kulayni-102",
+"ref": "Al-Kāfi, Vol. 1 · The Book on Virtue of Knowledge · Ch. “Prohibition on Speaking without Knowledge” · Hadith 5",
+"book": "Al-Kāfi, Vol. 1",
+"ar": "مُحَمَّدُ بْنُ إِسْمَاعِيلَ عَنِ الْفَضْلِ بْنِ شَاذَانَ عَنْ حَمَّادِ بْنِ عِيسَى عَنْ رِبْعِيِّ بْنِ عَبْدِ الله عَنْ مُحَمَّدِ بْنِ مُسْلِمٍ عَنْ أَبِي عَبْدِ الله (عَلَيْهِ السَّلام) قَالَ لِلْعَالِمِ إِذَا سُئِلَ عَنْ شَيْ‏ءٍ وَهُوَ لا يَعْلَمُهُ أَنْ يَقُولَ الله أَعْلَمُ وَلَيْسَ لِغَيْرِ الْعَالِمِ أَنْ يَقُولَ ذَلِكَ.",
+"en": "“It is very proper for a scholar to say, ‘Allah knows best’ if he does not know. This is not for a none scholar.”",
+"gu": "આલિમ માટે એ બિલકુલ યોગ્ય છે કે જો તે ન જાણે તો કહે 'અલ્લાહ વધુ જાણે છે'. આ (ફત્વા આપવાનો હક) ગેર-આલિમ માટે નથી.",
+"ur": "عالم کے لیے بالکل مناسب ہے کہ اگر وہ نہ جانتا ہو تو کہے 'اللہ بہتر جانتا ہے'۔ یہ (حق) غیر عالم کے لیے نہیں۔",
+"hi": "आलिम के लिए बिल्कुल मुनासिब है कि अगर वह न जानता हो तो कहे 'अल्लाह बेहतर जानता है'। यह (हक़) ग़ैर-आलिम के लिए नहीं।",
+"grade": [
+{
+"by": "al-Behbudi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Sahih al-Kafi (5/ 1)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/2/11/5",
+"tafsir": false,
+"by": "",
+"topic": "knowledge"
+},
+{
+"id": "d-nahjalbalagharadi-2051",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “World created for purpose beyond itself” · Hadith 586",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): الدُّنْيَا خُلِقَتْ لِغَيْرِهَا، ولَمْ تُخْلَقْ لِنَفْسِهَا.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: This world has been created for other than itself and has not been created for itself.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: આ દુનિયા પોતાના માટે નહીં, બીજા (આખિરત) માટે બનાવવામાં આવી છે.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: یہ دنیا اپنے لیے نہیں بلکہ کسی اور (آخرت) کے لیے بنائی گئی ہے۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: यह दुनिया अपने लिए नहीं, बल्कि किसी और (आख़िरत) के लिए बनाई गई है।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/463/586",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-nahjalbalagharadi-2098",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Abandoning religion for worldly gain invites divine retribution” · Hadith 129",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): لَا يَتْرُكُ النَّاسُ شَيْئاً مِنْ أَمْرِ دِينِهِمْ لِاسْتِصْلَاحِ دُنْيَاهُمْ إِلَّا فَتَحَ اللَّهُ عَلَيْهِمْ مَا هُوَ أَضَرُّ مِنْهُ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: If people give up something relating to religion to set right their worldly affairs, Allah will inflict upon them something more harmful than that.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: જો લોકો દુનિયા સુધારવા દીનની કોઈ વાત છોડી દે, તો અલ્લાહ તેમના પર એનાથી પણ વધુ નુકસાનકારક વસ્તુ લાવે છે.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: اگر لوگ دنیا سنوارنے کے لیے دین کی کوئی بات چھوڑ دیں تو اللہ ان پر اس سے زیادہ نقصان دہ چیز ڈال دیتا ہے۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: अगर लोग दुनिया सँवारने के लिए दीन की कोई बात छोड़ दें, तो अल्लाह उन पर उससे भी ज़्यादा नुक़सानदेह चीज़ डाल देता है।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/106/129",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-alkafivolume2kulayni-1621",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Supplication · Ch. “Pleading Before Allah for Help Is a Believing Person’s Weapon” · Hadith 7",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "عَنْهُ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ عَبْدِ الله بْنِ سِنَانٍ عَنْ أَبِي عَبْدِ الله (عَلَيهِ السَّلام) قَالَ الدُّعَاءُ أَنْفَذُ مِنَ السِّنَانِ الْحَدِيدِ.",
+"en": "“Abu ‘Abd Allah (a.s.) has said, ‘Prayer, pleading before Allah for help, is more effective than spears of iron.’”",
+"gu": "ઇમામ જઅફર સાદિક (અ.સ.) એ ફરમાવ્યું: દુઆ — અલ્લાહ પાસે મદદ માટે આજીજી — લોખંડના ભાલા કરતાં વધુ અસરકારક છે.",
+"ur": "امام جعفر صادق علیہ السلام نے فرمایا: دعا — اللہ سے مدد کی التجا — لوہے کے نیزوں سے زیادہ مؤثر ہے۔",
+"hi": "इमाम जाफ़र सादिक़ (अ.स.) ने फ़रमाया: दुआ — अल्लाह से मदद की इल्तिजा — लोहे के भालों से ज़्यादा असरदार है।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Hasan",
+"ar": "حسن كالصحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (12/12)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/2/2/7",
+"tafsir": false,
+"by": "",
+"topic": "dua"
+},
+{
+"id": "d-alkafivolume2kulayni-371",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “Silence and Controlling the Tongue” · Hadith 1",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ أَبِي نَصْرٍ قَالَ قَالَ أَبُو الْحَسَنِ الرِّضَا (عَلَيهِ السَّلام) مِنْ عَلامَاتِ الْفِقْهِ الْحِلْمُ وَالْعِلْمُ وَالصَّمْتُ إِنَّ الصَّمْتَ بَابٌ مِنْ أَبْوَابِ الْحِكْمَةِ إِنَّ الصَّمْتَ يَكْسِبُ الْمَحَبَّةَ إِنَّهُ دَلِيلٌ عَلَى كُلِّ خَيْرٍ.",
+"en": "“Abu al-Hassan al-Rida (a.s.) has said, ‘Of the signs of one’s intelligence is forbearance, knowledge and silence. Silence is one of the doors of wisdom. Silence earns love and it, certainly, is the guide to all good.’”",
+"gu": "ઇમામ અલી રઝા (અ.સ.) એ ફરમાવ્યું: અક્કલની નિશાનીઓમાં સહનશીલતા, ઇલ્મ અને ખામોશી છે. ખામોશી હિકમતના દરવાજાઓમાંથી એક છે; ખામોશી મુહબ્બત કમાવે છે અને દરેક ભલાઈ તરફ માર્ગદર્શક છે.",
+"ur": "امام علی رضا علیہ السلام نے فرمایا: عقل کی نشانیوں میں بردباری، علم اور خاموشی ہیں۔ خاموشی حکمت کے دروازوں میں سے ایک ہے؛ خاموشی محبت کماتی ہے اور ہر بھلائی کی رہنما ہے۔",
+"hi": "इमाम अली रज़ा (अ.स.) ने फ़रमाया: अक़्ल की निशानियों में सहनशीलता, इल्म और ख़ामोशी हैं। ख़ामोशी हिकमत के दरवाज़ों में से एक है; ख़ामोशी मुहब्बत कमाती है और हर भलाई की रहनुमा है।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (8/210)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/56/1",
+"tafsir": false,
+"by": "",
+"topic": "akhlaq"
+},
+{
+"id": "d-mujamalahadithalmutabaramuhsini-11",
+"ref": "Muʿjam al-Aḥādīth al-Muʿtabara · Book of Intellect and Knowledge · Ch. “Merit of Knowledge and the Scholar and the Obligation of Knowledge” · Hadith 3",
+"book": "Muʿjam al-Aḥādīth al-Muʿtabara",
+"ar": "[3/11] الكافي: عن علي، عن محمد بن عيسى، عن يونس، عن جميل، عن أبي عبد الله عليه السلام قال: سمعته يقول: يغدو الناس على ثلاثة أصناف عالم ومتعلم وغثاء فنحن العلماء وشيعتنا المتعلمون وسائر الناس غثاء",
+"en": "The people rise up (every morning) being in one of three categories: knowledgeable scholar, student seeking knowledge or scum. So we are the scholars and our Shia are the students and the rest of the people are scum.",
+"gu": "લોકો (દરરોજ સવારે) ત્રણમાંથી એક હાલતમાં ઊઠે છે: આલિમ, ઇલ્મ શીખનાર, અથવા નકામા ફીણ જેવા. તો અમે આલિમ છીએ અને અમારા શિયા શીખનાર છે.",
+"ur": "لوگ (ہر صبح) تین حالتوں میں سے ایک میں اٹھتے ہیں: عالم، علم حاصل کرنے والا، یا بے وقعت جھاگ۔ پس ہم عالم ہیں اور ہمارے شیعہ طالب علم ہیں۔",
+"hi": "लोग (हर सुबह) तीन हालतों में से एक में उठते हैं: आलिम, इल्म सीखने वाला, या बेकार झाग। तो हम आलिम हैं और हमारे शिया सीखने वाले हैं।",
+"grade": [
+{
+"by": "Asif al-Mohseni",
+"en": "Mu'tabar",
+"ar": "معتبر",
+"ref": "Muʿjam al-Aḥādīth al-Muʿtabara"
+}
+],
+"tr": "Ammaar Muslim",
+"url": "https://thaqalayn.com/hadith/9/1/3/3",
+"tafsir": false,
+"by": "",
+"topic": "knowledge"
+},
+{
+"id": "d-nahjalbalagharadi-1805",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Modesty conceals human flaws” · Hadith 271",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): مَنْ كَسَاهُ الْحَيَاءُ ثَوْبَهُ لَمْ يَرَ النَّاسُ عَيْبَهُ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: Whomever modesty clothes with its dress people cannot see his defects.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: જેને હયા (શરમ) પોતાનો લિબાસ પહેરાવે, લોકો તેની ખામીઓ જોઈ શકતા નથી.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: جسے حیا اپنا لباس پہنا دے، لوگ اس کے عیب نہیں دیکھ پاتے۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: जिसे हया अपना लिबास पहना दे, लोग उसके ऐब नहीं देख पाते।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/223/271",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-alkafivolume2kulayni-1590",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “Those who Find Fault in People” · Hadith 2",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى عَنْ عَلِيِّ بْنِ النُّعْمَانِ عَنِ ابْنِ مُسْكَانَ عَنْ أَبِي حَمْزَةَ قَالَ سَمِعْتُ عَلِيَّ بْنَ الْحُسَيْنِ (عَلَيهِما السَّلام) يَقُولُ قَالَ رَسُولُ الله (صَلَّى اللهُ عَلَيْهِ وآلِه) كَفَى بِالْمَرْءِ عَيْباً أَنْ يُبْصِرَ مِنَ النَّاسِ مَا يَعْمَى عَلَيْهِ مِنْ نَفْسِهِ وَأَنْ يُؤْذِيَ جَلِيسَهُ بِمَا لا يَعْنِيهِ.",
+"en": "‘The Messenger of Allah has said, “It is enough fault in a man to find fault in people but turn a blind eye to the same that is in his own soul and to hurt his companion for no reason.’”",
+"gu": "રસૂલે ખુદા (સ.અ.વ.) એ ફરમાવ્યું: માણસ માટે આટલી ખામી પૂરતી છે કે તે લોકોમાં ખામી શોધે અને એ જ ખામી પોતાનામાં હોય તો આંખ આડા કાન કરે, અને વિના કારણ પોતાના સાથીને દુઃખ આપે.",
+"ur": "رسول خدا صلی اللہ علیہ وآلہ نے فرمایا: انسان کے لیے یہی عیب کافی ہے کہ وہ لوگوں میں عیب ڈھونڈے اور وہی عیب اپنے اندر ہو تو آنکھیں بند کر لے، اور بلا وجہ اپنے ساتھی کو تکلیف دے۔",
+"hi": "रसूल-ए-ख़ुदा (स.अ.व.) ने फ़रमाया: इंसान के लिए इतना ऐब काफ़ी है कि वह लोगों में ऐब ढूँढे और वही ऐब अपने अंदर हो तो आँखें मूँद ले, और बेवजह अपने साथी को तकलीफ़ दे।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (1/382)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/204/2",
+"tafsir": true,
+"by": "",
+"topic": "akhlaq"
+},
+{
+"id": "d-alkafivolume2kulayni-2283",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Social Manners · Ch. “Funny Stories and Laughing” · Hadith 6",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ مَنْصُورٍ عَنْ حَرِيزٍ عَنْ أَبِي عَبْدِ الله (عَلَيهِ السَّلام) قَالَ كَثْرَةُ الضَّحِكِ تُمِيتُ الْقَلْبَ وَقَالَ كَثْرَةُ الضَّحِكِ تَمِيثُ الدِّينَ كَمَا يَمِيثُ الْمَاءُ الْمِلْحَ.",
+"en": "“Much laughing deadens the heart. He has also said, ‘Much laughing melts one’s religion just as water melts salt.’”",
+"gu": "વધુ પડતું હસવું દિલને મુર્દું કરે છે. વધુ હસવું દીનને એવી રીતે ઓગાળે છે જેમ પાણી મીઠાને ઓગાળે છે.",
+"ur": "زیادہ ہنسنا دل کو مردہ کر دیتا ہے۔ زیادہ ہنسنا دین کو اس طرح پگھلا دیتا ہے جیسے پانی نمک کو۔",
+"hi": "ज़्यादा हँसना दिल को मुर्दा कर देता है। ज़्यादा हँसना दीन को ऐसे घोल देता है जैसे पानी नमक को।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Hasan",
+"ar": "حسن",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (12/568)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/4/23/6",
+"tafsir": false,
+"by": "",
+"topic": "manners"
+},
+{
+"id": "d-alkhisalsaduq-384",
+"ref": "Al-Khiṣāl · Part 3: On Three-Numbered Characteristics · Ch. “Three Things That are Really Hard for the People” · Hadith 1",
+"book": "Al-Khiṣāl",
+"ar": "142 حدثنا أبي رضي الله عنه قال: حدثنا سعد بن عبد الله عن أحمد بن أبي عبد الله، عن أبيه، عن النضر بن سويد، عن درست بن أبي منصور، عن عبد الله بن أبي يعفور قال: قال أبوعبد الله عليه السلام: ثلاث لا يطيقهن الناس: الصفح عن الناس، ومواساة الاخ أخاه في ماله، وذكر الله كثيرا",
+"en": "“There are three things that are really hard for the people: forgiving the faults of others; accepting that others have more wealth than they do; and remembering God often.”",
+"gu": "ત્રણ વસ્તુ લોકો માટે ખરેખર અઘરી છે: બીજાની ભૂલો માફ કરવી; બીજા પાસે પોતાના કરતાં વધુ દોલત છે એ સ્વીકારવું; અને અલ્લાહને વધુ યાદ કરવો.",
+"ur": "تین چیزیں لوگوں کے لیے واقعی مشکل ہیں: دوسروں کی غلطیاں معاف کرنا؛ یہ قبول کرنا کہ دوسروں کے پاس زیادہ مال ہے؛ اور اللہ کو کثرت سے یاد کرنا۔",
+"hi": "तीन चीज़ें लोगों के लिए सच में मुश्किल हैं: दूसरों की ग़लतियाँ माफ़ करना; यह मानना कि दूसरों के पास ज़्यादा दौलत है; और अल्लाह को ज़्यादा याद करना।",
+"grade": [
+{
+"by": "Hadi al-Najafi",
+"en": "Sahih",
+"ar": "صحيحة الإسناد",
+"ref": "Mawsūʿat Aḥādīth Ahl al-Bayt (11/109)"
+}
+],
+"tr": "Dr. Ali Peiravi",
+"url": "https://thaqalayn.com/hadith/10/4/109/1",
+"tafsir": false,
+"by": "",
+"topic": "khisal"
+},
+{
+"id": "d-nahjalbalagharadi-1738",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Seeking livelihood through almsgiving” · Hadith 168",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): اسْتَنْزِلُوا الرِّزْقَ بِالصَّدَقَةِ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: Seek livelihood by giving alms.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: સદકો આપીને રોઝી માંગો.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: صدقہ دے کر روزی طلب کرو۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: सदक़ा देकर रोज़ी तलब करो।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/137/168",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-alkafivolume1kulayni-66",
+"ref": "Al-Kāfi, Vol. 1 · The Book on Virtue of Knowledge · Ch. “Chapter on the Qualities of the Scholars” · Hadith 1",
+"book": "Al-Kāfi, Vol. 1",
+"ar": "مُحَمَّدُ بْنُ يَحْيَى الْعَطَّارُ عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى عَنِ الْحَسَنِ بْنِ مَحْبُوبٍ عَنْ مُعَاوِيَةَ بْنِ وَهْبٍ قَالَ سَمِعْتُ أَبَا عَبْدِ الله (عَلَيْهِ السَّلام) يَقُولُ اطْلُبُوا الْعِلْمَ وَتَزَيَّنُوا مَعَهُ بِالْحِلْمِ وَالْوَقَارِ وَتَوَاضَعُوا لِمَنْ تُعَلِّمُونَهُ الْعِلْمَ وَتَوَاضَعُوا لِمَنْ طَلَبْتُمْ مِنْهُ الْعِلْمَ وَلا تَكُونُوا عُلَمَاءَ جَبَّارِينَ فَيَذْهَبَ بَاطِلُكُمْ بِحَقِّكُمْ.",
+"en": "“Imam abu ‘Abdallah (a.s.) has said. “Seek knowledge and beautify it with forbearance and dignity. Be humble to your students and to those from whom you learn. Do not be a tyrant scholar lest your falsehood would destroy the truth in you.”",
+"gu": "ઇમામ જઅફર સાદિક (અ.સ.) એ ફરમાવ્યું: ઇલ્મ મેળવો અને તેને સહનશીલતા અને વકારથી શણગારો. તમારા શાગિર્દો અને જેમની પાસેથી શીખો તેમની સામે નમ્ર રહો. ઘમંડી આલિમ ન બનો, નહીં તો તમારું બાતિલ તમારામાંના હકને બરબાદ કરશે.",
+"ur": "امام جعفر صادق علیہ السلام نے فرمایا: علم حاصل کرو اور اسے بردباری اور وقار سے آراستہ کرو۔ اپنے شاگردوں اور جن سے سیکھتے ہو ان کے ساتھ عاجزی کرو۔ متکبر عالم نہ بنو کہ تمہارا باطل تمہارے حق کو برباد کر دے۔",
+"hi": "इमाम जाफ़र सादिक़ (अ.स.) ने फ़रमाया: इल्म हासिल करो और उसे सहनशीलता और वक़ार से सजाओ। अपने शागिर्दों और जिनसे सीखते हो उनके साथ विनम्र रहो। घमंडी आलिम न बनो, वरना तुम्हारा बातिल तुम्हारे हक़ को बर्बाद कर देगा।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (1/118)"
+},
+{
+"by": "al-Behbudi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Sahih al-Kafi (1/4)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/2/5/1",
+"tafsir": false,
+"by": "",
+"topic": "knowledge"
+},
+{
+"id": "d-nahjalbalagharadi-1691",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Increasing intelligence reduces speech” · Hadith 86",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): إِذَا تَمَّ الْعَقْلُ نَقَصَ الْكَلاَمُ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: As intelligence increases, speech decreases.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: જેમ અક્કલ વધે છે, તેમ બોલવાનું ઘટે છે.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: جب عقل بڑھتی ہے تو باتیں کم ہو جاتی ہیں۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: जब अक़्ल बढ़ती है, तो बातें कम हो जाती हैं।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/71/86",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-alkafivolume2kulayni-439",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “Love for the Sake of Allah and Hate for the Sake of Allah” · Hadith 14",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ عَنْ عُثْمَانَ بْنِ عِيسَى عَنْ سَمَاعَةَ بْنِ مِهْرَانَ عَنْ أَبِي عَبْدِ الله (عَلَيهِ السَّلام) قَالَ إِنَّ الْمُسْلِمَيْنِ يَلْتَقِيَانِ فَأَفْضَلُهُمَا أَشَدُّهُمَا حُبّاً لِصَاحِبِهِ.",
+"en": "“Of the two Muslims who meet each other, the more meritorious is the one who loves his companion more intensely.”",
+"gu": "એકબીજાને મળનારા બે મુસ્લિમોમાં વધુ ફઝીલતવાળો એ છે જે પોતાના સાથીને વધુ પ્રેમ કરે છે.",
+"ur": "ملنے والے دو مسلمانوں میں زیادہ فضیلت والا وہ ہے جو اپنے ساتھی سے زیادہ محبت کرتا ہے۔",
+"hi": "मिलने वाले दो मुसलमानों में ज़्यादा फ़ज़ीलत वाला वह है जो अपने साथी से ज़्यादा मुहब्बत करता है।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Muwaththaq",
+"ar": "موثق",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (8/266)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/60/14",
+"tafsir": false,
+"by": "",
+"topic": "akhlaq"
+},
+{
+"id": "d-alkafivolume2kulayni-364",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “Forbearance” · Hadith 3",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى عَنِ ابْنِ فَضَّالٍ عَنِ ابْنِ بُكَيْرٍ عَنْ زُرَارَةَ عَنْ أَبِي جَعْفَرٍ (عَلَيهِ السَّلام) قَالَ كَانَ عَلِيُّ بْنُ الْحُسَيْنِ (عَلَيهِما السَّلام) يَقُولُ إِنَّهُ لَيُعْجِبُنِي الرَّجُلُ أَنْ يُدْرِكَهُ حِلْمُهُ عِنْدَ غَضَبِهِ.",
+"en": "“Ali ibn al-Husayn (a.s.) would say, ‘It is fascinating to me when a man’s forbearance saves him from his anger.’”",
+"gu": "ઇમામ ઝૈનુલ આબેદીન (અ.સ.) ફરમાવતા: મને એ ખૂબ ગમે છે જ્યારે માણસની સહનશીલતા તેને તેના ગુસ્સાથી બચાવી લે.",
+"ur": "امام زین العابدین علیہ السلام فرمایا کرتے تھے: مجھے یہ بہت پسند ہے جب کسی شخص کی بردباری اسے اس کے غصے سے بچا لے۔",
+"hi": "इमाम ज़ैनुल आबिदीन (अ.स.) फ़रमाया करते थे: मुझे यह बहुत पसंद है जब किसी आदमी की सहनशीलता उसे उसके ग़ुस्से से बचा ले।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Muwaththaq",
+"ar": "موثق كالصحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (8/207)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/55/3",
+"tafsir": false,
+"by": "",
+"topic": "akhlaq"
+},
+{
+"id": "d-alkhisalsaduq-37",
+"ref": "Al-Khiṣāl · Part 1: On One-Numbered Characteristics · Ch. “God Loves One Characteristic and Despises One Characteristic” · Hadith 1",
+"book": "Al-Khiṣāl",
+"ar": "36 حدثنا أبي رضي الله عنه قال: حدثنا سعد بن عبد الله، عن محمد بن الحسين بن أبي الخطاب، عن جعفر بن بشير البجلي، عن داود الرقي، عن أبي عبد الله عليه السلام قال: إن القصد أمر يحبه الله عز وجل، وإن السرف [أمر] يبغضه [الله عز وجل] حتى طرحك النواة فإنها تصلح لشئ وحتى صبك فضل شرابك",
+"en": "“Moderation is what God the Honorable, the Exalted loves. Wastefulness is despised by Him even if it is throwing away a date seed that can be used, or throwing away the leftover liquid from your drink.”",
+"gu": "અલ્લાહ મધ્યમ માર્ગ (કરકસર)ને પસંદ કરે છે અને ફિઝૂલખર્ચીને નાપસંદ કરે છે — ભલે તે ઉપયોગી ખજૂરનો ઠળિયો ફેંકવો હોય કે પીણાનું બચેલું ફેંકવું હોય.",
+"ur": "اللہ میانہ روی کو پسند کرتا ہے اور فضول خرچی کو ناپسند — چاہے وہ کام کی کھجور کی گٹھلی پھینکنا ہو یا پینے کا بچا ہوا پانی پھینکنا۔",
+"hi": "अल्लाह मियानारवी (संयम) को पसंद करता है और फ़ुज़ूलख़र्ची को नापसंद — चाहे वह काम की खजूर की गुठली फेंकना हो या पीने का बचा हुआ पानी फेंकना।",
+"grade": [
+{
+"by": "Hadi al-Najafi",
+"en": "Sahih",
+"ar": "صحيحة الإسناد",
+"ref": "Mawsūʿat Aḥādīth Ahl al-Bayt (1/252)"
+}
+],
+"tr": "Dr. Ali Peiravi",
+"url": "https://thaqalayn.com/hadith/10/2/30/1",
+"tafsir": false,
+"by": "",
+"topic": "khisal"
+},
+{
+"id": "d-alkafivolume5kulayni-569",
+"ref": "Al-Kāfi, Vol. 5 · The Book of Commerce · Ch. “Continuing Profitable Businesses” · Hadith 3",
+"book": "Al-Kāfi, Vol. 5",
+"ar": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ ابْنِ فَضَّالٍ عَنْ عَلِيِّ بْنِ شَجَرَةَ عَنْ بَشِيرٍ النَّبَّالِ عَنْ أَبِي عَبْدِ اللهِ (عَلَيْهِ السَّلام) قَالَ إِذَا رُزِقْتَ فِي شَيْ‏ءٍ فَالْزَمْهُ.",
+"en": "“Abu ‘Abd Allah (a.s.), has said, ‘When you (in a business) find sustenance in a certain item then you must continue with it.”",
+"gu": "ઇમામ જઅફર સાદિક (અ.સ.) એ ફરમાવ્યું: જ્યારે (વેપારમાં) કોઈ વસ્તુમાં તમને રોઝી મળે, તો તેને વળગી રહો.",
+"ur": "امام جعفر صادق علیہ السلام نے فرمایا: جب (کاروبار میں) کسی چیز میں تمہیں روزی ملے تو اسی کو جاری رکھو۔",
+"hi": "इमाम जाफ़र सादिक़ (अ.स.) ने फ़रमाया: जब (कारोबार में) किसी चीज़ में तुम्हें रोज़ी मिले, तो उसी को जारी रखो।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Hasan",
+"ar": "حسن أو موثق",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (9/160)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/2/68/3",
+"tafsir": false,
+"by": "",
+"topic": "business"
+},
+{
+"id": "d-nahjalbalagharadi-1997",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Virtues of mindfulness, contentment, and divine pleasure” · Hadith 58",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): طُوبَى لِمَنْ ذَكَرَ الْمَعَادَ، وَعَمِلَ لِلْحِسَابِ، وَقَنِعَ بِالْكَفَافِ، وَرَضِيَ عَنِ اللهِ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: Blessed is the person who kept in mind the next life, acted so as to be able to render account, remained content with what sufficed him and remained pleased with Allāh.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: મુબારક છે એ જેણે આખિરતને યાદ રાખી, હિસાબ આપી શકાય એવા અમલ કર્યા, જેટલું પૂરતું હતું તેના પર સંતોષ રાખ્યો અને અલ્લાહથી રાજી રહ્યો.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: مبارک ہے وہ جس نے آخرت کو یاد رکھا، حساب کے قابل عمل کیے، جتنا کافی تھا اس پر قناعت کی اور اللہ سے راضی رہا۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: मुबारक है वह जिसने आख़िरत को याद रखा, हिसाब देने लायक़ अमल किए, जितना काफ़ी था उस पर क़नाअत की और अल्लाह से राज़ी रहा।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/44/58",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-nahjalbalagharadi-2147",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Opposition undermines wise counsel” · Hadith 263",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): الْخِلاَفُ يَهْدِمُ الرَّأْيَ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: Opposition destroys good counsel.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: (ખોટો) વિરોધ સારી સલાહને બરબાદ કરે છે.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: (بے جا) مخالفت اچھی رائے کو برباد کر دیتی ہے۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: (बेजा) मुख़ालफ़त अच्छी राय को बर्बाद कर देती है।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/215/263",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-nahjalbalagharadi-1702",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “The peril of abandoning \"I do not know\"” · Hadith 103",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): مَنْ تَرَكَ قَوْلَ لَا أَدْرِي أُصِيبَتْ مَقَاتِلُهُ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: Whoever abandons saying, “I do not know” meets his destruction.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: જે \"મને ખબર નથી\" કહેવાનું છોડી દે છે, તે બરબાદ થાય છે.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: جو \"میں نہیں جانتا\" کہنا چھوڑ دے وہ ہلاک ہو جاتا ہے۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: जो \"मैं नहीं जानता\" कहना छोड़ दे, वह हलाक हो जाता है।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/85/103",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-nahjalbalagharadi-1904",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Dignity eroded by begging” · Hadith 423",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): مَاءُ وَجْهِكَ جَامِدٌ يُقْطِرُهُ السُّؤَالُ، فَانْظُرْ عِنْدَ مَنْ تُقْطِرُهُ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: The dignity of your face is solid but begging dissolves it away; therefore, look carefully before whom you dissolve it.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: તમારા ચહેરાની આબરૂ મજબૂત છે, પણ માંગવાથી તે ઓગળી જાય છે; તો જુઓ કે કોની સામે તેને ઓગાળો છો.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: تمہارے چہرے کی آبرو مضبوط ہے مگر سوال کرنے سے پگھل جاتی ہے؛ پس دیکھ لو کس کے سامنے اسے پگھلا رہے ہو۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: तुम्हारे चेहरे की आबरू मज़बूत है, मगर माँगने से वह पिघल जाती है; तो देख लो किसके सामने उसे पिघला रहे हो।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/346/423",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-alkhisalsaduq-74",
+"ref": "Al-Khiṣāl · Part 1: On One-Numbered Characteristics · Ch. “A Characteristic That is Gratitude for All Blessings” · Hadith 1",
+"book": "Al-Khiṣāl",
+"ar": "73 حدثنا أبي رضي الله عنه قال: حدثنا سعد بن عبد الله، عن يعقوب بن يزيد، عن محمد بن أبي عمير، عن الحسن بن عطية، عن عمر بن يزيد، عن أبي عبد الله عليه السلام قال: سمعته يقول: شكر كل نعمة وإن عظمت أن تحمد الله عز وجل",
+"en": "“The gratitude for any blessing - no matter how great it may be - is to praise God the Honorable the Exalted.”",
+"gu": "કોઈ પણ નેઅમતનો શુક્ર — ભલે તે કેટલી પણ મોટી હોય — અલ્લાહની હમ્દ (પ્રશંસા) કરવી છે.",
+"ur": "ہر نعمت کا شکر — چاہے وہ کتنی ہی بڑی ہو — اللہ کی حمد کرنا ہے۔",
+"hi": "हर नेमत का शुक्र — चाहे वह कितनी ही बड़ी हो — अल्लाह की हम्द करना है।",
+"grade": [
+{
+"by": "Hadi al-Najafi",
+"en": "Sahih",
+"ar": "صحيحة الإسناد",
+"ref": "Mawsūʿat Aḥādīth Ahl al-Bayt (5/424)"
+}
+],
+"tr": "Dr. Ali Peiravi",
+"url": "https://thaqalayn.com/hadith/10/2/64/1",
+"tafsir": false,
+"by": "",
+"topic": "khisal"
+},
+{
+"id": "d-nahjalbalagharadi-1744",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Safeguarding belief through charity and prayer” · Hadith 177",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): سُوسُواإِيمَانَكُمْ بِالصَّدَقَةِ، وَحَصِّنُوا أَمْوَالَكُمْ بِالزَّكَاةِ، وَادْفَعُوا أَمْواجَ الْبَلاَءِ بِالدُّعَاءِ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: Protect your belief by charity; guard your wealth by paying Allāh’s share; and ward off the waves of calamity by praying.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: સદકાથી તમારા ઈમાનની હિફાઝત કરો; અલ્લાહનો હક (ઝકાત) આપીને માલની રક્ષા કરો; અને દુઆથી મુસીબતોના મોજાં દૂર કરો.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: صدقے سے اپنے ایمان کی حفاظت کرو؛ اللہ کا حق (زکات) ادا کر کے مال کو محفوظ رکھو؛ اور دعا سے مصیبتوں کی لہروں کو دور کرو۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: सदक़े से अपने ईमान की हिफ़ाज़त करो; अल्लाह का हक़ (ज़कात) देकर माल को महफ़ूज़ रखो; और दुआ से मुसीबतों की लहरों को दूर करो।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/146/177",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-nahjalbalagharadi-1938",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Divine justice and mercy in human judgment” · Hadith 471",
+"book": "Nahj al-Balāgha",
+"ar": "وَلَا تَيْأَسَنَّ لِشَرِّ هَذِهِ الْأُمَّةِ مِنْ رَوْحِ اَللَّهِ لِقَوْلِهِ تَعَالَى: ﴿إِنَّهُ لَا يَيْأَسُ مِن رَّوْحِ اللهِ إِلَّا الْقَوْمُ الْكَافِرُونَ﴾.",
+"en": "Again, do not lose hope even for the worst man of the community because Allāh, the Sublime says : Verily, despairs not of Allāh’s mercy but the disbelieving people. (Qur’ān, 12:87).",
+"gu": "સૌથી ખરાબ માણસ માટે પણ આશા ન છોડો, કારણ કે અલ્લાહ ફરમાવે છે: \"અલ્લાહની રહમતથી કાફિર લોકો સિવાય કોઈ નિરાશ થતું નથી.\" (કુરઆન 12:87)",
+"ur": "بدترین شخص سے بھی ناامید نہ ہو، کیونکہ اللہ فرماتا ہے: \"اللہ کی رحمت سے کافروں کے سوا کوئی ناامید نہیں ہوتا۔\" (قرآن 12:87)",
+"hi": "सबसे बुरे आदमी से भी नाउम्मीद न हो, क्योंकि अल्लाह फ़रमाता है: \"अल्लाह की रहमत से काफ़िरों के सिवा कोई नाउम्मीद नहीं होता।\" (क़ुरआन 12:87)",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/377/471",
+"tafsir": true,
+"by": "ali",
+"topic": "nahj"
+},
+{
+"id": "d-nahjalbalagharadi-1687",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Sleeping travelers as a metaphor for worldly life” · Hadith 79",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): أَهْلُ الدُّنْيَا كَرَكْبٍ يُسَارُ بِهِمْ وَهُمْ نِيَامٌ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: The people of the world are like travellers who are being carried while they are asleep.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: દુનિયાના લોકો એવા મુસાફરો જેવા છે જેમને ઊંઘમાં જ લઈ જવામાં આવી રહ્યા છે.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: دنیا والے ایسے مسافروں کی طرح ہیں جنہیں سوتے میں ہی لے جایا جا رہا ہے۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: दुनिया वाले ऐसे मुसाफ़िरों जैसे हैं जिन्हें सोते-सोते ही ले जाया जा रहा है।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/64/79",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-alkafivolume2kulayni-2050",
+"ref": "Al-Kāfi, Vol. 2 · The Book of the Excellence of the Holy Quran · Ch. “Reciting the Holy Quran” · Hadith 1",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "عَلِيٌّ عَنْ أَبِيهِ عَنْ حَمَّادٍ عَنْ حَرِيزٍ عَنْ أَبِي عَبْدِ الله (عَلَيهِ السَّلام) قَالَ الْقُرْآنُ عَهْدُ الله إِلَى خَلْقِهِ فَقَدْ يَنْبَغِي لِلْمَرْءِ الْمُسْلِمِ أَنْ يَنْظُرَ فِي عَهْدِهِ وَأَنْ يَقْرَأَ مِنْهُ فِي كُلِّ يَوْمٍ خَمْسِينَ آيَةً.",
+"en": "“The Holy Quran is a covenant of Allah with His creatures. A Muslim must look at his covenant and read fifty verses every day.”",
+"gu": "કુરઆન અલ્લાહનો તેની મખલૂક સાથેનો અહદ (કરાર) છે. મુસ્લિમે પોતાના અહદને જોવો જોઈએ અને દરરોજ પચાસ આયતો પઢવી જોઈએ.",
+"ur": "قرآن اللہ کا اپنی مخلوق سے عہد ہے۔ مسلمان کو اپنا عہد دیکھنا چاہیے اور ہر روز پچاس آیتیں پڑھنی چاہئیں۔",
+"hi": "क़ुरआन अल्लाह का अपनी मख़लूक़ से अहद (वादा) है। मुसलमान को अपना अहद देखना चाहिए और हर रोज़ पचास आयतें पढ़नी चाहिए।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Hasan",
+"ar": "حسن",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (2/493)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/3/5/1",
+"tafsir": false,
+"by": "",
+"topic": "quran"
+},
+{
+"id": "d-nahjalbalagharadi-2110",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Reflections on mortality and divine fear” · Hadith 158",
+"book": "Nahj al-Balāgha",
+"ar": "ثُمَّ الْتَفَتَ إِلَى أَصْحَابِهِ فَقَالَ: أَمَا لَوْ أُذِنَ لَهُمْ فِى الْكَلَامِ لَأَخْبَرُوكُمْ أَنَّ خَيْرَ الزَّادِ التَّقْوَىٰ.",
+"en": "Then Amīr al-mu’minīn, peace be upon him, turned to his companions and said: Beware If they were allowed to speak they would inform you that: Verily, the best provision is fear of Allāh. (Qur’ān, 2:197)",
+"gu": "પછી અમીરુલ મોઅમેનીન (અ.સ.) એ સાથીઓ તરફ ફરીને ફરમાવ્યું: જો તેમને બોલવા દેવામાં આવે, તો તેઓ તમને કહેશે: \"બેશક શ્રેષ્ઠ ભાથું તકવા છે.\" (કુરઆન 2:197)",
+"ur": "پھر امیرالمومنین علیہ السلام نے اپنے ساتھیوں کی طرف رخ کر کے فرمایا: اگر انہیں بولنے دیا جائے تو وہ تمہیں بتائیں گے: \"بے شک بہترین زادِ راہ تقویٰ ہے۔\" (قرآن 2:197)",
+"hi": "फिर अमीरुल मोमिनीन (अ.स.) ने अपने साथियों की तरफ़ मुड़कर फ़रमाया: अगर उन्हें बोलने दिया जाए तो वे तुम्हें बताएँगे: \"बेशक सबसे अच्छा तोशा तक़वा है।\" (क़ुरआन 2:197)",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/130/158",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-alkafivolume2kulayni-1776",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Supplication · Ch. “Praying for Brothers (in Belief) in Their Absence” · Hadith 2",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى عَنِ الْحَسَنِ بْنِ مَحْبُوبٍ عَنْ عَبْدِ الله بْنِ سِنَانٍ عَنْ أَبِي عَبْدِ الله (عَلَيهِ السَّلام) قَالَ دُعَاءُ الْمَرْءِ لأخِيهِ بِظَهْرِ الْغَيْبِ يُدِرُّ الرِّزْقَ وَيَدْفَعُ الْمَكْرُوهَ.",
+"en": "“A man’s prayer for his brother (in belief) in his absence increases his sustenance and repulses misfortune.”",
+"gu": "માણસ પોતાના (ઈમાની) ભાઈ માટે તેની ગેરહાજરીમાં દુઆ કરે, તો તે તેની રોઝી વધારે છે અને મુસીબત દૂર કરે છે.",
+"ur": "انسان کا اپنے (ایمانی) بھائی کے لیے اس کی غیر موجودگی میں دعا کرنا اس کی روزی بڑھاتا ہے اور مصیبت کو ٹالتا ہے۔",
+"hi": "इंसान का अपने (ईमानी) भाई के लिए उसकी ग़ैरमौजूदगी में दुआ करना उसकी रोज़ी बढ़ाता है और मुसीबत को टालता है।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (12/166)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/2/30/2",
+"tafsir": false,
+"by": "",
+"topic": "dua"
+},
+{
+"id": "d-nahjalbalagharadi-1692",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Time's dual nature on life and aspirations” · Hadith 87",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): الدَّهرُ يُخْلِقُ الْأَبْدَانَ، وَيُجَدِّدُ الْآمَالَ، وَيُقَرِّبُ الْمَنِيَّةَ، ويُبَاعِدُ الْأُمْنِيَّةَ، مَنْ ظَفِرَ بِهِ نَصِبَ، ومَنْ فَاتَهُ تَعِبَ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: Time wears our bodies, renews desires, brings death nearer and takes away aspirations. Whoever is successful with it encounters grief and whoever misses its favours also undergoes hardships.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: સમય આપણા શરીરને ઘસી નાખે છે, ઇચ્છાઓને તાજી કરે છે, મોતને નજીક લાવે છે અને આશાઓ છીનવી લે છે. જે તેમાં સફળ થાય તે પણ ગમ પામે છે, અને જે ચૂકી જાય તે પણ તકલીફ વેઠે છે.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: زمانہ ہمارے جسموں کو پرانا کرتا ہے، خواہشوں کو تازہ کرتا ہے، موت کو قریب لاتا ہے اور امیدیں چھین لیتا ہے۔ جو اس میں کامیاب ہو وہ بھی غم پاتا ہے اور جو محروم رہے وہ بھی مشقت اٹھاتا ہے۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: ज़माना हमारे जिस्मों को पुराना करता है, ख़्वाहिशों को ताज़ा करता है, मौत को क़रीब लाता है और उम्मीदें छीन लेता है। जो उसमें कामयाब हो वह भी ग़म पाता है, और जो चूक जाए वह भी मुश्किल उठाता है।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/72/87",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-nahjalbalagharadi-1699",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Wise sayings as the believer's lost treasure” · Hadith 97",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): الْحِكْمَةُ ضَالَّةُ الْمُؤْمِنِ فَخُذِ الْحِكْمَةَ وَلَوْ مِنْ أَهْلِ النِّفَاقِ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: A wise saying is a lost article of the believer. Therefore, get wise sayings even though from people of hypocrisy.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: હિકમતની વાત મોઅમિનની ખોવાયેલી વસ્તુ છે; તેથી હિકમતની વાત લઈ લો, ભલે મુનાફિક પાસેથી મળે.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: حکمت کی بات مومن کی گمشدہ چیز ہے؛ پس حکمت لے لو چاہے منافقوں سے ملے۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: हिकमत की बात मोमिन की खोई हुई चीज़ है; इसलिए हिकमत ले लो, चाहे मुनाफ़िक़ों से मिले।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/80/97",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-alkafivolume2kulayni-296",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “Excellence in Moral Behaviors” · Hadith 1",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى عَنِ الْحَسَنِ بْنِ مَحْبُوبٍ عَنْ جَمِيلِ بْنِ صَالِحٍ عَنْ مُحَمَّدِ بْنِ مُسْلِمٍ عَنْ أَبِي جَعْفَرٍ (عَلَيهِ السَّلام) قَالَ إِنَّ أَكْمَلَ الْمُؤْمِنِينَ إِيمَاناً أَحْسَنُهُمْ خُلُقاً.",
+"en": "“Abu Ja’far (a.s.) has said, ‘Among the believers of perfect belief is one whose moral behavior is excellent.’”",
+"gu": "ઇમામ મોહમ્મદ બાકિર (અ.સ.) એ ફરમાવ્યું: સંપૂર્ણ ઈમાનવાળા મોઅમિનોમાં એ છે જેના અખ્લાક ઉત્તમ છે.",
+"ur": "امام محمد باقر علیہ السلام نے فرمایا: کامل ایمان والے مومنوں میں سے وہ ہے جس کے اخلاق بہترین ہیں۔",
+"hi": "इमाम मुहम्मद बाक़िर (अ.स.) ने फ़रमाया: कामिल ईमान वाले मोमिनों में वह है जिसके अख़लाक़ बेहतरीन हैं।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (8/166)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/49/1",
+"tafsir": false,
+"by": "",
+"topic": "akhlaq"
+},
+{
+"id": "d-alkafivolume2kulayni-1786",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Supplication · Ch. “The One Whose Prayer is Accepted” · Hadith 5",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ هِشَامِ بْنِ سَالِمٍ عَنْ أَبِي عَبْدِ الله (عَلَيهِ السَّلام) قَالَ مَنْ قَدَّمَ أَرْبَعِينَ مِنَ الْمُؤْمِنِينَ ثُمَّ دَعَا اسْتُجِيبَ لَهُ.",
+"en": "“Abu ‘Abd Allah (a.s.) has said, ‘Whoever prays for forty believing persons and then for himself, his prayer will be accepted.’”",
+"gu": "ઇમામ જઅફર સાદિક (અ.સ.) એ ફરમાવ્યું: જે ચાલીસ મોઅમિનો માટે દુઆ કરે અને પછી પોતાના માટે, તેની દુઆ કબૂલ થશે.",
+"ur": "امام جعفر صادق علیہ السلام نے فرمایا: جو چالیس مومنوں کے لیے دعا کرے اور پھر اپنے لیے، اس کی دعا قبول ہو گی۔",
+"hi": "इमाम जाफ़र सादिक़ (अ.स.) ने फ़रमाया: जो चालीस मोमिनों के लिए दुआ करे और फिर अपने लिए, उसकी दुआ क़बूल होगी।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Hasan",
+"ar": "حسن كالصحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (2/173)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/2/31/5",
+"tafsir": false,
+"by": "",
+"topic": "dua"
+},
+{
+"id": "d-alkafivolume2kulayni-758",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “Giving Good Advice to the Believers” · Hadith 1",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ عَلِيِّ بْنِ الْحَكَمِ عَنْ عُمَرَ بْنِ أَبَانٍ عَنْ عِيسَى بْنِ أَبِي مَنْصُورٍ عَنْ أَبِي عَبْدِ الله (عَلَيهِ السَّلام) قَالَ يَجِبُ لِلْمُؤْمِنِ عَلَى الْمُؤْمِنِ أَنْ يُنَاصِحَهُ.",
+"en": "“It is of a believer’s obligations to provide good advice to another believer.”",
+"gu": "મોઅમિનની ફરજોમાંથી એક એ છે કે તે બીજા મોઅમિનને સાચી સલાહ આપે.",
+"ur": "مومن کے فرائض میں سے ہے کہ وہ دوسرے مومن کو خیر خواہی کی نصیحت کرے۔",
+"hi": "मोमिन के फ़र्ज़ों में से एक यह है कि वह दूसरे मोमिन को ख़ैरख़्वाही की नसीहत करे।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (9/142)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/90/1",
+"tafsir": false,
+"by": "",
+"topic": "akhlaq"
+},
+{
+"id": "d-alkafivolume8kulayni-537",
+"ref": "Al-Kāfi, Vol. 8 · The Book - Garden (of Flowers) · Ch. “Hold back your tongue” · Hadith 1",
+"book": "Al-Kāfi, Vol. 8",
+"ar": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ هِشَامِ بْنِ سَالِمٍ عَنْ أَبِي عَبْدِ اللَّهِ (عليه السلام) قَالَ مَا أَيْسَرَ مَا رَضِيَ بِهِ النَّاسُ عَنْكُمْ كُفُّوا أَلْسِنَتَكُمْ عَنْهُمْ.",
+"en": "Abu Abdullah (asws) has said: ‘How easy it is to make the people to be happy with you. Just restrain your tongues from (speaking against) them’.",
+"gu": "ઇમામ જઅફર સાદિક (અ.સ.) એ ફરમાવ્યું: લોકોને તમારાથી ખુશ રાખવા કેટલું સહેલું છે! બસ તેમના વિરુદ્ધ તમારી જબાન રોકી રાખો.",
+"ur": "امام جعفر صادق علیہ السلام نے فرمایا: لوگوں کو خود سے راضی رکھنا کتنا آسان ہے! بس ان کے خلاف اپنی زبان روک لو۔",
+"hi": "इमाम जाफ़र सादिक़ (अ.स.) ने फ़रमाया: लोगों को ख़ुद से राज़ी रखना कितना आसान है! बस उनके ख़िलाफ़ अपनी ज़बान रोक लो।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Hasan",
+"ar": "حسن",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (16/501)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/537/1",
+"tafsir": false,
+"by": "",
+"topic": "rawda"
+},
+{
+"id": "d-alkafivolume5kulayni-221",
+"ref": "Al-Kāfi, Vol. 5 · The Book of Commerce · Ch. “Detestability of Laziness” · Hadith 4",
+"book": "Al-Kāfi, Vol. 5",
+"ar": "مُحَمَّدُ بْنُ يَحْيَى عَنْ مُحَمَّدِ بْنِ الْحُسَيْنِ عَنْ صَفْوَانَ عَنِ الْعَلاءِ عَنْ مُحَمَّدِ بْنِ مُسْلِمٍ عَنْ أَبِي جَعْفَرٍ (عَلَيْهِ السَّلام) قَالَ إِنِّي لأبْغِضُ الرَّجُلَ أَوْ أُبْغِضُ لِلرَّجُلِ أَنْ يَكُونَ كَسْلاناً [كَسْلانَ] عَنْ أَمْرِ دُنْيَاهُ وَمَنْ كَسِلَ عَنْ أَمْرِ دُنْيَاهُ فَهُوَ عَنْ أَمْرِ آخِرَتِهِ أَكْسَلُ.",
+"en": "“Abu Ja’far (a.s.), has said, ‘I dislike a man -or dislike for a man- who is lazy in his worldly affairs. One who is lazy in his worldly affairs is lazier in the affairs of his hereafter.’”",
+"gu": "ઇમામ મોહમ્મદ બાકિર (અ.સ.) એ ફરમાવ્યું: મને એ માણસ નાપસંદ છે જે પોતાના દુનિયાના કામોમાં આળસુ છે. જે દુનિયાના કામમાં આળસુ છે, તે આખિરતના કામમાં તેથી પણ વધુ આળસુ હોય છે.",
+"ur": "امام محمد باقر علیہ السلام نے فرمایا: مجھے وہ شخص ناپسند ہے جو اپنے دنیاوی کاموں میں سست ہو۔ جو دنیا کے کاموں میں سست ہو وہ آخرت کے کاموں میں اس سے بھی زیادہ سست ہوتا ہے۔",
+"hi": "इमाम मुहम्मद बाक़िर (अ.स.) ने फ़रमाया: मुझे वह आदमी नापसंद है जो अपने दुनियावी कामों में सुस्त हो। जो दुनिया के कामों में सुस्त हो, वह आख़िरत के कामों में उससे भी ज़्यादा सुस्त होता है।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (19/33)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/2/10/4",
+"tafsir": false,
+"by": "",
+"topic": "business"
+},
+{
+"id": "d-nahjalbalagharadi-2087",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Knowledge manifested through action versus mere words” · Hadith 111",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): أَوْضَعُ الْعِلْمِ مَا وُقِفَ عَلَى اللِّسَانِ وَأَرْفَعُهُ مَا ظَهَرَ فِي الْجَوَارِحِ وَالْأَرْكَانِ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: The lowest form of knowledge is that which remains on the tongue and the most superior form is that which manifests itself through (the action of) the limbs and the organs of the body.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: સૌથી નીચું ઇલ્મ એ છે જે ફક્ત જબાન પર રહે, અને સૌથી ઊંચું એ છે જે શરીરના અંગો (અમલ)માં દેખાય.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: سب سے کم درجے کا علم وہ ہے جو صرف زبان پر رہے، اور سب سے بلند وہ ہے جو اعضاء و جوارح (عمل) میں ظاہر ہو۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: सबसे निचले दर्जे का इल्म वह है जो सिर्फ़ ज़बान पर रहे, और सबसे ऊँचा वह है जो जिस्म के अंगों (अमल) में ज़ाहिर हो।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/92/111",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-alkafivolume2kulayni-692",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “To Please the Believers” · Hadith 16",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ هِشَامِ بْنِ الْحَكَمِ عَنْ أَبِي عَبْدِ الله (عَلَيهِ السَّلام) قَالَ مِنْ أَحَبِّ الأعْمَالِ إِلَى الله عَزَّ وَجَلَّ إِدْخَالُ السُّرُورِ عَلَى الْمُؤْمِنِ إِشْبَاعُ جَوْعَتِهِ أَوْ تَنْفِيسُ كُرْبَتِهِ أَوْ قَضَاءُ دَيْنِهِ.",
+"en": "“Of the most beloved deeds to Allah, the Most Majestic, the Most Holy, is sending joy to the heart of a believer, by means of satisfying his hunger, relief for his suffering or paying off his debt.”",
+"gu": "અલ્લાહને સૌથી પ્યારા અમલોમાંથી એક છે મોઅમિનના દિલમાં ખુશી પહોંચાડવી — તેની ભૂખ મટાડીને, તેની તકલીફ દૂર કરીને અથવા તેનું દેવું ચૂકવીને.",
+"ur": "اللہ کے سب سے پسندیدہ اعمال میں سے ہے مومن کے دل میں خوشی پہنچانا — اس کی بھوک مٹا کر، اس کی تکلیف دور کر کے یا اس کا قرض ادا کر کے۔",
+"hi": "अल्लाह के सबसे प्यारे अमलों में से है मोमिन के दिल में ख़ुशी पहुँचाना — उसकी भूख मिटाकर, उसकी तकलीफ़ दूर करके या उसका क़र्ज़ अदा करके।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Hasan",
+"ar": "حسن كالصحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (9/101)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/82/16",
+"tafsir": false,
+"by": "",
+"topic": "akhlaq"
+},
+{
+"id": "d-nahjalbalagharadi-2024",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Transient pleasures and lasting consequences” · Hadith 547",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): اذْكُرُوا انْقِطَاعَ الَّلذَّاتِ، وَبَقَاءَ التَّبِعَاتِ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: Remember that pleasures will pass away while the consequences will stay",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: યાદ રાખો કે મજા ચાલી જશે, પણ તેના પરિણામ રહી જશે.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: یاد رکھو کہ لذتیں ختم ہو جائیں گی مگر ان کے نتائج باقی رہیں گے۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: याद रखो कि लज़्ज़तें चली जाएँगी, मगर उनके नतीजे बाक़ी रहेंगे।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/433/547",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-alkafivolume2kulayni-714",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “Endeavor to help a Believer” · Hadith 8",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ الْحَسَنِ بْنِ عَلِيٍّ عَنْ جَمِيلِ بْنِ دَرَّاجٍ عَنْ أَبِي عَبْدِ الله (عَلَيهِ السَّلام) قَالَ كَفَى بِالْمَرْءِ اعْتِمَاداً عَلَى أَخِيهِ أَنْ يُنْزِلَ بِهِ حَاجَتَهُ.",
+"en": "“A believer’s asking help from his brother (in belief) is enough proof of the former’s trust in the latter.”",
+"gu": "મોઅમિન પોતાના (ઈમાની) ભાઈ પાસે મદદ માંગે, એ પૂરતો પુરાવો છે કે તેને તેના પર ભરોસો છે.",
+"ur": "مومن کا اپنے (ایمانی) بھائی سے مدد مانگنا اس بات کا کافی ثبوت ہے کہ اسے اس پر بھروسہ ہے۔",
+"hi": "मोमिन का अपने (ईमानी) भाई से मदद माँगना इस बात का काफ़ी सबूत है कि उसे उस पर भरोसा है।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Muwaththaq",
+"ar": "موثق كالصحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (9/114)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/84/8",
+"tafsir": false,
+"by": "",
+"topic": "akhlaq"
+},
+{
+"id": "d-nahjalbalagharadi-1765",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Destitution as the ultimate death” · Hadith 208",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): الْفَقْرُ الْمَوْتُ الْأَكْبَرُ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: Destitution is the greatest death.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: ગરીબી સૌથી મોટું મોત છે.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: فقر سب سے بڑی موت ہے۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: ग़रीबी सबसे बड़ी मौत है।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/163/208",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-alkafivolume1kulayni-901",
+"ref": "Al-Kāfi, Vol. 1 · The Book about people with Divine Authority · Ch. “The Issue of Disappearance (of the twelfth Imam (a.s.) from Public Sight” · Hadith 15",
+"book": "Al-Kāfi, Vol. 1",
+"ar": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ عَلِيِّ بْنِ الْحَكَمِ عَنْ أَبِي أَيُّوبَ الْخَزَّازِ عَنْ مُحَمَّدِ بْنِ مُسْلِمٍ قَالَ سَمِعْتُ أَبَا عَبْدِ الله (عَلَيْهِ السَّلام) يَقُولُ إِنْ بَلَغَكُمْ عَنْ صَاحِبِكُمْ غَيْبَةٌ فَلا تُنْكِرُوهَا.",
+"en": "“When an Occultation reaches you all from your Companion, do not reject it.”",
+"gu": "જ્યારે તમારા સાહિબ (ઇમામ)ની ગૈબતની ખબર તમને પહોંચે, તો તેનો ઇન્કાર ન કરો.",
+"ur": "جب تمہیں تمہارے صاحب (امام) کی غیبت کی خبر پہنچے تو اس کا انکار نہ کرنا۔",
+"hi": "जब तुम्हें तुम्हारे साहिब (इमाम) की ग़ैबत की ख़बर पहुँचे, तो उसका इनकार न करना।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (4/50)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/4/80/15",
+"tafsir": false,
+"by": "",
+"topic": "imamat"
+},
+{
+"id": "d-alkafivolume2kulayni-257",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “Patience” · Hadith 17",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ سَيْفِ بْنِ عَمِيرَةَ عَنْ أَبِي حَمْزَةَ الثُّمَالِيِّ قَالَ قَالَ أَبُو عَبْدِ الله (عَلَيهِ السَّلام) مَنِ ابْتُلِيَ مِنَ الْمُؤْمِنِينَ بِبَلاءٍ فَصَبَرَ عَلَيْهِ كَانَ لَهُ مِثْلُ أَجْرِ أَلْفِ شَهِيدٍ.",
+"en": "“Abu ‘Abd Allah (a.s.) has said, ‘Whoever among the believers exercises patience at the time of suffering hardship he will have a reward equal to the reward of a thousand martyrs.’”",
+"gu": "ઇમામ જઅફર સાદિક (અ.સ.) એ ફરમાવ્યું: મોઅમિનોમાંથી જે મુસીબત વખતે સબ્ર કરે, તેને હજાર શહીદો જેટલો સવાબ મળશે.",
+"ur": "امام جعفر صادق علیہ السلام نے فرمایا: مومنوں میں سے جو مصیبت کے وقت صبر کرے اسے ہزار شہیدوں کے برابر اجر ملے گا۔",
+"hi": "इमाम जाफ़र सादिक़ (अ.स.) ने फ़रमाया: मोमिनों में से जो मुसीबत के वक़्त सब्र करे, उसे हज़ार शहीदों के बराबर सवाब मिलेगा।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Hasan",
+"ar": "حسن كالصحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (8/139)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/47/17",
+"tafsir": false,
+"by": "",
+"topic": "akhlaq"
+},
+{
+"id": "d-alkafivolume2kulayni-208",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “Fulfilling Obligations” · Hadith 1",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ سَهْلِ بْنِ زِيَادٍ وَعَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ جَمِيعاً عَنِ ابْنِ مَحْبُوبٍ عَنْ أَبِي حَمْزَةَ الثُّمَالِيِّ قَالَ قَالَ عَلِيُّ بْنُ الْحُسَيْنِ (صَلَّى اللهُ عَلَيْهِ وآلِه) مَنْ عَمِلَ بِمَا افْتَرَضَ الله عَلَيْهِ فَهُوَ مِنْ خَيْرِ النَّاسِ.",
+"en": "“Ali ibn al-Husayn (a.s.) has said, ‘One who fulfils what Allah has made obligatory upon him is the best of people.’”",
+"gu": "ઇમામ ઝૈનુલ આબેદીન (અ.સ.) એ ફરમાવ્યું: જે અલ્લાહે ફરજ કરેલું અદા કરે છે, તે લોકોમાં શ્રેષ્ઠ છે.",
+"ur": "امام زین العابدین علیہ السلام نے فرمایا: جو اللہ کے فرض کیے ہوئے کو ادا کرے وہ لوگوں میں سب سے بہتر ہے۔",
+"hi": "इमाम ज़ैनुल आबिदीन (अ.स.) ने फ़रमाया: जो अल्लाह के फ़र्ज़ किए हुए को अदा करे, वह लोगों में सबसे बेहतर है।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Hasan",
+"ar": "حسن كالصحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (8/78)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/40/1",
+"tafsir": false,
+"by": "",
+"topic": "akhlaq"
+},
+{
+"id": "d-nahjalbalagharadi-1963",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Divine wisdom prevents ruin” · Hadith 508",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): مَا اسْتَوْدَعَ اللهُ امْرَأً عَقْلاً إِلَّا اسْتَنْقَذَهُ بِهِ يَوْماً مَا.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: Allāh does not grant wisdom to a person except that some day He will save him from ruin with its help.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: અલ્લાહ કોઈને હિકમત આપે છે, તો કોઈ દિવસ તેના દ્વારા જ તેને બરબાદીમાંથી બચાવે છે.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: اللہ کسی کو حکمت عطا نہیں کرتا مگر یہ کہ کسی دن اسی کے ذریعے اسے ہلاکت سے بچا لیتا ہے۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: अल्लाह किसी को हिकमत नहीं देता, मगर यह कि किसी दिन उसी के ज़रिए उसे तबाही से बचा लेता है।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/407/508",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-alkafivolume2kulayni-509",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “Fairness and Justice” · Hadith 14",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "أَبُو عَلِيٍّ الأشْعَرِيُّ عَنْ مُحَمَّدِ بْنِ عَبْدِ الْجَبَّارِ عَنِ ابْنِ فَضَّالٍ عَنْ غَالِبِ بْنِ عُثْمَانَ عَنْ رَوْحٍ ابْنِ أُخْتِ الْمُعَلَّى عَنْ أَبِي عَبْدِ الله (عَلَيهِ السَّلام) قَالَ اتَّقُوا الله وَاعْدِلُوا فَإِنَّكُمْ تَعِيبُونَ عَلَى قَوْمٍ لا يَعْدِلُونَ.",
+"en": "“Be pious before Allah and practice justice; you blame other people for not doing justice to others.”",
+"gu": "અલ્લાહથી ડરો અને ઇન્સાફ કરો; (નહીં તો) તમે બીજાને ઇન્સાફ ન કરવા બદલ દોષ આપો છો.",
+"ur": "اللہ سے ڈرو اور انصاف کرو؛ تم دوسروں کو انصاف نہ کرنے پر ملامت کرتے ہو۔",
+"hi": "अल्लाह से डरो और इंसाफ़ करो; तुम दूसरों को इंसाफ़ न करने पर मलामत करते हो।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Muwaththaq",
+"ar": "موثق",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (8/349)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/66/14",
+"tafsir": false,
+"by": "",
+"topic": "akhlaq"
+},
+{
+"id": "d-alkhisalsaduq-3",
+"ref": "Al-Khiṣāl · Part 1: On One-Numbered Characteristics · Ch. “Abandoning the Present to Attain the Promised” · Hadith 1",
+"book": "Al-Khiṣāl",
+"ar": "2 حدثنا أبي رضي الله عنه قال: حدثنا سعد بن عبد الله، عن أحمد بن محمد بن عيسى، عن أبيه، عن عبد الله بن المغيرة، عن إسماعيل بن مسلم السكوني، عن الصادق جعفر بن محمد، عن أبيه، عن آبائه، عن علي عليهم السلام قال: قال رسول الله صلى الله عليه وآله:\"طوبى لمن ترك شهوة حاضرة لموعود لم يره .\"",
+"en": "“Blessed be the one who abandons the present lust to attain the unseen promised reward.”",
+"gu": "મુબારક છે એ જે હાજર ખ્વાહિશ છોડી દે, ગૈબના વચન આપેલા ઇનામ માટે.",
+"ur": "مبارک ہے وہ جو موجودہ خواہش کو چھوڑ دے، اس غیبی انعام کے لیے جس کا وعدہ کیا گیا ہے۔",
+"hi": "मुबारक है वह जो सामने की ख़्वाहिश छोड़ दे, उस ग़ैबी इनाम के लिए जिसका वादा किया गया है।",
+"grade": [
+{
+"by": "Hadi al-Najafi",
+"en": "Mu'tabar",
+"ar": "معتبرة الإسناد",
+"ref": "Mawsūʿat Aḥādīth Ahl al-Bayt (5/447)"
+}
+],
+"tr": "Dr. Ali Peiravi",
+"url": "https://thaqalayn.com/hadith/10/2/2/1",
+"tafsir": false,
+"by": "sadiq",
+"topic": "khisal"
+},
+{
+"id": "d-alkafivolume5kulayni-486",
+"ref": "Al-Kāfi, Vol. 5 · The Book of Commerce · Ch. “The Excellence of Doing Business and Giving It Proper Attention” · Hadith 13",
+"book": "Al-Kāfi, Vol. 5",
+"ar": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى عَنْ عَلِيِّ بْنِ الْحَكَمِ عَنْ عَلِيِّ بْنِ عُقْبَةَ قَالَ كَانَ أَبُو الْخَطَّابِ قَبْلَ أَنْ يَفْسُدَ وَهُوَ يَحْمِلُ الْمَسَائِلَ لأصْحَابِنَا وَيَجِي‏ءُ بِجَوَابَاتِهَا رَوَى عَنْ أَبِي عَبْدِ اللهِ (عَلَيْهِ السَّلام) قَالَ اشْتَرُوا وَإِنْ كَانَ غَالِياً فَإِنَّ الرِّزْقَ يَنْزِلُ مَعَ الشِّرَاءِ.",
+"en": "‘You should purchase goods even if prices are high; sustenance comes by means of buying.’”",
+"gu": "ભાવ ઊંચા હોય તો પણ માલ ખરીદો; રોઝી ખરીદવા (વેપાર) દ્વારા આવે છે.",
+"ur": "قیمتیں زیادہ ہوں تب بھی مال خریدو؛ روزی خریداری (تجارت) کے ذریعے آتی ہے۔",
+"hi": "दाम ऊँचे हों तब भी माल ख़रीदो; रोज़ी ख़रीदारी (तिजारत) के ज़रिए आती है।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Sahih",
+"ar": "صحيح على الظاهر",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (9/132)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/2/53/13",
+"tafsir": false,
+"by": "",
+"topic": "business"
+},
+{
+"id": "d-alkafivolume2kulayni-593",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “The Believer’s Mutual Brotherhood” · Hadith 3",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى عَنِ ابْنِ فَضَّالٍ عَنْ عَلِيِّ بْنِ عُقْبَةَ عَنْ أَبِي عَبْدِ الله (عَلَيهِ السَّلام) قَالَ الْمُؤْمِنُ أَخُو الْمُؤْمِنِ عَيْنُهُ وَدَلِيلُهُ لا يَخُونُهُ وَلا يَظْلِمُهُ وَلا يَغُشُّهُ وَلا يَعِدُهُ عِدَةً فَيُخْلِفَهُ.",
+"en": "“The believer is a brother (in belief) of a believer, his eyes and his guide. He does not violate his trust, does not do injustice to him, or deceive him, and does not promise him only to ignore it later on.”’",
+"gu": "મોઅમિન મોઅમિનનો ભાઈ છે — તેની આંખો અને તેનો રાહબર. તે તેની અમાનતમાં ખયાનત નથી કરતો, તેના પર ઝુલ્મ નથી કરતો, તેને છેતરતો નથી અને વાયદો કરીને ભૂલી જતો નથી.",
+"ur": "مومن مومن کا بھائی ہے — اس کی آنکھیں اور اس کا رہنما۔ وہ اس کی امانت میں خیانت نہیں کرتا، اس پر ظلم نہیں کرتا، اسے دھوکا نہیں دیتا اور وعدہ کر کے نظرانداز نہیں کرتا۔",
+"hi": "मोमिन मोमिन का भाई है — उसकी आँखें और उसका रहनुमा। वह उसकी अमानत में ख़यानत नहीं करता, उस पर ज़ुल्म नहीं करता, उसे धोखा नहीं देता और वादा करके नज़रअंदाज़ नहीं करता।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Muwaththaq",
+"ar": "موثق كالصحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (9/11)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/72/3",
+"tafsir": false,
+"by": "",
+"topic": "akhlaq"
+},
+{
+"id": "d-nahjalbalagharadi-1679",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Wisdom as supreme wealth and ignorance as poverty” · Hadith 68",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): لَا غِنَى كَالْعَقْلِ، وَلَا فَقْرَ كَالْجَهْلِ، وَلَا مِيرَاثَ كَالْأَدَبِ، وَلَا ظَهِيرَ كَالْمُشَاوَرَةِ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: There is no wealth like wisdom, no destitution like ignorance, no inheritance like refinement and no support like consultation.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: અક્કલ જેવી કોઈ દોલત નથી, જહાલત જેવી કોઈ ગરીબી નથી, અદબ જેવો કોઈ વારસો નથી અને મશ્વરા જેવો કોઈ સહારો નથી.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: عقل جیسی کوئی دولت نہیں، جہالت جیسی کوئی غربت نہیں، ادب جیسی کوئی میراث نہیں اور مشورے جیسا کوئی سہارا نہیں۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: अक़्ल जैसी कोई दौलत नहीं, जहालत जैसी कोई ग़रीबी नहीं, अदब जैसी कोई विरासत नहीं और मशवरे जैसा कोई सहारा नहीं।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/54/68",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-alkhisalsaduq-120",
+"ref": "Al-Khiṣāl · Part 2: On Two-Numbered Characteristics · Ch. “Two Things Which Cause Trouble for Most People” · Hadith 1",
+"book": "Al-Khiṣāl",
+"ar": "6 حدثنا أبي رضي الله عنه قال: حدثنا علي بن إبراهيم، عن أبيه، عن النوفلي، عن السكوني، عن جعفر بن محمد، عن أبيه، عن آبائه، عن علي عليهم السلام قال: قال رسول الله صلى الله عليه وآله: خصلتان كثير من الناس مفتون فيهما: الصحة والفراغ",
+"en": "“There are two things which cause trouble for most people: health and leisure.”",
+"gu": "બે વસ્તુઓ મોટાભાગના લોકોને મુશ્કેલીમાં નાખે છે: તંદુરસ્તી અને ફુરસદ.",
+"ur": "دو چیزیں اکثر لوگوں کو مشکل میں ڈالتی ہیں: صحت اور فراغت۔",
+"hi": "दो चीज़ें ज़्यादातर लोगों को मुश्किल में डालती हैं: सेहत और फ़ुर्सत।",
+"grade": [
+{
+"by": "Hadi al-Najafi",
+"en": "Mu'tabar",
+"ar": "معتبرة الإسناد",
+"ref": "Mawsūʿat Aḥādīth Ahl al-Bayt (8/360)"
+}
+],
+"tr": "Dr. Ali Peiravi",
+"url": "https://thaqalayn.com/hadith/10/3/6/1",
+"tafsir": false,
+"by": "",
+"topic": "khisal"
+},
+{
+"id": "d-nahjalbalagharadi-1793",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Knowledge expands unlike physical containers” · Hadith 253",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): كُلُّ وِعَاءٍ يَضِيقُ بِمَا جُعِلَ فِيهِ إِلَّا وِعَاءَ الْعِلْمِ، فَإِنَّهُ يَتَّسِعُ بِهِ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: Every container gets narrower according to what is placed in it except the container of knowledge which expands instead.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: દરેક વાસણ તેમાં મૂકેલી વસ્તુથી સાંકડું થાય છે, સિવાય ઇલ્મના વાસણ — એ તો વધુ ખુલ્લું થાય છે.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: ہر برتن اس میں رکھی چیز سے تنگ ہوتا جاتا ہے، سوائے علم کے برتن کے — وہ اور کشادہ ہو جاتا ہے۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: हर बर्तन उसमें रखी चीज़ से तंग होता जाता है, सिवाय इल्म के बर्तन के — वह और फैल जाता है।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/205/253",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-alkafivolume2kulayni-1639",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Supplication · Ch. “Prayer before the fall of Misfortune” · Hadith 4",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "عَنْهُ عَنْ عُثْمَانَ بْنِ عِيسَى عَنْ سَمَاعَةَ قَالَ قَالَ أَبُو عَبْدِ الله (عَلَيهِ السَّلام) مَنْ سَرَّهُ أَنْ يُسْتَجَابَ لَهُ فِي الشِّدَّةِ فَلْيُكْثِرِ الدُّعَاءَ فِي الرَّخَاءِ.",
+"en": "“Abu ‘Abd Allah (a.s.) has said, ‘Whoever likes his prayers answered in difficult times should pray when he enjoys well-being and comfort.’”",
+"gu": "ઇમામ જઅફર સાદિક (અ.સ.) એ ફરમાવ્યું: જે ચાહે કે મુશ્કેલ સમયમાં તેની દુઆ કબૂલ થાય, તે સુખ અને આરામના સમયમાં દુઆ કરે.",
+"ur": "امام جعفر صادق علیہ السلام نے فرمایا: جو چاہے کہ مشکل وقت میں اس کی دعا قبول ہو، وہ آسائش اور عافیت کے وقت دعا کرے۔",
+"hi": "इमाम जाफ़र सादिक़ (अ.स.) ने फ़रमाया: जो चाहे कि मुश्किल वक़्त में उसकी दुआ क़बूल हो, वह आराम और आफ़ियत के वक़्त दुआ करे।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Muwaththaq",
+"ar": "موثق",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (12/23)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/2/7/4",
+"tafsir": false,
+"by": "",
+"topic": "dua"
+},
+{
+"id": "d-nahjalbalagharadi-1736",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “True friendship in adversity, absence, and death” · Hadith 164",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): لَا يَكُونُ الصَّدِيقُ صَدِيقاً حَتَّى يَحْفَظَ أَخَاهُ فِى ثَلَاثٍ فِى نَكْبَتِهِ وَغَيْبَتِهِ وَوَفَاتِهِ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: A friend is not a friend unless he affords protection to his comrade on three occasions: in his adversity, in his absence and at his death.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: મિત્ર ત્યાં સુધી મિત્ર નથી જ્યાં સુધી તે ત્રણ મોકે પોતાના સાથીની રક્ષા ન કરે: તેની મુસીબતમાં, તેની ગેરહાજરીમાં અને તેના મૃત્યુ પછી.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: دوست اس وقت تک دوست نہیں جب تک تین موقعوں پر اپنے ساتھی کی حفاظت نہ کرے: اس کی مصیبت میں، اس کی غیر موجودگی میں اور اس کی موت کے بعد۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: दोस्त तब तक दोस्त नहीं जब तक तीन मौक़ों पर अपने साथी की हिफ़ाज़त न करे: उसकी मुसीबत में, उसकी ग़ैरमौजूदगी में और उसकी मौत के बाद।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/134/164",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-alkafivolume2kulayni-2179",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Social Manners · Ch. “Offering the Greeting of Peace” · Hadith 3",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "وَبِهَذَا الإسْنَادِ قَالَ قَالَ رَسُولُ الله (صَلَّى اللهُ عَلَيْهِ وآلِه) أَوْلَى النَّاسِ بِالله وَبِرَسُولِهِ مَنْ بَدَأَ بِالسَّلامِ.",
+"en": "“The Messenger of Allah has said, ‘A person who is closer to Allah and His Messenger is the one who initiates the offering of the greeting of peace.’”",
+"gu": "રસૂલે ખુદા (સ.અ.વ.) એ ફરમાવ્યું: અલ્લાહ અને તેના રસૂલની સૌથી નજીક એ છે જે પહેલા સલામ કરે.",
+"ur": "رسول خدا صلی اللہ علیہ وآلہ نے فرمایا: اللہ اور اس کے رسول کے سب سے قریب وہ ہے جو پہلے سلام کرے۔",
+"hi": "रसूल-ए-ख़ुदा (स.अ.व.) ने फ़रमाया: अल्लाह और उसके रसूल के सबसे क़रीब वह है जो पहले सलाम करे।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Muwaththaq",
+"ar": "موثق",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (12/539)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/4/7/3",
+"tafsir": true,
+"by": "",
+"topic": "manners"
+},
+{
+"id": "d-alkhisalsaduq-698",
+"ref": "Al-Khiṣāl · Part 5: On Five-Numbered Characteristics · Ch. “The five instances for renewing one’s prayer” · Hadith 2",
+"book": "Al-Khiṣāl",
+"ar": "37 حدثنا محمد بن الحسن رضي الله عنه قال: حدثنا محمد بن الحسن الصفار، عن محمد بن عيسى، عن عثمان بن عيسى، عن عبد الله بن مسكان، عن أبي عبد الله عليه السلام قال:لم يقسم بين العباد أقل من خمس: اليقين والقنوع والصبر والشكر والذي يكمل له هذا كله العقل",
+"en": "“No less than five characteristics are distributed among the servants of God: certitude, contentment, perseverance, gratitude, and intelligence which perfects them all.”",
+"gu": "અલ્લાહના બંદાઓમાં પાંચ ગુણો ઓછા જ વહેંચાયા છે: યકીન, સંતોષ, સહનશીલતા, શુક્ર, અને અક્કલ — જે આ બધાને પૂર્ણ કરે છે.",
+"ur": "اللہ کے بندوں میں پانچ خصلتیں بہت کم بانٹی گئی ہیں: یقین، قناعت، بردباری، شکر، اور عقل — جو ان سب کو کامل کرتی ہے۔",
+"hi": "अल्लाह के बंदों में पाँच ख़ूबियाँ बहुत कम बाँटी गई हैं: यक़ीन, क़नाअत, सहनशीलता, शुक्र, और अक़्ल — जो इन सबको मुकम्मल करती है।",
+"grade": [
+{
+"by": "Hadi al-Najafi",
+"en": "Muwaththaq",
+"ar": "موثقة سندا",
+"ref": "Mawsūʿat Aḥādīth Ahl al-Bayt (12/332)"
+}
+],
+"tr": "Dr. Ali Peiravi",
+"url": "https://thaqalayn.com/hadith/10/6/30/2",
+"tafsir": false,
+"by": "",
+"topic": "khisal"
+},
+{
+"id": "d-nahjalbalagharadi-2180",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Few learn from abundant lessons” · Hadith 364",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): مَا أَكْثَرَ الْعِبَرَ وأَقَلَّ الِاعْتِبَارَ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: How many are the objects of lessons, but how few the taking of lessons.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: બોધપાઠ કેટલા બધા છે, પણ બોધ લેનાર કેટલા ઓછા!",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: عبرتیں کتنی زیادہ ہیں اور عبرت لینے والے کتنے کم!",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: इबरतें कितनी ज़्यादा हैं, और इबरत लेने वाले कितने कम!",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/297/364",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-nahjalbalagharadi-2198",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Divine opportunity for the intelligent in others' shortcomings” · Hadith 408",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): إِنَّ اللهَ سُبْحَانَهُ جَعَلَ الطَّاعَةَ غَنِيمَةَ الْأَكْيَاسِ عِنْدَ تَفْرِيطِ الْعَجَزَةِ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: When the disabled fall short in performing acts of obedience to Allāh, the Glorified, it is a good opportunity given by Allāh for the intelligent to perform such acts.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: જ્યારે અશક્ત લોકો અલ્લાહની ઇબાદતમાં પાછળ પડે, ત્યારે એ અક્કલમંદ માટે અલ્લાહે આપેલો સુંદર મોકો છે કે તે એ અમલ કરે.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: جب کمزور لوگ اللہ کی اطاعت میں پیچھے رہ جائیں تو یہ عقلمند کے لیے اللہ کی طرف سے اچھا موقع ہے کہ وہ یہ اعمال انجام دے۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: जब कमज़ोर लोग अल्लाह की इताअत में पीछे रह जाएँ, तो यह अक़्लमंद के लिए अल्लाह की तरफ़ से अच्छा मौक़ा है कि वह ये अमल करे।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/331/408",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-alkafivolume2kulayni-403",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “Friendliness” · Hadith 6",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ عُمَرَ بْنِ أُذَيْنَةَ عَنْ زُرَارَةَ عَنْ أَبِي جَعْفَرٍ (عَلَيهِ السَّلام) قَالَ قَالَ رَسُولُ الله (صَلَّى اللهُ عَلَيْهِ وآلِه) إِنَّ الرِّفْقَ لَمْ يُوضَعْ عَلَى شَيْ‏ءٍ إِلا زَانَهُ وَلا نُزِعَ مِنْ شَيْ‏ءٍ إِلا شَانَهُ.",
+"en": "“The Messenger of Allah has said, ‘There is nothing in which friendliness is placed but that such thing is beautified. There is nothing from which friendliness is removed but that such thing is shunned.”’",
+"gu": "રસૂલે ખુદા (સ.અ.વ.) એ ફરમાવ્યું: જે વસ્તુમાં નરમી હોય તે સુંદર બને છે, અને જેમાંથી નરમી હટી જાય તે ખરાબ બને છે.",
+"ur": "رسول خدا صلی اللہ علیہ وآلہ نے فرمایا: جس چیز میں نرمی ہو وہ خوبصورت ہو جاتی ہے، اور جس سے نرمی نکل جائے وہ بدنما ہو جاتی ہے۔",
+"hi": "रसूल-ए-ख़ुदा (स.अ.व.) ने फ़रमाया: जिस चीज़ में नरमी हो वह ख़ूबसूरत हो जाती है, और जिससे नरमी निकल जाए वह बदनुमा हो जाती है।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Hasan",
+"ar": "حسن كالصحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (8/238)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/58/6",
+"tafsir": true,
+"by": "",
+"topic": "akhlaq"
+},
+{
+"id": "d-alkafivolume2kulayni-192",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “Restraint from Worldly Matters (Sins)” · Hadith 14",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ الْحَجَّالِ عَنِ الْعَلاءِ عَنِ ابْنِ أَبِي يَعْفُورٍ قَالَ قَالَ أَبُو عَبْدِ الله (عَلَيهِ السَّلام) كُونُوا دُعَاةً لِلنَّاسِ بِغَيْرِ أَلْسِنَتِكُمْ لِيَرَوْا مِنْكُمُ الْوَرَعَ وَالإجْتِهَادَ وَالصَّلاةَ وَالْخَيْرَ فَإِنَّ ذَلِكَ دَاعِيَةٌ.",
+"en": "“Abu ‘Abd Allah (a.s.) has said, ‘Preach to people without your tongue. You must show them restraint from worldly matters (sins). You should perform hard work, prayer and good deeds. Such behavior includes preaching.”",
+"gu": "ઇમામ જઅફર સાદિક (અ.સ.) એ ફરમાવ્યું: જબાન વગર લોકોને દાવત આપો. તેમને દુનિયાની (ગુનાહવાળી) બાબતોથી પરહેઝ બતાવો; મહેનત, નમાઝ અને નેક અમલ કરો. આ વર્તન પોતે જ તબલીગ છે.",
+"ur": "امام جعفر صادق علیہ السلام نے فرمایا: زبان کے بغیر لوگوں کو دعوت دو۔ انہیں دنیا (کے گناہوں) سے پرہیز دکھاؤ؛ محنت، نماز اور نیک اعمال کرو۔ یہی طرز عمل تبلیغ ہے۔",
+"hi": "इमाम जाफ़र सादिक़ (अ.स.) ने फ़रमाया: ज़बान के बिना लोगों को दावत दो। उन्हें दुनिया (के गुनाहों) से परहेज़ दिखाओ; मेहनत, नमाज़ और नेक अमल करो। यही बर्ताव तब्लीग़ है।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (8/65)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/37/14",
+"tafsir": false,
+"by": "",
+"topic": "akhlaq"
+},
+{
+"id": "d-nahjalbalagharadi-2131",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Eradicating evil by purifying one's own heart” · Hadith 223",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): احْصُدِ الشَّرَّ مِنْ صَدْرِ غَيْرِكَ بِقَلْعِهِ مِنْ صَدْرِكَ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: Cut away evil from the chest of others by snatching (it) away from your own chest.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: બીજાના દિલમાંથી બુરાઈ કાઢવી હોય તો પહેલા પોતાના દિલમાંથી કાઢો.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: دوسروں کے سینے سے برائی کو کاٹنا ہو تو پہلے اپنے سینے سے اکھاڑ پھینکو۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: दूसरों के सीने से बुराई काटनी हो तो पहले अपने सीने से उखाड़ फेंको।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/178/223",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-alkafivolume2kulayni-883",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “Things That Allah Removes Through a Believer” · Hadith 2",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ ابْنِ مَحْبُوبٍ عَنْ عَبْدِ الله بْنِ سِنَانٍ عَنْ أَبِي حَمْزَةَ عَنْ أَبِي جَعْفَرٍ (عَلَيهِ السَّلام) قَالَ لا يُصِيبُ قَرْيَةً عَذَابٌ وَفِيهَا سَبْعَةٌ مِنَ الْمُؤْمِنِينَ.",
+"en": "“A town in which seven believers live remains safe from torment.”",
+"gu": "જે નગરમાં સાત મોઅમિન રહે છે, તે અઝાબથી સલામત રહે છે.",
+"ur": "جس بستی میں سات مومن رہتے ہوں وہ عذاب سے محفوظ رہتی ہے۔",
+"hi": "जिस बस्ती में सात मोमिन रहते हों, वह अज़ाब से महफ़ूज़ रहती है।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (9/301)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/103/2",
+"tafsir": false,
+"by": "baqir",
+"topic": "akhlaq"
+},
+{
+"id": "d-alkafivolume1kulayni-254",
+"ref": "Al-Kāfi, Vol. 1 · The Book on Oneness of Allah (God) · Ch. “Chapter On Prohibition on Saying How is Allah (al-Kayfiyyah)” · Hadith 7",
+"book": "Al-Kāfi, Vol. 1",
+"ar": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ خَالِدٍ عَنْ مُحَمَّدِ بْنِ عَبْدِ الْحَمِيدِ عَنِ الْعَلاءِ بْنِ رَزِينٍ عَنْ مُحَمَّدِ بْنِ مُسْلِمٍ عَنْ ابي جعفر (عَلَيْهِ السَّلام) قَالَ إِيَّاكُمْ وَالتَّفَكُّرَ فِي الله وَلَكِنْ إِذَا أَرَدْتُمْ أَنْ تَنْظُرُوا إِلَى عَظَمَتِهِ فَانْظُرُوا إِلَى عَظِيمِ خَلْقِهِ.",
+"en": "“Beware of thinking about Allah’s self. If you would like to think about the greatness of Allah, think about His great and wonderful creations.”",
+"gu": "અલ્લાહની ઝાત (સ્વરૂપ) વિશે વિચારવાથી બચો. જો અલ્લાહની મહાનતા વિશે વિચારવું હોય, તો તેની મહાન અને અદ્ભુત સર્જન વિશે વિચારો.",
+"ur": "اللہ کی ذات کے بارے میں سوچنے سے بچو۔ اگر اللہ کی عظمت کے بارے میں سوچنا ہو تو اس کی عظیم اور عجیب مخلوقات پر غور کرو۔",
+"hi": "अल्लाह की ज़ात के बारे में सोचने से बचो। अगर अल्लाह की अज़मत के बारे में सोचना हो तो उसकी अज़ीम और अजीब मख़लूक़ात पर ग़ौर करो।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (1/324)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/3/8/7",
+"tafsir": false,
+"by": "",
+"topic": "tawhid"
+},
+{
+"id": "d-nahjalbalagharadi-2089",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Divine-fearing actions never fail” · Hadith 115",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): لَا يَقِلُّ عَمَلٌ مَعَ التَّقْوَى وَكَيْفَ يَقِلُّ مَا يُتَقَبَّلُ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: Action accompanied by fear for Allāh does not fail, and how can a thing fail that has been accepted.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: અલ્લાહના ડર સાથે થયેલો અમલ કદી ઓછો નથી પડતો; અને જે કબૂલ થઈ ગયું તે ઓછું કેવી રીતે હોય?",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: خوفِ خدا کے ساتھ کیا گیا عمل کم نہیں ہوتا، اور جو قبول ہو جائے وہ کم کیسے ہو سکتا ہے؟",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: अल्लाह के ख़ौफ़ के साथ किया गया अमल कम नहीं होता; और जो क़बूल हो जाए वह कम कैसे हो सकता है?",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/95/115",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-mujamalahadithalmutabaramuhsini-513",
+"ref": "Muʿjam al-Aḥādīth al-Muʿtabara · The Book of the Glorious Quran · Ch. “The Merits of the Qur’an” · Hadith 2",
+"book": "Muʿjam al-Aḥādīth al-Muʿtabara",
+"ar": "[1542/2] الكافي: حميد بن زياد، عن الحسن بن محمد، عن وهيب بن حفص، عن أبي بصير قال: سمعت أبا عبدالله عليه السلام يقول: إن القرآن زاجر وآمر يأمر بالجنة ويزجر عن النار",
+"en": "The Qur’an is a Chaser and a Caller. It calls to the Garden and chases away from the Fire",
+"gu": "કુરઆન પાછળ ધકેલનાર અને બોલાવનાર છે: તે જન્નત તરફ બોલાવે છે અને જહન્નમથી દૂર ભગાડે છે.",
+"ur": "قرآن ہانکنے والا اور بلانے والا ہے: وہ جنت کی طرف بلاتا ہے اور آگ سے دور ہانکتا ہے۔",
+"hi": "क़ुरआन हाँकने वाला और बुलाने वाला है: वह जन्नत की तरफ़ बुलाता है और आग से दूर हाँकता है।",
+"grade": [
+{
+"by": "Asif al-Mohseni",
+"en": "Mu'tabar",
+"ar": "معتبر",
+"ref": "Muʿjam al-Aḥādīth al-Muʿtabara"
+}
+],
+"tr": "Ammaar Muslim",
+"url": "https://thaqalayn.com/hadith/9/5/1/2",
+"tafsir": false,
+"by": "",
+"topic": "quran"
+},
+{
+"id": "d-nahjalbalagharadi-2260",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “The learned's duty to teach precedes the ignorant's duty to learn” · Hadith 611",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): مَا أَخَذَ اللهُ عَلَى أَهْلِ الْجَهْلِ أَنْ يَتَعَلَّمُوا حَتَّى أَخَذَ عَلَى أَهْلِ الْعِلْمِ أَنْ يُعَلِّمُوا.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: Allāh has not made it obligatory on the ignorant to learn till He has made it obligatory on the learned to teach.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: અલ્લાહે અજ્ઞાની પર શીખવું ત્યારે જ ફરજ કર્યું જ્યારે જ્ઞાની પર શીખવવું ફરજ કર્યું.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: اللہ نے جاہل پر سیکھنا تب تک واجب نہیں کیا جب تک عالم پر سکھانا واجب نہیں کیا۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: अल्लाह ने जाहिल पर सीखना तब तक वाजिब नहीं किया जब तक आलिम पर सिखाना वाजिब नहीं किया।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/478/611",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-nahjalbalagharadi-2130",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Facing fears outweighs avoidance” · Hadith 220",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): إِذَا هِبْتَ أَمْراًفَقَعْ فِيهِ، فَإِنَّ شِدَّةَ تَوَقِّيهِأَعْظَمُ مِمَّا تَخَافُ مِنْهُ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: When you are afraid of something dive straight into it, because the intensity of abstaining from it is greater (worse) than what you are afraid of.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: જ્યારે કોઈ વસ્તુથી ડર લાગે, ત્યારે સીધા તેમાં કૂદી પડો; કારણ કે તેનાથી બચવાની તકલીફ, જેનાથી ડરો છો તેના કરતાં વધુ હોય છે.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: جب کسی چیز سے ڈر لگے تو سیدھے اس میں کود پڑو، کیونکہ اس سے بچنے کی سختی اس چیز سے زیادہ ہے جس سے تم ڈرتے ہو۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: जब किसी चीज़ से डर लगे, तो सीधे उसमें कूद पड़ो; क्योंकि उससे बचने की सख़्ती उस चीज़ से ज़्यादा है जिससे तुम डरते हो।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/175/220",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-alkafivolume2kulayni-2285",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Social Manners · Ch. “Funny Stories and Laughing” · Hadith 8",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ حَفْصِ بْنِ الْبَخْتَرِيِّ قَالَ قَالَ أَبُو عَبْدِ الله (عَلَيهِ السَّلام) إِيَّاكُمْ وَالْمِزَاحَ فَإِنَّهُ يَذْهَبُ بِمَاءِ الْوَجْهِ.",
+"en": "“Abu ‘Abd Allah (a.s.) has said, ‘Beware of jokes; it takes away the dignity of one’s face.’”",
+"gu": "ઇમામ જઅફર સાદિક (અ.સ.) એ ફરમાવ્યું: મજાકથી બચો; તે ચહેરાની આબરૂ લઈ જાય છે.",
+"ur": "امام جعفر صادق علیہ السلام نے فرمایا: مذاق سے بچو؛ یہ چہرے کی آبرو لے جاتا ہے۔",
+"hi": "इमाम जाफ़र सादिक़ (अ.स.) ने फ़रमाया: मज़ाक़ से बचो; यह चेहरे की आबरू ले जाता है।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Hasan",
+"ar": "حسن",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (2/568)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/4/23/8",
+"tafsir": false,
+"by": "",
+"topic": "manners"
+},
+{
+"id": "d-alkafivolume1kulayni-291",
+"ref": "Al-Kāfi, Vol. 1 · The Book on Oneness of Allah (God) · Ch. “Chapter On Attribute Of Essence (Sifat al-DhDhat) Of Allah” · Hadith 2",
+"book": "Al-Kāfi, Vol. 1",
+"ar": "مُحَمَّدُ بْنُ يَحْيَى عَنْ مُحَمَّدِ بْنِ الْحُسَيْنِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ هِشَامِ بْنِ سَالِمٍ عَنْ مُحَمَّدِ بْنِ مُسْلِمٍ عَنْ ابي جعفر (عَلَيْهِ السَّلام) قَالَ سَمِعْتُهُ يَقُولُ كَانَ الله عَزَّ وَجَلَّ وَلا شَيْ‏ءَ غَيْرُهُ وَلَمْ يَزَلْ عَالِماً بِمَا يَكُونُ فَعِلْمُهُ بِهِ قَبْلَ كَوْنِهِ كَعِلْمِهِ بِهِ بَعْدَ كَوْنِهِ.",
+"en": "\"Allah (azwj) existed when nothing else existed. He eternally knows whatever comes into being. His knowledge of things before their coming into existence and afterwards is exactly the same.\"",
+"gu": "અલ્લાહ ત્યારે પણ હતો જ્યારે કંઈ ન હતું. જે કંઈ અસ્તિત્વમાં આવે છે તે તે હંમેશાથી જાણે છે. વસ્તુઓ બન્યા પહેલાં અને પછી તેનું ઇલ્મ બિલકુલ સરખું છે.",
+"ur": "اللہ اس وقت بھی تھا جب کچھ نہ تھا۔ جو کچھ وجود میں آتا ہے وہ اسے ہمیشہ سے جانتا ہے۔ چیزوں کے وجود سے پہلے اور بعد اس کا علم بالکل یکساں ہے۔",
+"hi": "अल्लाह तब भी था जब कुछ न था। जो कुछ वजूद में आता है, वह उसे हमेशा से जानता है। चीज़ों के वजूद से पहले और बाद उसका इल्म बिल्कुल एक जैसा है।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (2/10)"
+},
+{
+"by": "al-Behbudi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Sahih al-Kafi (15/ 1)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/3/12/2",
+"tafsir": false,
+"by": "baqir",
+"topic": "tawhid"
+},
+{
+"id": "d-nahjalbalagharadi-1991",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Best riches lie in abandoning desires” · Hadith 44",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): أَشْرَفُ الْغِنَى تَرْكُ الْمُنَى.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: The best of riches is the abandonement of desires.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: શ્રેષ્ઠ દોલત ખ્વાહિશો છોડી દેવી છે.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: بہترین دولت خواہشوں کو چھوڑ دینا ہے۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: सबसे अच्छी दौलत ख़्वाहिशों को छोड़ देना है।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/34/44",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-nahjalbalagharadi-1810",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Divine Command for Justice and Benevolence” · Hadith 279",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام) فِي قَوْلِهِ تَعَالَى ﴿إِنَّ اللهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ﴾: الْعَدْلُ الْإِنْصَافُ، وَالْإِحْسَانُ التَّفَضُّلُ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said about Allāh’s saying: Verily, Allāh enjoins justice (‘adl) and benevolence (iḥsān),(Qur’ān,16:90). Here ‘adl means equidistribution and iḥsān means favour.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ અલ્લાહના આ કૌલ વિશે ફરમાવ્યું: \"બેશક અલ્લાહ અદ્લ અને એહસાનનો હુકમ આપે છે\" (કુરઆન 16:90) — અદ્લ એટલે ઇન્સાફ અને એહસાન એટલે ઉપકાર (ભલાઈ).",
+"ur": "امیرالمومنین علیہ السلام نے اللہ کے قول \"بے شک اللہ عدل اور احسان کا حکم دیتا ہے\" (قرآن 16:90) کے بارے میں فرمایا: عدل سے مراد انصاف ہے اور احسان سے مراد مہربانی۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने अल्लाह के क़ौल \"बेशक अल्लाह अद्ल और एहसान का हुक्म देता है\" (क़ुरआन 16:90) के बारे में फ़रमाया: अद्ल का मतलब इंसाफ़ है और एहसान का मतलब मेहरबानी।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/231/279",
+"tafsir": true,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-alkafivolume2kulayni-109",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “Contemplation (Thinking)” · Hadith 4",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى عَنْ مُعَمَّرِ بْنِ خَلادٍ قَالَ سَمِعْتُ أَبَا الْحَسَنِ الرِّضَا (عَلَيهِ السَّلام) يَقُولُ لَيْسَ الْعِبَادَةُ كَثْرَةَ الصَّلاةِ وَالصَّوْمِ إِنَّمَا الْعِبَادَةُ التَّفَكُّرُ فِي أَمْرِ الله عَزَّ وَجَلَّ.",
+"en": "‘A great deal of prayer and fasting only are not (everything in) worship. Worship is only in thinking about the affairs of Allah, the Most Majestic, the Most Holy.’”",
+"gu": "ફક્ત વધુ નમાઝ અને રોઝા જ (સંપૂર્ણ) ઇબાદત નથી. ઇબાદત તો અલ્લાહના કામો (સર્જન) પર વિચાર કરવામાં છે.",
+"ur": "صرف زیادہ نماز اور روزہ ہی (مکمل) عبادت نہیں۔ عبادت تو اللہ کے امور میں غور و فکر کرنا ہے۔",
+"hi": "सिर्फ़ ज़्यादा नमाज़ और रोज़े ही (पूरी) इबादत नहीं। इबादत तो अल्लाह के कामों में ग़ौर-ओ-फ़िक्र करना है।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (7/341)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/28/4",
+"tafsir": false,
+"by": "rida",
+"topic": "akhlaq"
+},
+{
+"id": "d-nahjalbalagharadi-1873",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Hardship's inevitability and prayer's necessity” · Hadith 372",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): مَا الْمُبْتَلَى الَّذِي قَدِ اشْتَدَّ بِهِ الْبَلاَءُ، بِأَحْوَجَ إِلَى الدُّعَاءِ مِنَ المُعَافَى الَّذِي لَا يَأمَنُ البَلاَءَ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: The person who is afflicted with hardship is not in greater need of praying than the one who has been spared affliction but is not immune from it.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: મુસીબતમાં ફસાયેલાને દુઆની જેટલી જરૂર છે, એટલી જ જરૂર એને પણ છે જે મુસીબતથી બચ્યો છે પણ સલામત નથી.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: مصیبت زدہ کو دعا کی اتنی ہی ضرورت ہے جتنی اس شخص کو جو مصیبت سے بچا ہوا ہے مگر محفوظ نہیں۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: मुसीबतज़दा को दुआ की उतनी ही ज़रूरत है जितनी उस आदमी को जो मुसीबत से बचा हुआ है मगर महफ़ूज़ नहीं।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/302/372",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-alkafivolume2kulayni-2176",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Social Manners · Ch. “One’s Telling His Brother of His Love” · Hadith 2",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "أَحْمَدُ بْنُ مُحَمَّدِ بْنِ خَالِدٍ وَمُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى جَمِيعاً عَنْ عَلِيِّ بْنِ الْحَكَمِ عَنْ هِشَامِ بْنِ سَالِمٍ عَنْ أَبِي عَبْدِ الله (عَلَيهِ السَّلام) قَالَ إِذَا أَحْبَبْتَ رَجُلاً فَأَخْبِرْهُ بِذَلِكَ فَإِنَّهُ أَثْبَتُ لِلْمَوَدَّةِ بَيْنَكُمَا.",
+"en": "“When you love a man, tell him about it; it strengthens your love for one another.”",
+"gu": "જ્યારે તમે કોઈ માણસને પ્રેમ કરો, તો તેને કહો; તેનાથી તમારી પરસ્પર મુહબ્બત મજબૂત થાય છે.",
+"ur": "جب تم کسی شخص سے محبت کرو تو اسے بتا دو؛ اس سے تمہاری آپس کی محبت مضبوط ہوتی ہے۔",
+"hi": "जब तुम किसी आदमी से मुहब्बत करो, तो उसे बता दो; इससे तुम्हारी आपसी मुहब्बत मज़बूत होती है।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (12/538)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/4/6/2",
+"tafsir": false,
+"by": "",
+"topic": "manners"
+},
+{
+"id": "d-alkafivolume2kulayni-427",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “Love for the Sake of Allah and Hate for the Sake of Allah” · Hadith 2",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "ابْنُ مَحْبُوبٍ عَنْ مَالِكِ بْنِ عَطِيَّةَ عَنْ سَعِيدٍ الأعْرَجِ عَنْ أَبِي عَبْدِ الله (عَلَيهِ السَّلام) قَالَ مِنْ أَوْثَقِ عُرَى الإيمَانِ أَنْ تُحِبَّ فِي الله وَتُبْغِضَ فِي الله وَتُعْطِيَ فِي الله وَتَمْنَعَ فِي الله.",
+"en": "“The strongest ring of belief to hold onto is to love for the sake of Allah and hate for the sake of Allah, to give for the sake of Allah and deny for the sake of Allah.”",
+"gu": "ઈમાનની સૌથી મજબૂત કડી છે: અલ્લાહ માટે પ્રેમ કરવો અને અલ્લાહ માટે નફરત કરવી, અલ્લાહ માટે આપવું અને અલ્લાહ માટે રોકવું.",
+"ur": "ایمان کی سب سے مضبوط کڑی یہ ہے: اللہ کے لیے محبت اور اللہ کے لیے نفرت، اللہ کے لیے دینا اور اللہ کے لیے روکنا۔",
+"hi": "ईमान की सबसे मज़बूत कड़ी यह है: अल्लाह के लिए मुहब्बत और अल्लाह के लिए नफ़रत, अल्लाह के लिए देना और अल्लाह के लिए रोकना।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (8/257)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/60/2",
+"tafsir": false,
+"by": "",
+"topic": "akhlaq"
+},
+{
+"id": "d-alkafivolume2kulayni-516",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “Independence from People” · Hadith 1",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى عَنِ الْحَسَنِ بْنِ مَحْبُوبٍ عَنْ عَبْدِ الله بْنِ سِنَانٍ عَنْ أَبِي عَبْدِ الله (عَلَيهِ السَّلام) قَالَ شَرَفُ الْمُؤْمِنِ قِيَامُ اللَّيْلِ وَعِزُّهُ اسْتِغْنَاؤُهُ عَنِ النَّاسِ.",
+"en": "“The nobility of the believer is in his worship at night and his honor is in his independence from people.”",
+"gu": "મોઅમિનની શરાફત રાતની ઇબાદતમાં છે અને તેની ઇઝ્ઝત લોકોથી બેનિયાઝ રહેવામાં છે.",
+"ur": "مومن کی شرافت رات کی عبادت میں ہے اور اس کی عزت لوگوں سے بے نیازی میں ہے۔",
+"hi": "मोमिन की शराफ़त रात की इबादत में है और उसकी इज़्ज़त लोगों से बेनियाज़ रहने में है।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (8/353)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/67/1",
+"tafsir": false,
+"by": "",
+"topic": "akhlaq"
+},
+{
+"id": "d-alkhisalsaduq-724",
+"ref": "Al-Khiṣāl · Part 5: On Five-Numbered Characteristics · Ch. “Blessed Bedvii Those who Have Five Characteristics” · Hadith 1",
+"book": "Al-Khiṣāl",
+"ar": "63 حدثنا محمد بن موسى بن المتوكل رضي الله عنه قال: حدثنا عبد الله بن جعفر الحميري، عن إبراهيم بن هاشم، عن عبد الله بن ميمون، عن جعفر بن محمد، عن أبيه، عن آبائه، عن علي عليهم السلام قال: قال عيسى بن مريم عليه السلام: طوبى لمن كان صمته فكرا، ونظره عبرا، ووسعه بيته، وبكى على خطيئته. وسلم الناس من يده ولسانه",
+"en": "“Blessed be those who have five characteristics. Blessed be those who think when they are silent; who get advice by looking; who sit at home and cry over their sins; and do not bother the people with their hands or tongues.”",
+"gu": "મુબારક છે એ લોકો જેમાં આ ગુણો છે: જે ચૂપ હોય ત્યારે વિચારે; જે જોઈને નસીહત લે; જે ઘરે બેસીને પોતાના ગુનાહો પર રડે; અને જે પોતાના હાથ કે જબાનથી લોકોને તકલીફ ન આપે.",
+"ur": "مبارک ہیں وہ جن میں یہ خصلتیں ہیں: جو خاموش ہوں تو غور کریں؛ جو دیکھ کر نصیحت لیں؛ جو گھر بیٹھ کر اپنے گناہوں پر روئیں؛ اور جو اپنے ہاتھ یا زبان سے لوگوں کو تکلیف نہ دیں۔",
+"hi": "मुबारक हैं वे जिनमें ये ख़ूबियाँ हैं: जो चुप हों तो सोचें; जो देखकर नसीहत लें; जो घर बैठकर अपने गुनाहों पर रोएँ; और जो अपने हाथ या ज़बान से लोगों को तकलीफ़ न दें।",
+"grade": [
+{
+"by": "Hadi al-Najafi",
+"en": "Sahih",
+"ar": "صحيحة الإسناد",
+"ref": "Mawsūʿat Aḥādīth Ahl al-Bayt (6/321)"
+}
+],
+"tr": "Dr. Ali Peiravi",
+"url": "https://thaqalayn.com/hadith/10/6/54/1",
+"tafsir": false,
+"by": "",
+"topic": "khisal"
+},
+{
+"id": "d-alkafivolume1kulayni-61",
+"ref": "Al-Kāfi, Vol. 1 · The Book on Virtue of Knowledge · Ch. “Chapter on the reward for the scholars and those who seek knowledge” · Hadith 2",
+"book": "Al-Kāfi, Vol. 1",
+"ar": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنِ الْحَسَنِ بْنِ مَحْبُوبٍ عَنْ جَمِيلِ بْنِ صَالِحٍ عَنْ مُحَمَّدِ بْنِ مُسْلِمٍ عَنْ ابي جعفر (عَلَيْهِ السَّلام) قَالَ إِنَّ الَّذِي يُعَلِّمُ الْعِلْمَ مِنْكُمْ لَهُ أَجْرٌ مِثْلُ أَجْرِ الْمُتَعَلِّمِ وَلَهُ الْفَضْلُ عَلَيْهِ فَتَعَلَّمُوا الْعِلْمَ مِنْ حَمَلَةِ الْعِلْمِ وَعَلِّمُوهُ إِخْوَانَكُمْ كَمَا عَلَّمَكُمُوهُ الْعُلَمَاءُ.",
+"en": "“Those of you who teach will have the same reward as those who learn in addition to his higher position over the student. Learn knowledge from those possess knowledge and teach it to your brethren just as the scholars have taught you.”",
+"gu": "તમારામાંથી જે શીખવે છે, તેને શીખનાર જેટલો જ સવાબ છે, ઉપરાંત શાગિર્દ પર ઊંચો દરજ્જો. ઇલ્મવાળાઓ પાસેથી ઇલ્મ શીખો અને તમારા ભાઈઓને શીખવો, જેમ આલિમોએ તમને શીખવ્યું.",
+"ur": "تم میں سے جو سکھاتا ہے اسے سیکھنے والے کے برابر اجر ملتا ہے اور شاگرد پر بلند مقام بھی۔ اہل علم سے علم سیکھو اور اپنے بھائیوں کو سکھاؤ جیسے علماء نے تمہیں سکھایا۔",
+"hi": "तुममें से जो सिखाता है उसे सीखने वाले के बराबर सवाब मिलता है और शागिर्द पर ऊँचा दर्जा भी। इल्म वालों से इल्म सीखो और अपने भाइयों को सिखाओ, जैसे आलिमों ने तुम्हें सिखाया।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (1/115)"
+},
+{
+"by": "al-Behbudi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Sahih al-Kafi (1/4)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/2/4/2",
+"tafsir": false,
+"by": "",
+"topic": "knowledge"
+},
+{
+"id": "d-nahjalbalagharadi-2148",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Jealousy reveals flawed friendship” · Hadith 266",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): حَسَدُ الصَّدِيقِ مِنْ سُقْمِ الْمَوَدَّةِ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: Jealousy by a friend means defect in his love.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: મિત્રની ઈર્ષ્યા તેની મુહબ્બતમાં ખામી દર્શાવે છે.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: دوست کا حسد اس کی محبت میں کھوٹ ہے۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: दोस्त का हसद उसकी मुहब्बत में खोट है।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/218/266",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-nahjalbalagharadi-1953",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Powerful words surpass physical force” · Hadith 492",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): رُبَّ قَوْلٍ أَنْفَذُ مِنْ صَوْلٍ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: Many an expression is more effective than an attack.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: ઘણીવાર એક વાત હુમલા કરતાં વધુ અસરકારક હોય છે.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: بہت سی باتیں حملے سے زیادہ کارگر ہوتی ہیں۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: बहुत-सी बातें हमले से ज़्यादा असरदार होती हैं।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/394/492",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-alkafivolume2kulayni-2307",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Social Manners · Ch. “Rights of Neighbors” · Hadith 10",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "أَبُو عَلِيٍّ الأشْعَرِيُّ عَنِ الْحَسَنِ بْنِ عَلِيٍّ الْكُوفِيِّ عَنْ عُبَيْسِ بْنِ هِشَامٍ عَنْ مُعَاوِيَةَ بْنِ عَمَّارٍ عَنْ أَبِي عَبْدِ الله (عَلَيهِ السَّلام) قَالَ قَالَ رَسُولُ الله (صَلَّى اللهُ عَلَيْهِ وآلِه) حُسْنُ الْجِوَارِ يَعْمُرُ الدِّيَارَ وَيُنْسِئُ فِي الأعْمَارِ.",
+"en": "“The Messenger of Allah has said, ‘Maintaining good neighborly relations develops the country and extends one’s lifespan.”",
+"gu": "રસૂલે ખુદા (સ.અ.વ.) એ ફરમાવ્યું: પાડોશી સાથે સારા સંબંધ વતનને આબાદ કરે છે અને ઉંમર વધારે છે.",
+"ur": "رسول خدا صلی اللہ علیہ وآلہ نے فرمایا: ہمسایوں سے اچھا سلوک شہروں کو آباد کرتا ہے اور عمر بڑھاتا ہے۔",
+"hi": "रसूल-ए-ख़ुदा (स.अ.व.) ने फ़रमाया: पड़ोसियों से अच्छा सुलूक बस्तियों को आबाद करता है और उम्र बढ़ाता है।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (12/573)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/4/24/10",
+"tafsir": true,
+"by": "",
+"topic": "manners"
+},
+{
+"id": "d-alkhisalsaduq-610",
+"ref": "Al-Khiṣāl · Part 4: On Four-Numbered Characteristics · Ch. “The four signs of misery” · Hadith 1",
+"book": "Al-Khiṣāl",
+"ar": "96 حدثنا محمد بن موسى بن المتوكل رضي الله عنه قال: حدثنا علي بن الحسين السعد آبادي، عن أحمد بن أبي عبد الله، عن النوفلي، عن السكوني، عن جعفر ابن محمد، عن أبيه، عن آبائه، عن علي عليهم السلام قال: قال رسول الله صلى الله عليه وآله: من علامات الشقاء جمود العين وقسوة القلب، وشدة الحرص في طلب الرزق، والاصرار على الذنب",
+"en": "“The following are amongst the signs of misery: solidity of the eye , hard-heartedness, excessive greed to gain one’s daily bread and insisting on committing sins.”",
+"gu": "બદનસીબીની નિશાનીઓમાં છે: આંખનું સૂકાપણું (આંસુ ન આવવા), દિલની કઠોરતા, રોજી માટે વધુ પડતો લોભ, અને ગુનાહ પર અડગ રહેવું.",
+"ur": "بدبختی کی نشانیوں میں سے ہیں: آنکھ کا خشک ہونا، دل کی سختی، روزی کی شدید حرص، اور گناہ پر اصرار۔",
+"hi": "बदबख़्ती की निशानियों में से हैं: आँख का सूखा होना, दिल की सख़्ती, रोज़ी का बहुत ज़्यादा लालच, और गुनाह पर अड़े रहना।",
+"grade": [
+{
+"by": "Hadi al-Najafi",
+"en": "Mu'tabar",
+"ar": "معتبرة الإسناد",
+"ref": "Mawsūʿat Aḥādīth Ahl al-Bayt (9/131)"
+}
+],
+"tr": "Dr. Ali Peiravi",
+"url": "https://thaqalayn.com/hadith/10/5/79/1",
+"tafsir": false,
+"by": "",
+"topic": "khisal"
+},
+{
+"id": "d-mujamalahadithalmutabaramuhsini-15",
+"ref": "Muʿjam al-Aḥādīth al-Muʿtabara · Book of Intellect and Knowledge · Ch. “Merit of Knowledge and the Scholar and the Obligation of Knowledge” · Hadith 7",
+"book": "Muʿjam al-Aḥādīth al-Muʿtabara",
+"ar": "[7/15] الكافي: قال رسول الله صلى الله عليه وآله: طلب العلم فريضة على كل مسلم",
+"en": "seeking knowledge is compulsory on every Muslim.",
+"gu": "ઇલ્મ મેળવવું દરેક મુસ્લિમ પર ફરજ છે.",
+"ur": "علم حاصل کرنا ہر مسلمان پر فرض ہے۔",
+"hi": "इल्म हासिल करना हर मुसलमान पर फ़र्ज़ है।",
+"grade": [
+{
+"by": "Asif al-Mohseni",
+"en": "Mu'tabar",
+"ar": "معتبر",
+"ref": "Muʿjam al-Aḥādīth al-Muʿtabara"
+}
+],
+"tr": "Ammaar Muslim",
+"url": "https://thaqalayn.com/hadith/9/1/3/7",
+"tafsir": false,
+"by": "",
+"topic": "knowledge"
+},
+{
+"id": "d-nahjalbalagharadi-1909",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Self-reflection and contentment in Islamic teachings” · Hadith 429",
+"book": "Nahj al-Balāgha",
+"ar": "وَالْقَنَاعَةُ مَالٌ لَا يَنْفَدُ، وَمَنْ أَكْثَرَ مِنْ ذِكْرِ الْمَوْتِ رَضِيَ مِنَ الدُّنْيَا بِالْيَسيرِ، وَمَنْ عَلِمَ أَنَّ كَلاَمَهُ مِنْ عَمَلِهِ قَلَّ كَلاَمُهُ إِلَّا فِيَما يَعْنيِهِ.",
+"en": "Contentment is a capital that does not dwindle. He who remembers death much is satisfied with small favours in this world. He who knows that his speech is also a part of his action speaks less except where he has some purpose.",
+"gu": "સંતોષ એવી મૂડી છે જે ઘટતી નથી. જે મોતને વધુ યાદ કરે છે તે દુનિયાની થોડી નેઅમત પર પણ રાજી રહે છે. જે જાણે છે કે તેની વાત પણ તેના અમલનો ભાગ છે, તે જરૂર વગર ઓછું બોલે છે.",
+"ur": "قناعت ایسا سرمایہ ہے جو ختم نہیں ہوتا۔ جو موت کو زیادہ یاد کرے وہ دنیا کی تھوڑی نعمت پر بھی راضی رہتا ہے۔ جو جانتا ہے کہ اس کی بات بھی اس کے عمل کا حصہ ہے وہ بغیر مقصد کے کم بولتا ہے۔",
+"hi": "क़नाअत ऐसी पूँजी है जो ख़त्म नहीं होती। जो मौत को ज़्यादा याद करे वह दुनिया की थोड़ी नेमत पर भी राज़ी रहता है। जो जानता है कि उसकी बात भी उसके अमल का हिस्सा है, वह बिना मक़सद कम बोलता है।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/349/429",
+"tafsir": false,
+"by": "ali",
+"topic": "nahj"
+},
+{
+"id": "d-nahjalbalagharadi-1891",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Triumph through sin is true defeat” · Hadith 404",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): مَا ظَفِرَ مَنْ ظَفِرَ الْإِثْمُ بِهِ، وَالْغَالِبُ بِالشَّرِّ مَغْلُوبٌ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: He whom sin overpowers is not victorious, and he who secures victory by evil is (in fact) vanquished.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: જેના પર ગુનાહ હાવી થઈ જાય તે વિજયી નથી, અને જે બુરાઈથી જીત મેળવે છે તે હકીકતમાં હારેલો છે.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: جس پر گناہ غالب آ جائے وہ کامیاب نہیں، اور جو برائی سے جیتے وہ درحقیقت ہارا ہوا ہے۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: जिस पर गुनाह हावी हो जाए वह कामयाब नहीं, और जो बुराई से जीते वह असल में हारा हुआ है।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/327/404",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-alkafivolume2kulayni-120",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “Excellence of Certainty” · Hadith 3",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "ابْنُ مَحْبُوبٍ عَنْ هِشَامِ بْنِ سَالِمٍ قَالَ سَمِعْتُ أَبَا عَبْدِ الله (عَلَيهِ السَّلام) يَقُولُ إِنَّ الْعَمَلَ الدَّائِمَ الْقَلِيلَ عَلَى الْيَقِينِ أَفْضَلُ عِنْدَ الله مِنَ الْعَمَلِ الْكَثِيرِ عَلَى غَيْرِ يَقِينٍ.",
+"en": "‘The little but continuous deed with certainty is far better in the sight of Allah than a great deal of deeds without certainty.’”",
+"gu": "યકીન સાથેનો થોડો પણ સતત અમલ, અલ્લાહની નજરમાં યકીન વગરના ઘણા અમલ કરતાં ઘણો બહેતર છે.",
+"ur": "یقین کے ساتھ تھوڑا مگر مسلسل عمل، اللہ کے نزدیک بغیر یقین کے بہت سے اعمال سے کہیں بہتر ہے۔",
+"hi": "यक़ीन के साथ थोड़ा मगर लगातार अमल, अल्लाह की नज़र में बिना यक़ीन के बहुत से अमल से कहीं बेहतर है।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (7/359)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/30/3",
+"tafsir": false,
+"by": "",
+"topic": "akhlaq"
+},
+{
+"id": "d-nahjalbalagharadi-1879",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Believers' insights reflect divine truth” · Hadith 380",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): اتَّقُوا ظُنُونَ الْمُؤْمِنِينَ، فَإِنَّ اللهَ تَعَالَى جَعَلَ الْحَقَّ عَلَى أَلْسِنَتِهِمْ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: Be afraid of the ideas of believers, because Allāh, the Sublime, has put truth on their tongues.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: મોઅમિનોના અનુમાનથી સાવધ રહો, કારણ કે અલ્લાહે તેમની જબાન પર સત્ય મૂક્યું છે.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: مومنوں کے گمان سے ڈرو، کیونکہ اللہ نے حق ان کی زبانوں پر رکھا ہے۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: मोमिनों के गुमान से डरो, क्योंकि अल्लाह ने हक़ उनकी ज़बानों पर रखा है।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/309/380",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-alkafivolume2kulayni-765",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “Improving Good Relations Among People” · Hadith 2",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "عَنْهُ عَنِ ابْنِ مَحْبُوبٍ عَنْ هِشَامِ بْنِ سَالِمٍ عَنْ أَبِي عَبْدِ الله (عَلَيهِ السَّلام) قَالَ لأنْ أُصْلِحَ بَيْنَ اثْنَيْنِ أَحَبُّ إِلَيَّ مِنْ أَنْ أَتَصَدَّقَ بِدِينَارَيْنِ.",
+"en": "“To improve good relations beween two people is more beloved to me than giving two Dinar in charity.”",
+"gu": "બે માણસો વચ્ચે સુલેહ કરાવવી મને બે દીનાર સદકો આપવા કરતાં વધુ પસંદ છે.",
+"ur": "دو لوگوں کے درمیان صلح کرانا مجھے دو دینار صدقہ دینے سے زیادہ پسند ہے۔",
+"hi": "दो लोगों के बीच सुलह कराना मुझे दो दीनार सदक़ा देने से ज़्यादा पसंद है।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (9/145)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/91/2",
+"tafsir": false,
+"by": "",
+"topic": "akhlaq"
+},
+{
+"id": "d-alkafivolume2kulayni-1425",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “Paganism Considering Things as Partners of Allah” · Hadith 8",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "عَلِيُّ بْنُ مُحَمَّدٍ عَنْ صَالِحِ بْنِ أَبِي حَمَّادٍ وَعَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ رَجُلٍ عَنْ أَبِي عَبْدِ الله (عَلَيهِ السَّلام) قَالَ مَنْ أَطَاعَ رَجُلاً فِي مَعْصِيَةٍ فَقَدْ عَبَدَهُ.",
+"en": "“Abu ‘Abd Allah (a.s.) has said, ‘Whoever obeys a man in a sin has worshipped him.’”",
+"gu": "ઇમામ જઅફર સાદિક (અ.સ.) એ ફરમાવ્યું: જે ગુનાહમાં કોઈ માણસનું કહ્યું માને છે, તેણે તેની બંદગી કરી.",
+"ur": "امام جعفر صادق علیہ السلام نے فرمایا: جو گناہ میں کسی شخص کی اطاعت کرے اس نے اس کی عبادت کی۔",
+"hi": "इमाम जाफ़र सादिक़ (अ.स.) ने फ़रमाया: जो गुनाह में किसी आदमी का कहना माने, उसने उसकी इबादत की।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Hasan",
+"ar": "حسن كالصحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (11/179)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/169/8",
+"tafsir": false,
+"by": "",
+"topic": "akhlaq"
+},
+{
+"id": "d-alkafivolume5kulayni-474",
+"ref": "Al-Kāfi, Vol. 5 · The Book of Commerce · Ch. “The Excellence of Doing Business and Giving It Proper Attention” · Hadith 1",
+"book": "Al-Kāfi, Vol. 5",
+"ar": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنِ ابْنِ أَبِي عُمَيْرٍ عَنْ حَمَّادِ بْنِ عُثْمَانَ عَنْ أَبِي عَبْدِ اللهِ (عَلَيْهِ السَّلام) قَالَ تَرْكُ التِّجَارَةِ يَنْقُصُ الْعَقْلَ.",
+"en": "“Abu ‘Abd Allah (a.s.), has said, ‘Quitting business reduces one’s power of reason.’”",
+"gu": "ઇમામ જઅફર સાદિક (અ.સ.) એ ફરમાવ્યું: વેપાર છોડી દેવાથી અક્કલ ઘટે છે.",
+"ur": "امام جعفر صادق علیہ السلام نے فرمایا: تجارت چھوڑ دینا عقل کو کم کر دیتا ہے۔",
+"hi": "इमाम जाफ़र सादिक़ (अ.स.) ने फ़रमाया: तिजारत छोड़ देने से अक़्ल कम हो जाती है।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Hasan",
+"ar": "حسن",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (19/129)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/2/53/1",
+"tafsir": false,
+"by": "",
+"topic": "business"
+},
+{
+"id": "d-alkhisalsaduq-179",
+"ref": "Al-Khiṣāl · Part 2: On Two-Numbered Characteristics · Ch. “Two Characteristics Which You Are Admonished Against” · Hadith 1",
+"book": "Al-Khiṣāl",
+"ar": "65 حدثنا أبي رضي الله عنه قال: حدثنا محمد بن يحيى العطار، عن أحمد وعبد الله ابني محمد بن عيسى، عن علي بن الحكم، عن سيف بن عميرة، عن مفضل بن مزيد قال: قال أبوعبد الله عليه السلام: أنهاك عن خصلتين فيهما هلك الرجال: أن تدين الله بالباطل وتفتي الناس بما لا تعلم",
+"en": "“I admonish you against two characteristics which can ruin men: to worship God with a wrong religion, and to advise people on issues you are uninformed about.”",
+"gu": "હું તમને બે ગુણોથી ચેતવું છું જે માણસને બરબાદ કરે છે: ખોટા દીનથી અલ્લાહની ઇબાદત કરવી, અને જે બાબતો તમે જાણતા નથી તેમાં લોકોને ફત્વા/સલાહ આપવી.",
+"ur": "میں تمہیں دو خصلتوں سے خبردار کرتا ہوں جو انسان کو تباہ کر دیتی ہیں: غلط دین سے اللہ کی عبادت کرنا، اور ان باتوں میں لوگوں کو فتویٰ دینا جو تم نہیں جانتے۔",
+"hi": "मैं तुम्हें दो ख़सलतों से ख़बरदार करता हूँ जो इंसान को तबाह कर देती हैं: ग़लत दीन से अल्लाह की इबादत करना, और उन बातों में लोगों को फ़तवा देना जो तुम नहीं जानते।",
+"grade": [
+{
+"by": "Hadi al-Najafi",
+"en": "Mu'tabar",
+"ar": "معتبرة الإسناد",
+"ref": "Mawsūʿat Aḥādīth Ahl al-Bayt (12/57)"
+}
+],
+"tr": "Dr. Ali Peiravi",
+"url": "https://thaqalayn.com/hadith/10/3/52/1",
+"tafsir": false,
+"by": "",
+"topic": "khisal"
+},
+{
+"id": "d-nahjalbalagharadi-1893",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Minimizing divine favor misuse” · Hadith 407",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): أَقَلُّ مَا يَلْزَمُكُمْ لله أَلَّا تَسْتَعيِنُوا بِنِعَمِهِ عَلَى مَعَاصِيهِ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: The least right of Allāh on you is that you should not make use of His favours in committing His sins.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: તમારા પર અલ્લાહનો સૌથી ઓછો હક એ છે કે તેની નેઅમતોને તેની નાફરમાનીમાં ન વાપરો.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: تم پر اللہ کا کم سے کم حق یہ ہے کہ اس کی نعمتوں کو اس کی نافرمانی میں استعمال نہ کرو۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: तुम पर अल्लाह का सबसे कम हक़ यह है कि उसकी नेमतों को उसकी नाफ़रमानी में इस्तेमाल न करो।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/330/407",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-alkafivolume2kulayni-1660",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Supplication · Ch. “The Times and Conditions in which there is Hope for Acceptance” · Hadith 5",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "عَنْهُ عَنْ أَبِيهِ عَنْ حَمَّادِ بْنِ عِيسَى عَنْ حُسَيْنِ بْنِ الْمُخْتَارِ عَنْ أَبِي بَصِيرٍ عَنْ أَبِي عَبْدِ الله (عَلَيهِ السَّلام) قَالَ إِذَا رَقَّ أَحَدُكُمْ فَلْيَدْعُ فَإِنَّ الْقَلْبَ لا يَرِقُّ حَتَّى يَخْلُصَ.",
+"en": "\"When one of you feels tenderness in your heart, let him supplicate, for the heart does not become tender until it is sincere.\"",
+"gu": "જ્યારે તમારામાંથી કોઈને દિલમાં નરમી મહેસૂસ થાય, ત્યારે દુઆ કરે; કારણ કે દિલ ત્યારે જ નરમ થાય છે જ્યારે તે ખાલિસ થાય.",
+"ur": "جب تم میں سے کسی کو دل میں نرمی محسوس ہو تو دعا کرے، کیونکہ دل اسی وقت نرم ہوتا ہے جب وہ خالص ہو جائے۔",
+"hi": "जब तुममें से किसी को दिल में नरमी महसूस हो, तो दुआ करे; क्योंकि दिल तभी नरम होता है जब वह ख़ालिस हो जाए।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Hasan",
+"ar": "حسن موثق",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (12/36)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/2/13/5",
+"tafsir": false,
+"by": "sadiq",
+"topic": "dua"
+},
+{
+"id": "d-alkafivolume2kulayni-2188",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Social Manners · Ch. “Offering the Greeting of Peace” · Hadith 12",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "عِدَّةٌ مِنْ أَصْحَابِنَا عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ عُثْمَانَ بْنِ عِيسَى عَنْ هَارُونَ بْنِ خَارِجَةَ عَنْ أَبِي عَبْدِ الله (عَلَيهِ السَّلام) قَالَ مِنَ التَّوَاضُعِ أَنْ تُسَلِّمَ عَلَى مَنْ لَقِيتَ.",
+"en": "“It is of humility to offer the greeting of peace to whomever you meet.”",
+"gu": "જેને પણ મળો તેને સલામ કરવી — એ નમ્રતા છે.",
+"ur": "جس سے بھی ملو اسے سلام کرنا عاجزی میں سے ہے۔",
+"hi": "जिससे भी मिलो उसे सलाम करना विनम्रता में से है।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (12/542)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/4/7/12",
+"tafsir": false,
+"by": "",
+"topic": "manners"
+},
+{
+"id": "d-nahjalbalagharadi-1951",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Speech reveals character through the tongue” · Hadith 490",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): تَكَلَّمُوا تُعْرَفُوا، فَإِنَّ الْمَرْءَ مَخْبُوءٌ تَحْتَ لِسَانِهِ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: Speak so that you may be known, since man is hidden under his tongue.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: બોલો જેથી ઓળખાઓ, કારણ કે માણસ પોતાની જબાન નીચે છુપાયેલો છે.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: بولو تاکہ پہچانے جاؤ، کیونکہ انسان اپنی زبان کے نیچے چھپا ہوا ہے۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: बोलो ताकि पहचाने जाओ, क्योंकि इंसान अपनी ज़बान के नीचे छिपा हुआ है।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/392/490",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-nahjalbalagharadi-2205",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Hypocrisy in criticizing others' flaws” · Hadith 433",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): أَكْبَرُ الْعَيْبِ أَنْ تَعِيبَ مَا فِيكَ مِثْلُهُ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: The greatest defect is to regard that defect (in others) which is present in yourself.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: સૌથી મોટો દોષ એ છે કે જે દોષ તમારામાં છે તેને બીજામાં દોષ ગણો.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: سب سے بڑا عیب یہ ہے کہ جو عیب تم میں ہے اسے دوسروں میں عیب سمجھو۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: सबसे बड़ा ऐब यह है कि जो ऐब तुममें है उसे दूसरों में ऐब समझो।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/353/433",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-nahjalbalagharadi-1644",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Charity as a cure and afterlife consequences” · Hadith 8",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): الصَّدَقَةُ دَوَاءٌ مُنْجِحٌ، وَأَعْمَالُ الْعِبَادِ فِي عَاجِلِهِمْ، نُصْبُ أَعْيُنِهِمْ فِي آجِلِهِمْ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: Charity is an effective cure, and the actions of people in their present life will be before their eyes in the next life.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: સદકો અસરકારક દવા છે, અને લોકોના આ દુનિયાના અમલ આખિરતમાં તેમની આંખો સામે હશે.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: صدقہ مؤثر دوا ہے، اور لوگوں کے اس دنیا کے اعمال آخرت میں ان کی آنکھوں کے سامنے ہوں گے۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: सदक़ा असरदार दवा है, और लोगों के इस दुनिया के अमल आख़िरत में उनकी आँखों के सामने होंगे।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/7/8",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-nahjalbalagharadi-1920",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Interpreting speech with positive intent” · Hadith 445",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): لَا تَظُنَّنَّ بِكَلِمَةٍ خَرَجَتْ مِنْ أَحَدٍ سَوءاً، وَأَنْتَ تَجِدُ لَهَا فِي الْخَيْرِ مُحْتَمَلاً.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: Do not regard an expression uttered by any person as evil if you can find it capable of bearing some good.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: કોઈની વાતમાં જો સારો અર્થ શોધી શકાય તો તેને ખરાબ ન સમજો.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: کسی کی بات میں اگر اچھا مطلب نکل سکتا ہو تو اسے برا نہ سمجھو۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: किसी की बात में अगर अच्छा मतलब निकल सकता हो, तो उसे बुरा न समझो।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/360/445",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-nahjalbalagharadi-1646",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Worldly favors distort merit and loss” · Hadith 10",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): إِذَا أَقْبَلَتِ الدُّنْيَا عَلَى أَحَدٍ أَعَارَتْهُ مَحَاسِنَ غَيْرِهِ وَإِذَا أَدْبَرَتْ عَنْهُ سَلَبَتْهُ مَحَاسِنَ نَفْسِهِ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: When this world advances towards anyone (with its favours) it attributes to him other’s good; and when it turns away from him it deprives him of his own good.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: જ્યારે દુનિયા કોઈ તરફ આવે છે ત્યારે બીજાની ખૂબીઓ પણ તેના નામે કરી દે છે; અને જ્યારે મોઢું ફેરવે છે ત્યારે તેની પોતાની ખૂબીઓ પણ છીનવી લે છે.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: جب دنیا کسی کی طرف آتی ہے تو دوسروں کی خوبیاں بھی اس کے نام کر دیتی ہے، اور جب منہ پھیرتی ہے تو اس کی اپنی خوبیاں بھی چھین لیتی ہے۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: जब दुनिया किसी की तरफ़ आती है तो दूसरों की ख़ूबियाँ भी उसके नाम कर देती है; और जब मुँह फेरती है तो उसकी अपनी ख़ूबियाँ भी छीन लेती है।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/9/10",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-alkafivolume1kulayni-129",
+"ref": "Al-Kāfi, Vol. 1 · The Book on Virtue of Knowledge · Ch. “Chapter on Miscellaneous Issues” · Hadith 3",
+"book": "Al-Kāfi, Vol. 1",
+"ar": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ أَبِي نَصْرٍ عَنْ حَمَّادِ بْنِ عُثْمَانَ عَنْ أَبِي عَبْدِ الله (عَلَيْهِ السَّلام) قَالَ قَالَ رَسُولُ الله (صَلَّى اللهُ عَلَيْهِ وَآلِه) نِعْمَ وَزِيرُ الايمَانِ الْعِلْمُ وَنِعْمَ وَزِيرُ الْعِلْمِ الْحِلْمُ وَنِعْمَ وَزِيرُ الْحِلْمِ الرِّفْقُ وَنِعْمَ وَزِيرُ الرِّفْقِ الصَّبْرُ.",
+"en": "“The holy Prophet has said, ‘The best minister for faith is knowledge, the best minister for knowledge is forbearance, the best minister for forbearance is amicable dealings and the best minister for amicable dealings is patience.’”",
+"gu": "નબી (સ.અ.વ.) એ ફરમાવ્યું: ઈમાનનો શ્રેષ્ઠ વઝીર ઇલ્મ છે, ઇલ્મનો શ્રેષ્ઠ વઝીર સહનશીલતા છે, સહનશીલતાનો શ્રેષ્ઠ વઝીર નરમ વ્યવહાર છે, અને નરમ વ્યવહારનો શ્રેષ્ઠ વઝીર સબ્ર છે.",
+"ur": "نبی صلی اللہ علیہ وآلہ نے فرمایا: ایمان کا بہترین وزیر علم ہے، علم کا بہترین وزیر بردباری ہے، بردباری کا بہترین وزیر نرمی ہے، اور نرمی کا بہترین وزیر صبر ہے۔",
+"hi": "नबी (स.अ.व.) ने फ़रमाया: ईमान का सबसे अच्छा वज़ीर इल्म है, इल्म का सबसे अच्छा वज़ीर सहनशीलता है, सहनशीलता का सबसे अच्छा वज़ीर नरमी है, और नरमी का सबसे अच्छा वज़ीर सब्र है।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (1/158)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/2/16/3",
+"tafsir": false,
+"by": "",
+"topic": "knowledge"
+},
+{
+"id": "d-nahjalbalagharadi-1806",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Jealousy overlooks bodily health” · Hadith 273",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): الْعَجَبُ لِغَفْلَةِ الْحُسَّادِ عَنْ سَلاَمَةِ الْأَجْسَادِ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: It is strange that the jealous do not feel jealous about bodily health.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: નવાઈની વાત છે કે ઈર્ષ્યાળુ લોકો શરીરની તંદુરસ્તી પર ઈર્ષ્યા નથી કરતા.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: تعجب ہے کہ حسد کرنے والے جسم کی صحت پر حسد نہیں کرتے۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: ताज्जुब है कि हसद करने वाले जिस्म की सेहत पर हसद नहीं करते।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/225/273",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-nahjalbalagharadi-1865",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Avoiding association with fools” · Hadith 360",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): لَا تَصْحَبِ الْمَائِقَ فَإِنَّهُ يُزَيِّنُ لَكَ فِعْلَهُ، وَيَوَدُّ أَنْ تَكُونَ مِثْلَهُ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: Do not associate with a fool because he will beautify his actions before you and long that you too be like him.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: મૂર્ખની સોબત ન કરો, કારણ કે તે પોતાના કામ તમને સુંદર બતાવશે અને ચાહશે કે તમે પણ તેના જેવા બનો.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: بے وقوف کی صحبت اختیار نہ کرو، کیونکہ وہ اپنے کاموں کو تمہارے سامنے خوشنما بنا کر پیش کرے گا اور چاہے گا کہ تم بھی اس جیسے ہو جاؤ۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: बेवक़ूफ़ की संगत न करो, क्योंकि वह अपने कामों को तुम्हारे सामने ख़ूबसूरत बनाकर पेश करेगा और चाहेगा कि तुम भी उस जैसे हो जाओ।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/293/360",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-nahjalbalagharadi-1655",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Forgiving virtuous individuals' shortcomings” · Hadith 22",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): أَقِيلُوا ذَوِي الْمُرُوءَاتِ عَثَرَاتِهِمْ فَمَا يَعْثُرُ مِنْهُمْ عَاثِرٌ إِلَّا وَيَدُهُ بِيَدِ اللهِ يَرْفَعُهُ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: Forgive the shortcomings of people of virtue and honor because when they fall into error Allāh raises them up.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: ભલા અને ઇઝ્ઝતદાર લોકોની ભૂલો માફ કરો, કારણ કે જ્યારે તેઓ લપસે છે ત્યારે અલ્લાહ તેમને ઉપાડી લે છે.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: نیک اور باعزت لوگوں کی لغزشیں معاف کرو، کیونکہ جب وہ لڑکھڑاتے ہیں تو اللہ انہیں سنبھال لیتا ہے۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: नेक और इज़्ज़तदार लोगों की ग़लतियाँ माफ़ करो, क्योंकि जब वे लड़खड़ाते हैं तो अल्लाह उन्हें संभाल लेता है।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/20/22",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-mujamalahadithalmutabaramuhsini-10",
+"ref": "Muʿjam al-Aḥādīth al-Muʿtabara · Book of Intellect and Knowledge · Ch. “Merit of Knowledge and the Scholar and the Obligation of Knowledge” · Hadith 2",
+"book": "Muʿjam al-Aḥādīth al-Muʿtabara",
+"ar": "[2/10] اصول الكافي: عن علي، عن أبيه، عن ابن أبي عمير، وعن محمد بن يحيى، عن أحمد ابن محمد، عن ابن أبي عمير، عن سيف بن عميرة، عن أبي حمزة، عن أبي جعفر عليه السلام قال: عالم ينتفع بعلمه أفضل من سبعين ألف عابد",
+"en": "the scholar whose knowledge benefits others is better than seventy thousand worshippers.",
+"gu": "એ આલિમ જેના ઇલ્મથી બીજાને ફાયદો થાય, સિત્તેર હજાર આબિદો (ઇબાદતગુઝારો) કરતાં બહેતર છે.",
+"ur": "وہ عالم جس کے علم سے دوسروں کو فائدہ پہنچے، ستر ہزار عابدوں سے بہتر ہے۔",
+"hi": "वह आलिम जिसके इल्म से दूसरों को फ़ायदा पहुँचे, सत्तर हज़ार आबिदों से बेहतर है।",
+"grade": [
+{
+"by": "Asif al-Mohseni",
+"en": "Mu'tabar",
+"ar": "معتبر",
+"ref": "Muʿjam al-Aḥādīth al-Muʿtabara"
+}
+],
+"tr": "Ammaar Muslim",
+"url": "https://thaqalayn.com/hadith/9/1/3/2",
+"tafsir": false,
+"by": "",
+"topic": "knowledge"
+},
+{
+"id": "d-nahjalbalagharadi-1658",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Relief and comfort as atonement for sins” · Hadith 27",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): مِنْ كَفَّارَاتِ الذُّنُوبِ الْعِظَامِ إِغَاثَةُ الْمَلْهُوفِ، وَالتَّنْفِيسُ عَنِ الْمكْرُوبِ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: Rendering relief to the grief-stricken and providing comfort in hardship are among the means of atonement for great sins.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: દુઃખીની મદદ કરવી અને મુશ્કેલીમાં રાહત આપવી — મોટા ગુનાહોના કફ્ફારામાંથી છે.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: غمزدہ کی فریاد رسی اور مصیبت زدہ کو راحت پہنچانا بڑے گناہوں کا کفارہ ہے۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: ग़मज़दा की मदद करना और मुसीबतज़दा को राहत पहुँचाना बड़े गुनाहों के कफ़्फ़ारे में से है।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/24/27",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-nahjalbalagharadi-1945",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Seeking leads to partial attainment” · Hadith 481",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): مَنْ طَلَبَ شَيْئاً نَالَهُ أَوْ بَعْضَهُ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: One who is in search of something will obtain it, at least a part of it",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: જે કોઈ વસ્તુ શોધે છે તે તેને મેળવે છે, ઓછામાં ઓછો તેનો કેટલોક ભાગ.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: جو کسی چیز کو تلاش کرتا ہے وہ اسے پا لیتا ہے، کم از کم اس کا کچھ حصہ۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: जो किसी चीज़ को तलाश करता है वह उसे पा लेता है, कम से कम उसका कुछ हिस्सा।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/386/481",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-alkafivolume2kulayni-278",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “Gratitude and Thankfulness” · Hadith 13",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى عَنْ مُعَمَّرِ بْنِ خَلادٍ قَالَ سَمِعْتُ أَبَا الْحَسَنِ صَلَوَاتُ الله عَلَيْهِ يَقُولُ مَنْ حَمِدَ الله عَلَى النِّعْمَةِ فَقَدْ شَكَرَهُ وَكَانَ الْحَمْدُ أَفْضَلَ مِنْ تِلْكَ النِّعْمَةِ.",
+"en": "‘One’s praising Allah for His granting him bounties is considered his expressing thanks to Allah and expressing the praise of Allah, is better than the bounties one has received.’”",
+"gu": "નેઅમત મળવા પર અલ્લાહની હમ્દ કરવી એ જ તેનો શુક્ર છે — અને અલ્લાહની હમ્દ મળેલી નેઅમત કરતાં પણ બહેતર છે.",
+"ur": "نعمت ملنے پر اللہ کی حمد کرنا ہی اس کا شکر ہے — اور اللہ کی حمد ملی ہوئی نعمت سے بھی بہتر ہے۔",
+"hi": "नेमत मिलने पर अल्लाह की हम्द करना ही उसका शुक्र है — और अल्लाह की हम्द मिली हुई नेमत से भी बेहतर है।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (8/156)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/48/13",
+"tafsir": false,
+"by": "",
+"topic": "akhlaq"
+},
+{
+"id": "d-nahjalbalagharadi-2169",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Emphasizing knowledge, conviction, and action” · Hadith 335",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): لَا تَجْعَلُوا عِلْمَكُمْ جَهْلًا وَيَقِينَكُمْ شَكّاً إِذَا عَلِمْتُمْ فَاعْمَلُوا وَإِذَا تَيَقَّنْتُمْ فَأَقْدِمُوا.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: Do not turn your knowledge into ignorance or your conviction into doubt. When you gain knowledge act (upon it) and when you acquire conviction proceed (on its basis).",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: તમારા ઇલ્મને જહાલત અને તમારા યકીનને શંકામાં ન બદલો. જ્યારે ઇલ્મ મળે ત્યારે અમલ કરો, અને જ્યારે યકીન આવે ત્યારે આગળ વધો.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: اپنے علم کو جہالت اور اپنے یقین کو شک نہ بناؤ۔ جب علم حاصل ہو تو عمل کرو، اور جب یقین ہو جائے تو قدم بڑھاؤ۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: अपने इल्म को जहालत और अपने यक़ीन को शक न बनाओ। जब इल्म मिले तो अमल करो, और जब यक़ीन हो जाए तो क़दम बढ़ाओ।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/274/335",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-alkafivolume2kulayni-1298",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “Those Who Seek to Find Mistakes and (expose) Privacies of the Believers” · Hadith 7",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "عَنْهُ عَنِ ابْنِ فَضَّالٍ عَنِ ابْنِ بُكَيْرٍ عَنْ أَبِي عَبْدِ الله (عَلَيهِ السَّلام) قَالَ أَبْعَدُ مَا يَكُونُ الْعَبْدُ مِنَ الله أَنْ يَكُونَ الرَّجُلُ يُوَاخِيَ الرَّجُلَ وَهُوَ يَحْفَظُ عَلَيْهِ زَلاتِهِ لِيُعَيِّرَهُ بِهَا يَوْماً مَا.",
+"en": "“Abu ‘Abd Allah (a.s.) has said, ‘A servant (of Allah) is farthest from Allah when he assumes brotherhood (in belief) with a man and keeps counting his slips and mistakes so he can one day use them against him.’”",
+"gu": "ઇમામ જઅફર સાદિક (અ.સ.) એ ફરમાવ્યું: બંદો અલ્લાહથી સૌથી દૂર ત્યારે હોય છે જ્યારે તે કોઈ સાથે ભાઈચારો રાખે અને તેની ભૂલો ગણતો રહે, જેથી કોઈ દિવસ તેની સામે વાપરી શકે.",
+"ur": "امام جعفر صادق علیہ السلام نے فرمایا: بندہ اللہ سے سب سے زیادہ دور اس وقت ہوتا ہے جب کسی سے بھائی چارہ رکھے اور اس کی لغزشیں گنتا رہے تاکہ کسی دن اس کے خلاف استعمال کر سکے۔",
+"hi": "इमाम जाफ़र सादिक़ (अ.स.) ने फ़रमाया: बंदा अल्लाह से सबसे ज़्यादा दूर तब होता है जब किसी से भाईचारा रखे और उसकी ग़लतियाँ गिनता रहे, ताकि किसी दिन उसके ख़िलाफ़ इस्तेमाल कर सके।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Muwaththaq",
+"ar": "موثق كالصحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (0/403)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/146/7",
+"tafsir": false,
+"by": "",
+"topic": "akhlaq"
+},
+{
+"id": "d-nahjalbalagharadi-2201",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Beauty of destitution in chastity and riches in gratefulness” · Hadith 417",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): الْعَفَافُ زِينَةُ الْفَقْرِ، وَالشُّكْرُ زِينَةُ الْغِنَى.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: The beauty of destitution is chastity and the beauty of riches is gratefulness.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: ગરીબીની સુંદરતા પાકદામની છે અને અમીરીની સુંદરતા શુક્રગુઝારી છે.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: فقر کی زینت پاکدامنی ہے اور مالداری کی زینت شکرگزاری۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: ग़रीबी की ज़ीनत पाकदामनी है और मालदारी की ज़ीनत शुक्रगुज़ारी।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/340/417",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-nahjalbalagharadi-1665",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Quick speech invites unfounded criticism” · Hadith 45",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): مَنْ أَسْرَعَ إِلَى النَّاسِ بِمَا يَكْرَهُونَ، قَالُوا فِيهِ بِمَا لَا يَعْلَمُونَ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: If someone is quick in saying about people what they dislike, they speak about him that about which they have no knowledge.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: જે લોકો વિશે તેમને નાપસંદ વાત કહેવામાં ઉતાવળ કરે છે, લોકો તેના વિશે એવી વાતો કહે છે જેની તેમને ખબર પણ નથી.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: جو لوگوں کے بارے میں ناپسندیدہ باتیں کہنے میں جلدی کرے، لوگ اس کے بارے میں وہ باتیں کہتے ہیں جن کا انہیں علم بھی نہیں۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: जो लोगों के बारे में नापसंद बातें कहने में जल्दी करे, लोग उसके बारे में वे बातें कहते हैं जिनका उन्हें इल्म भी नहीं।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/35/45",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-alkafivolume2kulayni-1074",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “Disputation, Quarrels and Animosity to Men” · Hadith 8",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى عَنِ ابْنِ مَحْبُوبٍ عَنْ عَنْبَسَةَ الْعَابِدِ عَنْ أَبِي عَبْدِ الله (عَلَيهِ السَّلام) قَالَ إِيَّاكُمْ وَالْخُصُومَةَ فَإِنَّهَا تَشْغَلُ الْقَلْبَ وَتُورِثُ النِّفَاقَ وَتَكْسِبُ الضَّغَائِنَ.",
+"en": "“Beware of disputing, for it occupies the heart, engenders hypocrisy, and breeds enmities.”",
+"gu": "ઝઘડાથી બચો, કારણ કે તે દિલને રોકી રાખે છે, નિફાક પેદા કરે છે અને દુશ્મની વધારે છે.",
+"ur": "جھگڑے سے بچو، کیونکہ یہ دل کو مشغول کر دیتا ہے، نفاق پیدا کرتا ہے اور دشمنیاں بڑھاتا ہے۔",
+"hi": "झगड़े से बचो, क्योंकि यह दिल को उलझा देता है, निफ़ाक़ पैदा करता है और दुश्मनियाँ बढ़ाता है।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (10/139)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/120/8",
+"tafsir": false,
+"by": "",
+"topic": "akhlaq"
+},
+{
+"id": "d-alkafivolume2kulayni-1323",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “Accusation and Evil Guessing” · Hadith 1",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "عَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ عَنْ حَمَّادِ بْنِ عِيسَى عَنْ إِبْرَاهِيمَ بْنِ عُمَرَ الْيَمَانِيِّ عَنْ أَبِي عَبْدِ الله (عَلَيهِ السَّلام) قَالَ إِذَا اتَّهَمَ الْمُؤْمِنُ أَخَاهُ انْمَاثَ الإيمَانُ مِنْ قَلْبِهِ كَمَا يَنْمَاثُ الْمِلْحُ فِي الْمَاءِ.",
+"en": "‘When a believer accuses his brother (in faith), belief melts away in his heart just as salt melts away in water.’”",
+"gu": "જ્યારે મોઅમિન પોતાના ભાઈ પર આરોપ મૂકે છે, ત્યારે તેના દિલમાંથી ઈમાન એવી રીતે ઓગળે છે જેમ પાણીમાં મીઠું.",
+"ur": "جب مومن اپنے بھائی پر تہمت لگاتا ہے تو اس کے دل میں ایمان اس طرح گھل جاتا ہے جیسے پانی میں نمک۔",
+"hi": "जब मोमिन अपने भाई पर तोहमत लगाता है, तो उसके दिल में ईमान ऐसे घुल जाता है जैसे पानी में नमक।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Hasan",
+"ar": "حسن كالصحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (11/13)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/152/1",
+"tafsir": false,
+"by": "",
+"topic": "akhlaq"
+},
+{
+"id": "d-alkafivolume2kulayni-1177",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “Abusiveness” · Hadith 13",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "الْحُسَيْنُ بْنُ مُحَمَّدٍ عَنْ مُعَلَّى بْنِ مُحَمَّدٍ عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ بَعْضِ رِجَالِهِ قَالَ قَالَ مَنْ فَحُشَ عَلَى أَخِيهِ الْمُسْلِمِ نَزَعَ الله مِنْهُ بَرَكَةَ رِزْقِهِ وَوَكَلَهُ إِلَى نَفْسِهِ وَأَفْسَدَ عَلَيْهِ مَعِيشَتَهُ.",
+"en": "“The Imam has said, ‘Whoever uses foul language against his Muslim brother (in belief) Allah removes blessings from his livelihood, leaves him to be on his own and destroys his means of living.”’",
+"gu": "જે પોતાના મુસ્લિમ ભાઈ વિરુદ્ધ ગંદી ભાષા વાપરે છે, અલ્લાહ તેની રોઝીમાંથી બરકત ઉઠાવી લે છે, તેને પોતાના હાલ પર છોડી દે છે અને તેના રોજગારના સાધન બગાડી દે છે.",
+"ur": "جو اپنے مسلمان بھائی کے خلاف بدزبانی کرے، اللہ اس کی روزی سے برکت اٹھا لیتا ہے، اسے اس کے حال پر چھوڑ دیتا ہے اور اس کے روزگار کو بگاڑ دیتا ہے۔",
+"hi": "जो अपने मुसलमान भाई के ख़िलाफ़ बदज़बानी करे, अल्लाह उसकी रोज़ी से बरकत उठा लेता है, उसे उसके हाल पर छोड़ देता है और उसके रोज़गार को बिगाड़ देता है।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Hasan",
+"ar": "حسن كالصحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (0/278)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/1/131/13",
+"tafsir": false,
+"by": "",
+"topic": "akhlaq"
+},
+{
+"id": "d-nahjalbalagharadi-1770",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Avoiding sin is easier than seeking forgiveness” · Hadith 215",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): تَرْكُ الذَّنْبِ أَهْوَنُ مِنْ طَلَبِ التَّوْبَةِ.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: Abstention from sin is easier than seeking forgiveness afterwards.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: ગુનાહથી બચવું, પછી માફી માંગવા કરતાં સહેલું છે.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: گناہ سے بچنا بعد میں توبہ کرنے سے آسان ہے۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: गुनाह से बचना बाद में तौबा करने से आसान है।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/170/215",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-nahjalbalagharadi-1688",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Avoiding need preferable to inappropriate begging” · Hadith 81",
+"book": "Nahj al-Balāgha",
+"ar": "وَقَالَ (عليه ‏السلام): فَوْتُ الْحَاجَةِ أَهْوَنُ مِنْ طَلَبِهَا إِلَى غَيْرِ أَهْلِهَا.",
+"en": "Amīr al-mu’minīn, peace be upon him, said: To miss what one needs is easier than to beg from an inappropriate person.",
+"gu": "અમીરુલ મોઅમેનીન (અ.સ.) એ ફરમાવ્યું: જરૂરી વસ્તુ ગુમાવવી, અયોગ્ય માણસ પાસે હાથ ફેલાવવા કરતાં સહેલું છે.",
+"ur": "امیرالمومنین علیہ السلام نے فرمایا: ضرورت کی چیز کا نہ ملنا نااہل سے مانگنے سے آسان ہے۔",
+"hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: ज़रूरत की चीज़ का न मिलना नालायक़ से माँगने से आसान है।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/66/81",
+"tafsir": false,
+"by": "",
+"topic": "nahj"
+},
+{
+"id": "d-nahjalbalagharadi-2232",
+"ref": "Nahj al-Balāgha · Sayings · Ch. “Enduring grief like noble beings” · Hadith 516",
+"book": "Nahj al-Balāgha",
+"ar": "إِنْ صَبَرْتَ صَبْرَ الْأَكَارِمِ، وَإِلَّا سَلَوْتَ سُلُوَّ الْبَهَائِمِ.",
+"en": "Either endure like great people or else you will forget like animals.",
+"gu": "કાં તો મોટા લોકોની જેમ સબ્ર કરો, નહીં તો જાનવરોની જેમ ભૂલી જશો.",
+"ur": "یا تو بڑے لوگوں کی طرح صبر کرو، ورنہ جانوروں کی طرح بھول جاؤ گے۔",
+"hi": "या तो बड़े लोगों की तरह सब्र करो, वरना जानवरों की तरह भूल जाओगे।",
+"grade": [],
+"tr": "Sayed Ali Raza",
+"url": "https://thaqalayn.com/hadith/32/3/414/516",
+"tafsir": false,
+"by": "ali",
+"topic": "nahj"
+},
+{
+"id": "d-alkafivolume2kulayni-2249",
+"ref": "Al-Kāfi, Vol. 2 · The Book of Social Manners · Ch. “The Necessity to Honor an Old Muslim” · Hadith 1",
+"book": "Al-Kāfi, Vol. 2",
+"ar": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ وَعَلِيُّ بْنُ إِبْرَاهِيمَ عَنْ أَبِيهِ جَمِيعاً عَنِ ابْنِ مَحْبُوبٍ عَنْ عَبْدِ الله بْنِ سِنَانٍ قَالَ قَالَ لِي أَبُو عَبْدِ الله (عَلَيهِ السَّلام) إِنَّ مِنْ إِجْلالِ الله عَزَّ وَجَلَّ إِجْلالَ الشَّيْخِ الْكَبِيرِ.",
+"en": "“Abu ‘Abd Allah (a.s.) has said, ‘It is of honoring Allah, the Most Majestic, the Most Holy, to honor a Muslim man advanced in age.’”",
+"gu": "ઇમામ જઅફર સાદિક (અ.સ.) એ ફરમાવ્યું: વયોવૃદ્ધ મુસ્લિમનું સન્માન કરવું — એ અલ્લાહનું સન્માન કરવામાંથી છે.",
+"ur": "امام جعفر صادق علیہ السلام نے فرمایا: بوڑھے مسلمان کی عزت کرنا اللہ کی تعظیم میں سے ہے۔",
+"hi": "इमाम जाफ़र सादिक़ (अ.स.) ने फ़रमाया: बुज़ुर्ग मुसलमान की इज़्ज़त करना अल्लाह की ताज़ीम में से है।",
+"grade": [
+{
+"by": "al-Majlisi",
+"en": "Sahih",
+"ar": "صحيح",
+"ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (12/559)"
+}
+],
+"tr": "Muhammad Sarwar",
+"url": "https://thaqalayn.com/hadith/1/4/16/1",
+"tafsir": false,
+"by": "",
+"topic": "manners"
+}
+]
+}

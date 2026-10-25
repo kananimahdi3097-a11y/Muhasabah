@@ -1,3 +1,356 @@
 {
-  "packs": []
+ "packs": [
+  {
+   "id": "tq-al-kafi-volume-1-kulayni",
+   "version": 1,
+   "title": "Al-Kāfi, Vol. 1",
+   "file": "content/library/al-kafi-volume-1-kulayni.json",
+   "optional": true,
+   "count": 1449,
+   "size": 4296281,
+   "translator": "Muhammad Sarwar",
+   "author": "Shaykh Muḥammad b. Yaʿqūb al-Kulaynī"
+  },
+  {
+   "id": "tq-mujam-al-ahadith-al-mutabara-muhsini",
+   "version": 1,
+   "title": "Muʿjam al-Aḥādīth al-Muʿtabara",
+   "file": "content/library/mujam-al-ahadith-al-mutabara-muhsini.json",
+   "optional": true,
+   "count": 555,
+   "size": 948671,
+   "translator": "Ammaar Muslim",
+   "author": "Shaykh Muḥammad Āṣif al-Muḥsinī"
+  },
+  {
+   "id": "tq-al-khisal-saduq",
+   "version": 1,
+   "title": "Al-Khiṣāl",
+   "file": "content/library/al-khisal-saduq.json",
+   "optional": true,
+   "count": 1282,
+   "size": 3177165,
+   "translator": "Dr. Ali Peiravi",
+   "author": "Shaykh Muḥammad b. ʿAlī al-Ṣaduq"
+  },
+  {
+   "id": "tq-uyun-akhbar-al-rida-volume-1-saduq",
+   "version": 1,
+   "title": "ʿUyūn akhbār al-Riḍā, Vol. 1",
+   "file": "content/library/uyun-akhbar-al-rida-volume-1-saduq.json",
+   "optional": true,
+   "count": 347,
+   "size": 1994245,
+   "translator": "Dr. Ali Peiravi",
+   "author": "Shaykh Muḥammad b. ʿAlī al-Ṣaduq"
+  },
+  {
+   "id": "tq-al-amali-mufid",
+   "version": 1,
+   "title": "Al-Amālī",
+   "file": "content/library/al-amali-mufid.json",
+   "optional": true,
+   "count": 387,
+   "size": 1116811,
+   "translator": "Mulla Asgharali M M Jaffer",
+   "author": "Shaykh Muḥammad b. Muḥammad al-Mufīd"
+  },
+  {
+   "id": "tq-al-tawhid-saduq",
+   "version": 1,
+   "title": "Al-Tawḥīd",
+   "file": "content/library/al-tawhid-saduq.json",
+   "optional": true,
+   "count": 575,
+   "size": 1960583,
+   "translator": "Sayed Ali Raza Rizvi",
+   "author": "Shaykh Muḥammad b. ʿAlī al-Ṣaduq"
+  },
+  {
+   "id": "tq-kitab-al-duafa-ghadairi",
+   "version": 1,
+   "title": "Kitāb al-Ḍuʿafāʾ",
+   "file": "content/library/kitab-al-duafa-ghadairi.json",
+   "optional": true,
+   "count": 226,
+   "size": 168071,
+   "translator": "Tashayyu",
+   "author": "Abū al-Ḥusayn Aḥmad b. al-Ḥusayn al-Ghaḍā'irī"
+  },
+  {
+   "id": "tq-kitab-al-ghayba-numani",
+   "version": 1,
+   "title": "Kitāb al-Ghayba",
+   "file": "content/library/kitab-al-ghayba-numani.json",
+   "optional": true,
+   "count": 468,
+   "size": 1089002,
+   "translator": "Abdullah al-Shahin",
+   "author": "Abū ʿAbd Allah Muḥammad b. Ibrāhīm al-Nuʿmānī"
+  },
+  {
+   "id": "tq-thawab-al-amal-wa-iqab-al-amal-saduq",
+   "version": 1,
+   "title": "Thawāb al-Aʿmāl wa ʿiqāb al-Aʿmāl",
+   "file": "content/library/thawab-al-amal-wa-iqab-al-amal-saduq.json",
+   "optional": true,
+   "count": 1106,
+   "size": 1937962,
+   "translator": "Sayed Athar Husain Rizvi & Sayed Maqsood Athar",
+   "author": "Shaykh Muḥammad b. ʿAlī al-Ṣaduq"
+  },
+  {
+   "id": "tq-kamil-al-ziyarat-qummi",
+   "version": 1,
+   "title": "Kāmil al-Ziyārāt",
+   "file": "content/library/kamil-al-ziyarat-qummi.json",
+   "optional": true,
+   "count": 750,
+   "size": 2175907,
+   "translator": "Sayyid Mohsen Al-Husayni Al-Milani",
+   "author": "Shaykh Jaʿfar b. Muḥammad al-Qummī"
+  },
+  {
+   "id": "tq-fadail-al-shia-saduq",
+   "version": 1,
+   "title": "Faḍaʾil al-Shīʿa",
+   "file": "content/library/fadail-al-shia-saduq.json",
+   "optional": true,
+   "count": 45,
+   "size": 124117,
+   "translator": "Badr Shahin",
+   "author": "Shaykh Muḥammad b. ʿAlī al-Ṣaduq"
+  },
+  {
+   "id": "tq-sifat-al-shia-saduq",
+   "version": 1,
+   "title": "Ṣifāt al-Shīʿa",
+   "file": "content/library/sifat-al-shia-saduq.json",
+   "optional": true,
+   "count": 71,
+   "size": 182602,
+   "translator": "Badr Shahin",
+   "author": "Shaykh Muḥammad b. ʿAlī al-Ṣaduq"
+  },
+  {
+   "id": "tq-kitab-al-ghayba-tusi",
+   "version": 1,
+   "title": "Kitāb al-Ghayba",
+   "file": "content/library/kitab-al-ghayba-tusi.json",
+   "optional": true,
+   "count": 774,
+   "size": 1529814,
+   "translator": "Sayyid Athar Husain S. H. Rizvi",
+   "author": "Shaykh Muḥammad b. al-Ḥasan al-Ṭūsī"
+  },
+  {
+   "id": "tq-maani-al-akhbar-saduq",
+   "version": 1,
+   "title": "Maʿānī al-ʾAkhbār",
+   "file": "content/library/maani-al-akhbar-saduq.json",
+   "optional": true,
+   "count": 829,
+   "size": 1862955,
+   "translator": "Basel Kadem",
+   "author": "Shaykh Muḥammad b. ʿAlī al-Ṣaduq"
+  },
+  {
+   "id": "tq-al-amali-saduq",
+   "version": 1,
+   "title": "Al-Amālī",
+   "file": "content/library/al-amali-saduq.json",
+   "optional": true,
+   "count": 1082,
+   "size": 3271567,
+   "translator": "Bilal Muhammad",
+   "author": "Shaykh Muḥammad b. ʿAlī al-Ṣaduq"
+  },
+  {
+   "id": "tq-kitab-al-mumin-ahwazi",
+   "version": 1,
+   "title": "Kitāb al-Muʾmin",
+   "file": "content/library/kitab-al-mumin-ahwazi.json",
+   "optional": true,
+   "count": 201,
+   "size": 215845,
+   "translator": "Muhajir b. Ali",
+   "author": "Ḥusayn b. Saʿīd al-Ahwāzī"
+  },
+  {
+   "id": "tq-kitab-al-zuhd-ahwazi",
+   "version": 1,
+   "title": "Kitāb al-Zuhd",
+   "file": "content/library/kitab-al-zuhd-ahwazi.json",
+   "optional": true,
+   "count": 290,
+   "size": 420838,
+   "translator": "Shaykh Tahir Ridha Jaffer",
+   "author": "Ḥusayn b. Saʿīd al-Ahwāzī"
+  },
+  {
+   "id": "tq-nahj-al-balagha-radi",
+   "version": 1,
+   "title": "Nahj al-Balāgha",
+   "file": "content/library/nahj-al-balagha-radi.json",
+   "optional": true,
+   "count": 2260,
+   "size": 2505374,
+   "translator": "Sayed Ali Raza",
+   "author": "al-Sharīf al-Raḍī"
+  },
+  {
+   "id": "tq-risalat-al-huquq-abidin",
+   "version": 1,
+   "title": "Risālat al-Ḥuqūq",
+   "file": "content/library/risalat-al-huquq-abidin.json",
+   "optional": true,
+   "count": 49,
+   "size": 52003,
+   "translator": "William C. Chittick",
+   "author": "attributed to Imam Zayn al-ʿĀbidīn (a.s)"
+  },
+  {
+   "id": "tq-man-la-yahduruh-al-faqih-volume-1-saduq",
+   "version": 1,
+   "title": "Man Lā Yaḥḍuruh al-Faqīh, Vol. 1",
+   "file": "content/library/man-la-yahduruh-al-faqih-volume-1-saduq.json",
+   "optional": true,
+   "count": 1569,
+   "size": 2151608,
+   "translator": "Bab Ul Qaim Publications",
+   "author": "Shaykh Muḥammad b. ʿAlī al-Ṣaduq"
+  },
+  {
+   "id": "tq-al-kafi-volume-8-kulayni",
+   "version": 1,
+   "title": "Al-Kāfi, Vol. 8",
+   "file": "content/library/al-kafi-volume-8-kulayni.json",
+   "optional": true,
+   "count": 597,
+   "size": 2534330,
+   "translator": "Muhammad Sarwar",
+   "author": "Shaykh Muḥammad b. Yaʿqūb al-Kulaynī"
+  },
+  {
+   "id": "tq-al-kafi-volume-7-kulayni",
+   "version": 1,
+   "title": "Al-Kāfi, Vol. 7",
+   "file": "content/library/al-kafi-volume-7-kulayni.json",
+   "optional": true,
+   "count": 891,
+   "size": 1820471,
+   "translator": "Muhammad Sarwar",
+   "author": "Shaykh Muḥammad b. Yaʿqūb al-Kulaynī"
+  },
+  {
+   "id": "tq-al-kafi-volume-6-kulayni",
+   "version": 1,
+   "title": "Al-Kāfi, Vol. 6",
+   "file": "content/library/al-kafi-volume-6-kulayni.json",
+   "optional": true,
+   "count": 2509,
+   "size": 3800348,
+   "translator": "Muhammad Sarwar",
+   "author": "Shaykh Muḥammad b. Yaʿqūb al-Kulaynī"
+  },
+  {
+   "id": "tq-al-kafi-volume-5-kulayni",
+   "version": 1,
+   "title": "Al-Kāfi, Vol. 5",
+   "file": "content/library/al-kafi-volume-5-kulayni.json",
+   "optional": true,
+   "count": 2088,
+   "size": 3904554,
+   "translator": "Muhammad Sarwar",
+   "author": "Shaykh Muḥammad b. Yaʿqūb al-Kulaynī"
+  },
+  {
+   "id": "tq-al-kafi-volume-4-kulayni",
+   "version": 1,
+   "title": "Al-Kāfi, Vol. 4",
+   "file": "content/library/al-kafi-volume-4-kulayni.json",
+   "optional": true,
+   "count": 2190,
+   "size": 4055894,
+   "translator": "Muhammad Sarwar",
+   "author": "Shaykh Muḥammad b. Yaʿqūb al-Kulaynī"
+  },
+  {
+   "id": "tq-al-kafi-volume-3-kulayni",
+   "version": 1,
+   "title": "Al-Kāfi, Vol. 3",
+   "file": "content/library/al-kafi-volume-3-kulayni.json",
+   "optional": true,
+   "count": 2178,
+   "size": 3883775,
+   "translator": "Muhammad Sarwar",
+   "author": "Shaykh Muḥammad b. Yaʿqūb al-Kulaynī"
+  },
+  {
+   "id": "tq-al-kafi-volume-2-kulayni",
+   "version": 1,
+   "title": "Al-Kāfi, Vol. 2",
+   "file": "content/library/al-kafi-volume-2-kulayni.json",
+   "optional": true,
+   "count": 2343,
+   "size": 4438601,
+   "translator": "Muhammad Sarwar",
+   "author": "Shaykh Muḥammad b. Yaʿqūb al-Kulaynī"
+  },
+  {
+   "id": "tq-uyun-akhbar-al-rida-volume-2-saduq",
+   "version": 1,
+   "title": "ʿUyūn akhbār al-Riḍā, Vol. 2",
+   "file": "content/library/uyun-akhbar-al-rida-volume-2-saduq.json",
+   "optional": true,
+   "count": 607,
+   "size": 2121330,
+   "translator": "Dr. Ali Peiravi",
+   "author": "Shaykh Muḥammad b. ʿAlī al-Ṣaduq"
+  },
+  {
+   "id": "tq-man-la-yahduruh-al-faqih-volume-2-saduq",
+   "version": 1,
+   "title": "Man Lā Yaḥḍuruh al-Faqīh, Vol. 2",
+   "file": "content/library/man-la-yahduruh-al-faqih-volume-2-saduq.json",
+   "optional": true,
+   "count": 1696,
+   "size": 2537197,
+   "translator": "Bab Ul Qaim Publications",
+   "author": "Shaykh Muḥammad b. ʿAlī al-Ṣaduq"
+  },
+  {
+   "id": "tq-man-la-yahduruh-al-faqih-volume-3-saduq",
+   "version": 1,
+   "title": "Man Lā Yaḥḍuruh al-Faqīh, Vol. 3",
+   "file": "content/library/man-la-yahduruh-al-faqih-volume-3-saduq.json",
+   "optional": true,
+   "count": 1758,
+   "size": 2517309,
+   "translator": "Bab Ul Qaim Publications",
+   "author": "Shaykh Muḥammad b. ʿAlī al-Ṣaduq"
+  },
+  {
+   "id": "tq-man-la-yahduruh-al-faqih-volume-4-saduq",
+   "version": 1,
+   "title": "Man Lā Yaḥḍuruh al-Faqīh, Vol. 4",
+   "file": "content/library/man-la-yahduruh-al-faqih-volume-4-saduq.json",
+   "optional": true,
+   "count": 964,
+   "size": 2038565,
+   "translator": "Bab Ul Qaim Publications",
+   "author": "Shaykh Muḥammad b. ʿAlī al-Ṣaduq"
+  },
+  {
+   "id": "tq-man-la-yahduruh-al-faqih-volume-5-saduq",
+   "version": 1,
+   "title": "Man Lā Yaḥḍuruh al-Faqīh, Vol. 5",
+   "file": "content/library/man-la-yahduruh-al-faqih-volume-5-saduq.json",
+   "optional": true,
+   "count": 395,
+   "size": 408039,
+   "translator": "Bab Ul Qaim Publications",
+   "author": "Shaykh Muḥammad b. ʿAlī al-Ṣaduq"
+  }
+ ]
 }

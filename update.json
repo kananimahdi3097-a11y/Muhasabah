@@ -1,10 +1,10 @@
 {
-  "versionCode": 11,
-  "versionName": "2.8.1",
+  "versionCode": 12,
+  "versionName": "2.9",
   "apk_full": "apk/Muhasabah.apk",
-  "sha256_full": "786258b7c2677bda13532214751017d8683a3a7ead9c39977043832a3f166900",
+  "sha256_full": "af569b053a4105274ae437a62cb7c8b6efaa3a81d7745c28199b40f432ddcc73",
   "apk_lite": "apk/Muhasabah_lite.apk",
-  "sha256_lite": "3d8222934f07cb58c9d735153fd11adc04fd779f285436059ed3d1aed72f8755",
-  "notes_en": "Fixed: the one-frame flash (screen jumping to the top) when tapping a task, +/−, or ✓. The page now updates in place and keeps its scroll position.",
-  "notes_gu": "સુધાર્યું: કામ, +/− કે ✓ દબાવતાં સ્ક્રીન ઉપર કૂદીને ઝબકતી હતી તે. હવે પેજ એ જ જગ્યાએ અપડેટ થાય છે."
+  "sha256_lite": "702a36e70e193e16e5c60d4b302f2fc08df177e1f40ba27fce70fa663654adc9",
+  "notes_en": "New: 📖 From the books — one authentic, graded hadith every day (Al-Kafi, Nahj al-Balagha, Mu'jam al-Ahadith al-Mu'tabara, al-Khisal) with full reference, grading and a link to the source; Gujarati, Urdu and Hindi translations. 💡 Tip of the day — business, health, wellness, money. Settings → Library: download 32 hadith books (32,500+ hadith, Arabic + English) for search.",
+  "notes_gu": "નવું: 📖 પુસ્તકોમાંથી — રોજ એક સહીહ/મોઅતબર હદીસ (અલ-કાફી, નહજુલ બલાગા વગેરે) પૂરા હવાલા અને દરજ્જા સાથે, ગુજરાતી અનુવાદ સાથે. 💡 આજની ટિપ — ધંધો, તંદુરસ્તી, સુખાકારી. સેટિંગ્સ → લાઇબ્રેરી: 32 હદીસ પુસ્તકો (32,500+ હદીસ) ડાઉનલોડ કરો."
 }
