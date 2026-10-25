@@ -1,10 +1,10 @@
 {
-  "versionCode": 9,
-  "versionName": "2.7",
+  "versionCode": 10,
+  "versionName": "2.8",
   "apk_full": "apk/Muhasabah.apk",
-  "sha256_full": "3dd0db5f19d3ee16494e48370697624b30c05e08f02823bfac3bb73501fbe932",
+  "sha256_full": "5c792b3dd684cdc4a0b408760ed35f559f53bb798551a2ed53fb2d1ec823c51e",
   "apk_lite": "apk/Muhasabah_lite.apk",
-  "sha256_lite": "0eb909ac21316d3cffde82b96647b7ae17d77b8e51ea804d18a46b0826b868c0",
-  "notes_en": "New: Urdu (Nastaliq) and Hindi — for menus and for ayat/hadith/card translations (pick any mix in Settings → Language). Animated launch emblem and opening animation. Distinct, stronger haptics for every button (Settings → Look → Button vibration). Sleep, wake, scroll and bad-day nudges are now fresh every time — no more repeating lines.",
-  "notes_gu": "નવું: ઉર્દૂ (નસ્તાલીક) અને હિન્દી — મેનુ અને આયત/હદીસ/કાર્ડના અનુવાદ માટે (સેટિંગ્સ → ભાષા). ઍપ ખૂલે ત્યારે ચમકતું એનિમેટેડ લોગો. દરેક બટનનું અલગ, મજબૂત વાઇબ્રેશન. ઊંઘ, ઊઠવા, સ્ક્રોલ અને ખરાબ દિવસના મેસેજ હવે દર વખતે નવા."
+  "sha256_lite": "1067fdd2943c3a2113bc8ed35d7a9fac62a4543ea7bc15dcd43f0d3e8c0e3087",
+  "notes_en": "New: Commitment lock (Settings → top). Lock your rules for 24h / 48h / 7 days / 30 days — during a lock nothing can be loosened, only made stricter. Outside a lock, every loosening change waits 24h (cancel anytime). Phone-settings guard and uninstall protection close the back doors; clock changes don't shorten a lock. Emergency partner PIN (with WhatsApp ask) ends a lock early at a cost: -100 XP and the streak. Fixed: counter +/− flicker and overlapping numbers.",
+  "notes_gu": "નવું: કમિટમેન્ટ લૉક (સેટિંગ્સમાં સૌથી ઉપર). નિયમ 24 કલાક / 48 કલાક / 7 દિવસ / 30 દિવસ માટે લૉક કરો — લૉક દરમિયાન કંઈ ઢીલું નહીં થાય. લૉક વગર પણ ઢીલો ફેરફાર 24 કલાક પછી જ લાગુ થશે. ફોન-સેટિંગ્સ ગાર્ડ અને અનઇન્સ્ટૉલ સુરક્ષા. પાર્ટનરના PIN થી ઇમરજન્સી અનલૉક (−100 XP અને સિલસિલો). કાઉન્ટર +/− ની ગડબડ સુધારી."
 }
