@@ -1,10 +1,10 @@
 {
-  "versionCode": 12,
-  "versionName": "2.9",
+  "versionCode": 13,
+  "versionName": "3.0",
   "apk_full": "apk/Muhasabah.apk",
-  "sha256_full": "af569b053a4105274ae437a62cb7c8b6efaa3a81d7745c28199b40f432ddcc73",
+  "sha256_full": "7f6b4c61e6cd414956effc38728d1f47fceadb152fc8702aa439fcc4f23557de",
   "apk_lite": "apk/Muhasabah_lite.apk",
-  "sha256_lite": "702a36e70e193e16e5c60d4b302f2fc08df177e1f40ba27fce70fa663654adc9",
-  "notes_en": "New: 📖 From the books — one authentic, graded hadith every day (Al-Kafi, Nahj al-Balagha, Mu'jam al-Ahadith al-Mu'tabara, al-Khisal) with full reference, grading and a link to the source; Gujarati, Urdu and Hindi translations. 💡 Tip of the day — business, health, wellness, money. Settings → Library: download 32 hadith books (32,500+ hadith, Arabic + English) for search.",
-  "notes_gu": "નવું: 📖 પુસ્તકોમાંથી — રોજ એક સહીહ/મોઅતબર હદીસ (અલ-કાફી, નહજુલ બલાગા વગેરે) પૂરા હવાલા અને દરજ્જા સાથે, ગુજરાતી અનુવાદ સાથે. 💡 આજની ટિપ — ધંધો, તંદુરસ્તી, સુખાકારી. સેટિંગ્સ → લાઇબ્રેરી: 32 હદીસ પુસ્તકો (32,500+ હદીસ) ડાઉનલોડ કરો."
+  "sha256_lite": "68d5125e4fed4aae0a05c404d79906b15085d6dd47424d773edab5ed9caa303e",
+  "notes_en": "v3.0: Tawbah & Islah — tap a sin you did today (21 sins) and get 7 days of private, referenced reminders (Quran, Al-Kafi, Nahj, Ghurar al-Hikam, Bihar al-Anwar, tawbah, practical step). 365 daily hadith and 365 tips. Ghurar al-Hikam (11,192 sayings) in the Library. Edit yesterday's entries (24/48 h). 'Today only' tasks. Made For Mahdi Kanani.",
+  "notes_gu": "v3.0: તૌબા અને ઇસ્લાહ — આજે થયેલો ગુનાહ પસંદ કરો અને 7 દિવસ ખાનગી, સંદર્ભ સાથેના રિમાઇન્ડર મેળવો. 365 હદીસ અને 365 ટિપ્સ. લાઇબ્રેરીમાં ગુરરુલ હિકમ. ગઈકાલનો ડેટા સુધારો (24/48 કલાક). 'ફક્ત આજે' કામ."
 }

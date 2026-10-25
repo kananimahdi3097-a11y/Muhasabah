@@ -67,17 +67,6 @@
    "author": "Shaykh Muḥammad b. ʿAlī al-Ṣaduq"
   },
   {
-   "id": "tq-kitab-al-duafa-ghadairi",
-   "version": 1,
-   "title": "Kitāb al-Ḍuʿafāʾ",
-   "file": "content/library/kitab-al-duafa-ghadairi.json",
-   "optional": true,
-   "count": 226,
-   "size": 168071,
-   "translator": "Tashayyu",
-   "author": "Abū al-Ḥusayn Aḥmad b. al-Ḥusayn al-Ghaḍā'irī"
-  },
-  {
    "id": "tq-kitab-al-ghayba-numani",
    "version": 1,
    "title": "Kitāb al-Ghayba",
@@ -351,6 +340,17 @@
    "size": 408039,
    "translator": "Bab Ul Qaim Publications",
    "author": "Shaykh Muḥammad b. ʿAlī al-Ṣaduq"
+  },
+  {
+   "id": "oi-ghurar-hikam",
+   "version": 1,
+   "title": "Ghurar al-Ḥikam wa Durar al-Kalim",
+   "file": "content/library/ghurar-al-hikam.json",
+   "optional": true,
+   "count": 11192,
+   "size": 2476547,
+   "translator": "Arabic (OpenITI); some translations by Muhasabah",
+   "author": "ʿAbd al-Wāḥid al-Āmidī"
   }
  ]
 }
