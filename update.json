@@ -1,10 +1,10 @@
 {
-  "versionCode": 13,
-  "versionName": "3.0",
+  "versionCode": 14,
+  "versionName": "3.1",
   "apk_full": "apk/Muhasabah.apk",
-  "sha256_full": "7f6b4c61e6cd414956effc38728d1f47fceadb152fc8702aa439fcc4f23557de",
+  "sha256_full": "6dee18c05fa40a38c09eb3bb96d3d065237528b4614fc67e5d3df8135fe0b05d",
   "apk_lite": "apk/Muhasabah_lite.apk",
-  "sha256_lite": "68d5125e4fed4aae0a05c404d79906b15085d6dd47424d773edab5ed9caa303e",
-  "notes_en": "v3.0: Tawbah & Islah — tap a sin you did today (21 sins) and get 7 days of private, referenced reminders (Quran, Al-Kafi, Nahj, Ghurar al-Hikam, Bihar al-Anwar, tawbah, practical step). 365 daily hadith and 365 tips. Ghurar al-Hikam (11,192 sayings) in the Library. Edit yesterday's entries (24/48 h). 'Today only' tasks. Made For Mahdi Kanani.",
-  "notes_gu": "v3.0: તૌબા અને ઇસ્લાહ — આજે થયેલો ગુનાહ પસંદ કરો અને 7 દિવસ ખાનગી, સંદર્ભ સાથેના રિમાઇન્ડર મેળવો. 365 હદીસ અને 365 ટિપ્સ. લાઇબ્રેરીમાં ગુરરુલ હિકમ. ગઈકાલનો ડેટા સુધારો (24/48 કલાક). 'ફક્ત આજે' કામ."
+  "sha256_lite": "dbacf3076395301091cfec5dff19b0b77be251d5225fa86d7001694d1af90887",
+  "notes_en": "v3.1: Search in Settings (🔍). Reels/Shorts counter rebuilt — counts one per new reel you swipe to (no more counting while you watch one reel, the home feed, Shorts shelf or comments). Discover cards now work like Instagram stories: tap right = next, tap left = back, smooth swipe.",
+  "notes_gu": "v3.1: સેટિંગ્સમાં શોધ (🔍). રીલ્સ/શોર્ટ્સ કાઉન્ટર સુધાર્યું — દરેક નવી રીલ પર ફક્ત 1. ડિસ્કવર કાર્ડ્સ ઇન્સ્ટાગ્રામ સ્ટોરીઝ જેવા: જમણે ટૅપ આગળ, ડાબે ટૅપ પાછળ."
 }
