@@ -1,10 +1,10 @@
 {
-  "versionCode": 14,
-  "versionName": "3.1",
+  "versionCode": 15,
+  "versionName": "3.2",
   "apk_full": "apk/Muhasabah.apk",
-  "sha256_full": "6dee18c05fa40a38c09eb3bb96d3d065237528b4614fc67e5d3df8135fe0b05d",
+  "sha256_full": "9d9addef21a481e236c94f4d3121935c14b5c71d2927b7da3b9f96d46734c392",
   "apk_lite": "apk/Muhasabah_lite.apk",
-  "sha256_lite": "dbacf3076395301091cfec5dff19b0b77be251d5225fa86d7001694d1af90887",
-  "notes_en": "v3.1: Search in Settings (🔍). Reels/Shorts counter rebuilt — counts one per new reel you swipe to (no more counting while you watch one reel, the home feed, Shorts shelf or comments). Discover cards now work like Instagram stories: tap right = next, tap left = back, smooth swipe.",
-  "notes_gu": "v3.1: સેટિંગ્સમાં શોધ (🔍). રીલ્સ/શોર્ટ્સ કાઉન્ટર સુધાર્યું — દરેક નવી રીલ પર ફક્ત 1. ડિસ્કવર કાર્ડ્સ ઇન્સ્ટાગ્રામ સ્ટોરીઝ જેવા: જમણે ટૅપ આગળ, ડાબે ટૅપ પાછળ."
+  "sha256_lite": "3b84d36ad6f19ec0f8a14acb385c6b6d1a81d0a0d0d8a721e5a266c966319f0c",
+  "notes_en": "Tasks: new 'Remove once completed' switch — the task disappears from the next day after you finish it (history kept). New '📅 On a date…' button to make a task for one specific date, next to '📌 Today only'.",
+  "notes_gu": "કામ: નવું 'પૂરું થાય પછી દૂર કરો' બટન — કામ પૂરું થયા પછી બીજા દિવસથી નહીં દેખાય (ઇતિહાસ સચવાય છે). નવું '📅 કોઈ તારીખે…' બટન — કોઈ ચોક્કસ તારીખ માટે જ કામ બનાવો, '📌 ફક્ત આજે' ની બાજુમાં."
 }
