@@ -1,10 +1,10 @@
 {
-  "versionCode": 15,
-  "versionName": "3.2",
+  "versionCode": 16,
+  "versionName": "3.3",
   "apk_full": "apk/Muhasabah.apk",
-  "sha256_full": "9d9addef21a481e236c94f4d3121935c14b5c71d2927b7da3b9f96d46734c392",
+  "sha256_full": "d58e6ef34e36b26efae060c3221afe16cad6a431cd987e0b8122d07d01527cc6",
   "apk_lite": "apk/Muhasabah_lite.apk",
-  "sha256_lite": "3b84d36ad6f19ec0f8a14acb385c6b6d1a81d0a0d0d8a721e5a266c966319f0c",
-  "notes_en": "Tasks: new 'Remove once completed' switch — the task disappears from the next day after you finish it (history kept). New '📅 On a date…' button to make a task for one specific date, next to '📌 Today only'.",
-  "notes_gu": "કામ: નવું 'પૂરું થાય પછી દૂર કરો' બટન — કામ પૂરું થયા પછી બીજા દિવસથી નહીં દેખાય (ઇતિહાસ સચવાય છે). નવું '📅 કોઈ તારીખે…' બટન — કોઈ ચોક્કસ તારીખ માટે જ કામ બનાવો, '📌 ફક્ત આજે' ની બાજુમાં."
+  "sha256_lite": "2d791c27f84178dd802de63feeb39ac10dfd71b3e3ce01b31b85b5aa4aca429b",
+  "notes_en": "Tawbah & Islah: '➕ Add your own' — add any bad habit yourself (name + emoji), choose which reminders it gets (General tawbah, or the same as a similar built-in one), and add your own words, shown on day 7. Long-press your own habit to edit or delete it.",
+  "notes_gu": "તૌબા અને ઇસ્લાહ: '➕ તમારી પોતાની ઉમેરો' — કોઈ પણ ખરાબ આદત જાતે ઉમેરો (નામ + ઇમોજી), કયા રિમાઇન્ડર મળે તે પસંદ કરો (સામાન્ય તૌબા, કે કોઈ મળતી આદત જેવા), અને તમારા પોતાના શબ્દો લખો જે 7મા દિવસે દેખાશે. બદલવા/કાઢવા માટે લાંબું દબાવો."
 }
