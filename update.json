@@ -1,10 +1,10 @@
 {
-  "versionCode": 16,
-  "versionName": "3.3",
+  "versionCode": 17,
+  "versionName": "3.4",
   "apk_full": "apk/Muhasabah.apk",
-  "sha256_full": "d58e6ef34e36b26efae060c3221afe16cad6a431cd987e0b8122d07d01527cc6",
+  "sha256_full": "87a2d5d0532b6709ba12587eabf288b0a507bddf45059cdceece9bb2ba194a01",
   "apk_lite": "apk/Muhasabah_lite.apk",
-  "sha256_lite": "2d791c27f84178dd802de63feeb39ac10dfd71b3e3ce01b31b85b5aa4aca429b",
-  "notes_en": "Tawbah & Islah: '➕ Add your own' — add any bad habit yourself (name + emoji), choose which reminders it gets (General tawbah, or the same as a similar built-in one), and add your own words, shown on day 7. Long-press your own habit to edit or delete it.",
-  "notes_gu": "તૌબા અને ઇસ્લાહ: '➕ તમારી પોતાની ઉમેરો' — કોઈ પણ ખરાબ આદત જાતે ઉમેરો (નામ + ઇમોજી), કયા રિમાઇન્ડર મળે તે પસંદ કરો (સામાન્ય તૌબા, કે કોઈ મળતી આદત જેવા), અને તમારા પોતાના શબ્દો લખો જે 7મા દિવસે દેખાશે. બદલવા/કાઢવા માટે લાંબું દબાવો."
+  "sha256_lite": "52a36092f52779b424f5f0aa4a8e50820ecaf80cf382f61aaaaa22d42adfc545",
+  "notes_en": "New: 🏆 Compete with friends (optional — turn it on in Settings → Behaviour). Create a group, share the code, and see a Today / This week leaderboard of daily scores. Only name, score, tasks-done count and streak are shared, encrypted. Fixed: text no longer splits in the middle of words ('na-mahra m', '18/2 4'), Summary tiles are equal height and aligned, the date bar fits on one line, and very large phone font sizes no longer break layouts.",
+  "notes_gu": "નવું: 🏆 મિત્રો સાથે સ્પર્ધા (મરજિયાત — સેટિંગ્સ → Behaviour માં ચાલુ કરો). ગ્રુપ બનાવો, કોડ મોકલો, અને આજે / આ અઠવાડિયાનું લીડરબોર્ડ જુઓ. ફક્ત નામ, સ્કોર, પૂરા કામની સંખ્યા અને સ્ટ્રીક એન્ક્રિપ્ટ થઈને શેર થાય છે. સુધારા: શબ્દો હવે વચ્ચેથી તૂટતા નથી, સારાંશના બોક્સ સરખી ઊંચાઈના અને લાઇનમાં, તારીખ એક લાઇનમાં, અને મોટા ફોન્ટથી લેઆઉટ બગડતું નથી."
 }
