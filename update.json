@@ -1,10 +1,10 @@
 {
-  "versionCode": 18,
-  "versionName": "3.5",
+  "versionCode": 19,
+  "versionName": "3.6",
   "apk_full": "apk/Muhasabah.apk",
-  "sha256_full": "77cd4daee27ea57a8974ce9e7618154be1beba7ba9effc48b47ee516f6fdecfd",
+  "sha256_full": "2b4b946b4c77ae4f32d0a42e2ab8652fcb69e7f4fcd4dd30b137344ecbd3498e",
   "apk_lite": "apk/Muhasabah_lite.apk",
-  "sha256_lite": "ca95b5fb864a975da2ef070658f965432bde3078365fad7884b0abf24cf779bf",
-  "notes_en": "Fixed: the Summary boxes are back — now all the same height and lined up. New: 🛡️ Screen guard — in any app, Muhasabah checks the screen on the phone itself every few seconds and closes porn / hot scenes immediately (Settings → Guardian; Strict also blocks 'hot' scenes). Nothing is saved or sent. If it says it needs permission, switch the Muhasabah accessibility service off and on once.",
-  "notes_gu": "સુધારો: સારાંશના બોક્સ પાછા આવ્યા — હવે બધા સરખી ઊંચાઈના અને લાઇનમાં. નવું: 🛡️ સ્ક્રીન ગાર્ડ — કોઈ પણ ઍપમાં Muhasabah ફોનમાં જ દર થોડી સેકન્ડે સ્ક્રીન તપાસે અને અશ્લીલ / ગંદા દૃશ્ય તરત બંધ કરે (સેટિંગ્સ → ગાર્ડિયન). કંઈ સેવ કે મોકલાતું નથી. પરવાનગી માંગે તો Muhasabah ઍક્સેસિબિલિટી સર્વિસ એક વાર બંધ કરીને ફરી ચાલુ કરો."
+  "sha256_lite": "f79947de6851a38557aad58c94817d39a9fe7cc7153436888bc1568619aced56",
+  "notes_en": "Screen guard: fixed it stopping after the first block (it now checks which app is in front every time and can never get stuck). New: 4 strictness levels — Normal, Strict, Very strict, Extreme (Settings → Guardian → Strictness). New: after any block it stays on high alert for 1 hour — one level stricter (at least Very strict), checks faster, the whole screen every time, and blocks on the first suspicious frame. Settings shows the alert time left and the last check.",
+  "notes_gu": "સ્ક્રીન ગાર્ડ: પહેલા બ્લૉક પછી બંધ થઈ જતું હતું તે સુધાર્યું. નવું: કડકાઈના 4 લેવલ — સામાન્ય, કડક, ખૂબ કડક, અત્યંત (સેટિંગ્સ → ગાર્ડિયન → કડકાઈ). નવું: કોઈ પણ બ્લૉક પછી 1 કલાક હાઇ એલર્ટ — એક લેવલ વધુ કડક, ઝડપી તપાસ, અને પહેલી જ શંકાસ્પદ ફ્રેમે બ્લૉક."
 }
