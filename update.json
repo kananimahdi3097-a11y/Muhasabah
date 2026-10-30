@@ -1,10 +1,10 @@
 {
-  "versionCode": 17,
-  "versionName": "3.4",
+  "versionCode": 18,
+  "versionName": "3.5",
   "apk_full": "apk/Muhasabah.apk",
-  "sha256_full": "87a2d5d0532b6709ba12587eabf288b0a507bddf45059cdceece9bb2ba194a01",
+  "sha256_full": "77cd4daee27ea57a8974ce9e7618154be1beba7ba9effc48b47ee516f6fdecfd",
   "apk_lite": "apk/Muhasabah_lite.apk",
-  "sha256_lite": "52a36092f52779b424f5f0aa4a8e50820ecaf80cf382f61aaaaa22d42adfc545",
-  "notes_en": "New: 🏆 Compete with friends (optional — turn it on in Settings → Behaviour). Create a group, share the code, and see a Today / This week leaderboard of daily scores. Only name, score, tasks-done count and streak are shared, encrypted. Fixed: text no longer splits in the middle of words ('na-mahra m', '18/2 4'), Summary tiles are equal height and aligned, the date bar fits on one line, and very large phone font sizes no longer break layouts.",
-  "notes_gu": "નવું: 🏆 મિત્રો સાથે સ્પર્ધા (મરજિયાત — સેટિંગ્સ → Behaviour માં ચાલુ કરો). ગ્રુપ બનાવો, કોડ મોકલો, અને આજે / આ અઠવાડિયાનું લીડરબોર્ડ જુઓ. ફક્ત નામ, સ્કોર, પૂરા કામની સંખ્યા અને સ્ટ્રીક એન્ક્રિપ્ટ થઈને શેર થાય છે. સુધારા: શબ્દો હવે વચ્ચેથી તૂટતા નથી, સારાંશના બોક્સ સરખી ઊંચાઈના અને લાઇનમાં, તારીખ એક લાઇનમાં, અને મોટા ફોન્ટથી લેઆઉટ બગડતું નથી."
+  "sha256_lite": "ca95b5fb864a975da2ef070658f965432bde3078365fad7884b0abf24cf779bf",
+  "notes_en": "Fixed: the Summary boxes are back — now all the same height and lined up. New: 🛡️ Screen guard — in any app, Muhasabah checks the screen on the phone itself every few seconds and closes porn / hot scenes immediately (Settings → Guardian; Strict also blocks 'hot' scenes). Nothing is saved or sent. If it says it needs permission, switch the Muhasabah accessibility service off and on once.",
+  "notes_gu": "સુધારો: સારાંશના બોક્સ પાછા આવ્યા — હવે બધા સરખી ઊંચાઈના અને લાઇનમાં. નવું: 🛡️ સ્ક્રીન ગાર્ડ — કોઈ પણ ઍપમાં Muhasabah ફોનમાં જ દર થોડી સેકન્ડે સ્ક્રીન તપાસે અને અશ્લીલ / ગંદા દૃશ્ય તરત બંધ કરે (સેટિંગ્સ → ગાર્ડિયન). કંઈ સેવ કે મોકલાતું નથી. પરવાનગી માંગે તો Muhasabah ઍક્સેસિબિલિટી સર્વિસ એક વાર બંધ કરીને ફરી ચાલુ કરો."
 }
