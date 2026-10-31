@@ -1,10 +1,10 @@
 {
-  "versionCode": 20,
-  "versionName": "3.7",
+  "versionCode": 21,
+  "versionName": "3.8",
   "apk_full": "apk/Muhasabah.apk",
-  "sha256_full": "0ab4bf653868ef397eb54b2b70feff1a38d62906c5548da7217060a7b1abade2",
+  "sha256_full": "fbec9b4cd7142fe8af90792e07000cb55af121a7b5abddf6112be08bafc7e60b",
   "apk_lite": "apk/Muhasabah_lite.apk",
-  "sha256_lite": "89f93739d89a923bad5142aaccbff88e17a01228db11862c34259d9a72451493",
-  "notes_en": "Screen guard rebuilt for its real purpose: it now finds faces and checks if a woman is in the picture. It blocks women in bikini / very short clothes, kissing and adult scenes, and porn — and no longer blocks men, normal photos, WhatsApp status or normal videos. Clear cases block at once; borderline ones must be seen twice in a row. Your Extreme setting was moved to Very strict (recommended).",
-  "notes_gu": "સ્ક્રીન ગાર્ડ ફરીથી બનાવ્યું: હવે ચહેરો શોધીને જુએ છે કે ચિત્રમાં સ્ત્રી છે કે નહીં. બિકિની / ખૂબ ટૂંકા કપડાંમાં સ્ત્રી, કિસિંગ, એડલ્ટ દૃશ્ય અને પોર્ન બ્લૉક કરે છે — પુરુષ, સામાન્ય ફોટા, WhatsApp સ્ટેટસ અને સામાન્ય વીડિયો હવે બ્લૉક નહીં થાય. તમારું 'અત્યંત' લેવલ 'ખૂબ કડક' (ભલામણ) પર મૂક્યું છે."
+  "sha256_lite": "2118d0637e1f9bf900707f39b00727e5120ea4209019084524bbfd286d9956f1",
+  "notes_en": "Screen guard much more careful: normal videos should no longer be blocked. It now only blocks when a scene is clearly bad, checks each picture twice (also mirrored), and needs 3 checks in a row to agree before blocking anything borderline. After a block it no longer becomes stricter (that caused chains of wrong blocks). New '❌ That was a mistake' button on the block screen tunes it to your phone.",
+  "notes_gu": "સ્ક્રીન ગાર્ડ હવે ઘણું સાવચેત: સામાન્ય વીડિયો હવે બ્લૉક ન થવા જોઈએ. ફક્ત સ્પષ્ટ ખરાબ દૃશ્ય જ બ્લૉક થાય, દરેક ચિત્ર બે વાર તપાસે, અને શંકાસ્પદ દૃશ્ય માટે સતત 3 તપાસ સહમત થવી જોઈએ. બ્લૉક સ્ક્રીન પર નવું '❌ આ ભૂલ હતી' બટન."
 }
