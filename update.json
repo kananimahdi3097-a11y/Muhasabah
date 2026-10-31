@@ -1,10 +1,10 @@
 {
-  "versionCode": 19,
-  "versionName": "3.6",
+  "versionCode": 20,
+  "versionName": "3.7",
   "apk_full": "apk/Muhasabah.apk",
-  "sha256_full": "2b4b946b4c77ae4f32d0a42e2ab8652fcb69e7f4fcd4dd30b137344ecbd3498e",
+  "sha256_full": "0ab4bf653868ef397eb54b2b70feff1a38d62906c5548da7217060a7b1abade2",
   "apk_lite": "apk/Muhasabah_lite.apk",
-  "sha256_lite": "f79947de6851a38557aad58c94817d39a9fe7cc7153436888bc1568619aced56",
-  "notes_en": "Screen guard: fixed it stopping after the first block (it now checks which app is in front every time and can never get stuck). New: 4 strictness levels — Normal, Strict, Very strict, Extreme (Settings → Guardian → Strictness). New: after any block it stays on high alert for 1 hour — one level stricter (at least Very strict), checks faster, the whole screen every time, and blocks on the first suspicious frame. Settings shows the alert time left and the last check.",
-  "notes_gu": "સ્ક્રીન ગાર્ડ: પહેલા બ્લૉક પછી બંધ થઈ જતું હતું તે સુધાર્યું. નવું: કડકાઈના 4 લેવલ — સામાન્ય, કડક, ખૂબ કડક, અત્યંત (સેટિંગ્સ → ગાર્ડિયન → કડકાઈ). નવું: કોઈ પણ બ્લૉક પછી 1 કલાક હાઇ એલર્ટ — એક લેવલ વધુ કડક, ઝડપી તપાસ, અને પહેલી જ શંકાસ્પદ ફ્રેમે બ્લૉક."
+  "sha256_lite": "89f93739d89a923bad5142aaccbff88e17a01228db11862c34259d9a72451493",
+  "notes_en": "Screen guard rebuilt for its real purpose: it now finds faces and checks if a woman is in the picture. It blocks women in bikini / very short clothes, kissing and adult scenes, and porn — and no longer blocks men, normal photos, WhatsApp status or normal videos. Clear cases block at once; borderline ones must be seen twice in a row. Your Extreme setting was moved to Very strict (recommended).",
+  "notes_gu": "સ્ક્રીન ગાર્ડ ફરીથી બનાવ્યું: હવે ચહેરો શોધીને જુએ છે કે ચિત્રમાં સ્ત્રી છે કે નહીં. બિકિની / ખૂબ ટૂંકા કપડાંમાં સ્ત્રી, કિસિંગ, એડલ્ટ દૃશ્ય અને પોર્ન બ્લૉક કરે છે — પુરુષ, સામાન્ય ફોટા, WhatsApp સ્ટેટસ અને સામાન્ય વીડિયો હવે બ્લૉક નહીં થાય. તમારું 'અત્યંત' લેવલ 'ખૂબ કડક' (ભલામણ) પર મૂક્યું છે."
 }
