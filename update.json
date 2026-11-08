@@ -1,10 +1,10 @@
 {
-  "versionCode": 21,
-  "versionName": "3.8",
+  "versionCode": 22,
+  "versionName": "3.9",
   "apk_full": "apk/Muhasabah.apk",
-  "sha256_full": "fbec9b4cd7142fe8af90792e07000cb55af121a7b5abddf6112be08bafc7e60b",
+  "sha256_full": "a636df1cae7c41be0d2e7f268b4fd8b074f9c409e14a704f3f4a83f94ab7dc7e",
   "apk_lite": "apk/Muhasabah_lite.apk",
-  "sha256_lite": "2118d0637e1f9bf900707f39b00727e5120ea4209019084524bbfd286d9956f1",
-  "notes_en": "Screen guard much more careful: normal videos should no longer be blocked. It now only blocks when a scene is clearly bad, checks each picture twice (also mirrored), and needs 3 checks in a row to agree before blocking anything borderline. After a block it no longer becomes stricter (that caused chains of wrong blocks). New '❌ That was a mistake' button on the block screen tunes it to your phone.",
-  "notes_gu": "સ્ક્રીન ગાર્ડ હવે ઘણું સાવચેત: સામાન્ય વીડિયો હવે બ્લૉક ન થવા જોઈએ. ફક્ત સ્પષ્ટ ખરાબ દૃશ્ય જ બ્લૉક થાય, દરેક ચિત્ર બે વાર તપાસે, અને શંકાસ્પદ દૃશ્ય માટે સતત 3 તપાસ સહમત થવી જોઈએ. બ્લૉક સ્ક્રીન પર નવું '❌ આ ભૂલ હતી' બટન."
+  "sha256_lite": "e0f509f78769700e9abaa4aa524b36b837b7c7d59c78e20a5c14e6bb5f6d5cf8",
+  "notes_en": "Big guard update. New body-part detector: it now tells women from men and looks for bikini, short clothes, back/side views, kissing, nudity and porn — men, a father hugging his son, objects and normal photos are left alone. It checks every photo, thumbnail, preview and pop-up separately, and whole browser pages. When it catches something, that whole app is locked for 30 minutes and Muhasabah opens. Incognito tabs are blocked. Instagram: hard 40-minute daily limit (no extension) and reaching the reels limit locks all of Instagram for the day. Reels counter now counts each reel by who posted it. Source code is now public (AGPL).",
+  "notes_gu": "મોટું ગાર્ડ અપડેટ. નવું ડિટેક્ટર સ્ત્રી અને પુરુષ ઓળખે છે અને બિકિની, ટૂંકા કપડાં, પાછળ/બાજુથી દૃશ્ય, કિસિંગ, નગ્નતા અને પોર્ન શોધે છે — પુરુષ, દીકરાને ભેટતા પિતા, વસ્તુઓ અને સામાન્ય ફોટા બ્લૉક નહીં. દરેક ફોટો, થંબનેલ, પ્રિવ્યુ અને પૉપ-અપ અલગથી તપાસે છે. પકડાય તો આખી ઍપ 30 મિનિટ લૉક અને Muhasabah ખૂલે. ઇન્કૉગ્નિટો ટૅબ બ્લૉક. Instagram: રોજ 40 મિનિટની કડક મર્યાદા, અને રીલ મર્યાદા પૂરી થાય તો આખો દિવસ Instagram લૉક. રીલ કાઉન્ટર હવે દરેક રીલને પોસ્ટ કરનારથી ગણે છે."
 }
