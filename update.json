@@ -1,10 +1,10 @@
 {
-  "versionCode": 23,
-  "versionName": "4.0",
+  "versionCode": 24,
+  "versionName": "4.1",
   "apk_full": "apk/Muhasabah.apk",
-  "sha256_full": "e6f3d8f2425203199a75548be810867e8cba4a877838e17c3d63a2316d671d0e",
+  "sha256_full": "e72490eb6cecea3659a9ef3056e5062ee394ae9141c99f0c8cfd07a756511e52",
   "apk_lite": "apk/Muhasabah_lite.apk",
-  "sha256_lite": "1114435145bf86dcd611bf400af635399c38bf991464b7c2ac0820dba5fec5e6",
-  "notes_en": "Discover is new: cards never repeat until you've seen them all, and each day mixes true stories (Nirma, Balaji, Amul, Infosys, Zoho, Haldiram's), health science (WHO, ICMR), business and money lessons with a 'Try today' step and the source, plus verified Quran & hadith with Arabic. New 🌙 Night shield: social apps and browsers locked 11 PM–5 AM (change in Settings → Guardian; can't be loosened during the night). New 🏅 Milestones: clean days glow green in the month calendar, with badges at 3, 7, 14, 30, 40 and 100 days. New home-screen widget: score ring, namaz and tasks done, next namaz time and today's hadith.",
-  "notes_gu": "જાણો (Discover) નવું: બધાં કાર્ડ જોયા વગર કોઈ કાર્ડ ફરી નહીં આવે; દરરોજ સાચી સફળતાની વાતો, તંદુરસ્તી, ધંધો અને પૈસાની વાતો ('આજે કરો' પગલું અને સ્ત્રોત સાથે), અને ચકાસેલી કુરઆન-હદીસ. નવું 🌙 રાત્રિ શીલ્ડ: રાત્રે 11 થી સવારે 5 સોશિયલ ઍપ અને બ્રાઉઝર લૉક. નવું 🏅 સિદ્ધિઓ: મહિનાના કેલેન્ડરમાં સાફ દિવસ લીલા, 3–100 દિવસના બેજ. નવું હોમ સ્ક્રીન વિજેટ: સ્કોર, નમાઝ, આગળની નમાઝનો સમય અને આજની હદીસ."
+  "sha256_lite": "a1bc7b330b110dc1d2242e1ab41dcfbc5ce1de56f59c9a5bbbdb6b5804869764",
+  "notes_en": "Facebook now works like Instagram: hard 40-minute daily limit, reels limit locks the whole app for the day, and Facebook is in the Night shield. Screen guard is much more precise: two separate models must agree (one sees a woman's face/body, the other rates the scene as sexy/porn) before anything except plain nudity is blocked — so men, family photos and objects aren't blocked. It now zooms in on women in thumbnails, YouTube results and wide dance shots to catch Bollywood hot songs, and words on screen like 'hot song' make it stricter. Explicit searches or titles in YouTube, Instagram and Facebook (e.g. 'hot song', 'item song', 'kissing scene', 'sexy') lock that app for 30 minutes.",
+  "notes_gu": "Facebook હવે Instagram જેવું: રોજ 40 મિનિટની કડક મર્યાદા, રીલ મર્યાદા પૂરી થાય તો આખો દિવસ લૉક, અને રાત્રિ શીલ્ડમાં. સ્ક્રીન ગાર્ડ વધુ ચોક્કસ: બે અલગ મોડેલ સહમત થાય તો જ બ્લૉક — પુરુષ, પરિવારના ફોટા અને વસ્તુઓ બ્લૉક નહીં. થંબનેલ, YouTube પરિણામો અને ડાન્સમાં સ્ત્રી પર ઝૂમ કરીને બોલિવૂડ હોટ સોંગ પકડે છે. YouTube, Instagram, Facebookમાં 'hot song', 'item song', 'kissing scene' જેવી શોધ કે ટાઇટલ પર ઍપ 30 મિનિટ લૉક."
 }
