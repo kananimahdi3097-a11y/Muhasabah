@@ -1,0 +1,163 @@
+{
+ "id": "daily-5",
+ "version": 1,
+ "type": "daily",
+ "title": "From the books — set 5",
+ "items": [
+  {
+   "id": "d-nahjalbalagharadi-1943",
+   "ref": "Nahj al-Balāgha · Sayings · Ch. “Guarding speech and fulfilling divine obligations” · Hadith 477",
+   "book": "Nahj al-Balāgha",
+   "ar": "وَقَالَ (عليه ‏السلام): لَا تَقُلْ مَا لَا تَعْلَمُ، بَلْ لَا تَقُلْ كُلَّ مَا تَعْلَمُ، فَإِنَّ اللهَ (سبحانه قد) فَرَضَ عَلَى جَوَارِحِكَ كُلِّهَا فَرَائِضَ يَحْتَجُّ بِهَا عَلَيْكَ يَوْمَ الْقِيَامَةِ.",
+   "en": "Amīr al-mu’minīn, peace be upon him, said: Do not say what you do not know; rather do not say all that you know, because Allāh has laid down some obligations for all your limbs by means of which He will put forth arguments against you on the Day of Judgement.",
+   "gu": "અમીરુલ મોઅમિનીન (અ.સ.) એ ફરમાવ્યું: જે તમે જાણતા નથી તે ન બોલો; બલ્કે જે કંઈ જાણો છો તે બધું પણ ન બોલો, કારણ કે અલ્લાહે તમારા બધા અંગો પર કેટલીક ફરજો નક્કી કરી છે, જેના વડે તે કયામતના દિવસે તમારી વિરુદ્ધ દલીલ (હુજ્જત) રજૂ કરશે.",
+   "ur": "امیر المومنین علیہ السلام نے فرمایا: جو تم نہیں جانتے وہ نہ کہو؛ بلکہ جو کچھ جانتے ہو وہ سب بھی نہ کہو، کیونکہ اللہ نے تمہارے تمام اعضا پر کچھ فرائض مقرر کیے ہیں جن کے ذریعے وہ قیامت کے دن تمہارے خلاف حجت قائم کرے گا۔",
+   "hi": "अमीरुल मोमिनीन (अ.स.) ने फ़रमाया: जो तुम नहीं जानते वह न कहो; बल्कि जो कुछ जानते हो वह सब भी न कहो, क्योंकि अल्लाह ने तुम्हारे सभी अंगों पर कुछ फ़र्ज़ मुक़र्रर किए हैं जिनके ज़रिए वह क़यामत के दिन तुम्हारे ख़िलाफ़ हुज्जत क़ायम करेगा।",
+   "grade": [],
+   "tr": "Sayed Ali Raza",
+   "url": "https://thaqalayn.com/hadith/32/3/382/477",
+   "tafsir": false,
+   "by": "",
+   "topic": "nahj",
+   "note": "Compiled by al-Sharif al-Radi"
+  },
+  {
+   "id": "d-alkafivolume1kulayni-441",
+   "ref": "Al-Kāfi, Vol. 1 · The Book about people with Divine Authority · Ch. “The issue that Allah’s holding people accountable remains unjustified without the Imam” · Hadith 1",
+   "book": "Al-Kāfi, Vol. 1",
+   "ar": "مُحَمَّدُ بْنُ يَحْيَى الْعَطَّارُ عَنْ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ عِيسَى عَنِ ابْنِ أَبِي عُمَيْرٍ عَنِ الْحَسَنِ بْنِ مَحْبُوبٍ عَنْ دَاوُدَ الرَّقِّيِّ عَنِ الْعَبْدِ الصَّالِحِ (عَلَيْهِ السَّلام) قَالَ إِنَّ الْحُجَّةَ لا تَقُومُ لله عَلَى خَلْقِهِ إِلا بِإِمَامٍ حَتَّى يُعْرَفَ.",
+   "en": "“Allah’s holding people accountable remains unjustified without the Imam who would teach people about Him.”",
+   "gu": "ઇમામ વગર અલ્લાહની હુજ્જત (લોકોને જવાબદાર ઠેરવવું) તેની મખલૂક પર કાયમ થતી નથી — એવા ઇમામ વગર જે લોકોને અલ્લાહની ઓળખ કરાવે.",
+   "ur": "امام کے بغیر اللہ کی حجت (لوگوں کو جواب دہ ٹھہرانا) اس کی مخلوق پر قائم نہیں ہوتی — ایسے امام کے بغیر جو لوگوں کو اللہ کی معرفت کرائے۔",
+   "hi": "इमाम के बिना अल्लाह की हुज्जत (लोगों को जवाबदेह ठहराना) उसकी मख़लूक़ पर क़ायम नहीं होती — ऐसे इमाम के बिना जो लोगों को अल्लाह की पहचान कराए।",
+   "grade": [
+    {
+     "by": "al-Majlisi",
+     "en": "Sahih",
+     "ar": "صحيح",
+     "ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (2/293)"
+    }
+   ],
+   "tr": "Muhammad Sarwar",
+   "url": "https://thaqalayn.com/hadith/1/4/4/1",
+   "tafsir": false,
+   "by": "kadhim",
+   "topic": "imamat"
+  },
+  {
+   "id": "d-mujamalahadithalmutabaramuhsini-525",
+   "ref": "Muʿjam al-Aḥādīth al-Muʿtabara · The Book of the Glorious Quran · Ch. “Reciting the Qur’an Everday and its Reward; The Status of the Umm al-Kitab ‘Mother of the Book’, Three Verses, Surat al-Tawhid; The Different Categories of Reciters; Reciting Verses By Night” · Hadith 3",
+   "book": "Muʿjam al-Aḥādīth al-Muʿtabara",
+   "ar": "[1553/3] الكافي: عدة من أصحابنا، عن أحمد بن محمد ; وسهل بن زياد ; وعلي بن إبراهيم عن أبيه، جميعا، عن ابن محبوب، عن جميل بن صالح، عن الفضيل بن يسار، عن أبي عبدالله عليه السلام قال: ما يمنع التاجر منكم المشغول في سوقه إذا رجع إلى منزله أن لا ينام حتى يقرأ سورة من القرآن فتكتب له مكان كل آية يقرؤها عشر حسنات ويمحى عنه عشر سيئات",
+   "en": "What prevents a merchant among you who is busy in his market-place that he does not sleep when he returns back to his home until he recites a Chapter from the Qur’an? So it will be written for him in place of every verse that he recites ten good-deeds and ten evil-deeds will be effaced for him .",
+   "gu": "ઇમામ જઅફર સાદિક (અ.સ.) એ ફરમાવ્યું: તમારામાંથી જે વેપારી આખો દિવસ પોતાના બજારમાં વ્યસ્ત રહે છે, તેને ઘરે પાછા આવીને સૂતા પહેલાં કુરાનનો એક સૂરો પઢવાથી શું રોકે છે? તે જે દરેક આયત પઢે તેના બદલામાં તેના માટે દસ નેકીઓ લખવામાં આવશે અને તેના દસ ગુનાહ મિટાવી દેવામાં આવશે.",
+   "ur": "امام جعفر صادق علیہ السلام نے فرمایا: تم میں سے جو تاجر اپنے بازار میں مشغول رہتا ہے، اسے گھر لوٹ کر سونے سے پہلے قرآن کا ایک سورہ پڑھنے سے کیا چیز روکتی ہے؟ وہ جو بھی آیت پڑھے گا اس کے بدلے اس کے لیے دس نیکیاں لکھی جائیں گی اور اس کے دس گناہ مٹا دیے جائیں گے۔",
+   "hi": "इमाम जाफ़र सादिक़ (अ.स.) ने फ़रमाया: तुम में से जो व्यापारी अपने बाज़ार में मसरूफ़ रहता है, उसे घर लौटकर सोने से पहले क़ुरआन की एक सूरह पढ़ने से क्या चीज़ रोकती है? वह जो भी आयत पढ़ेगा उसके बदले उसके लिए दस नेकियाँ लिखी जाएँगी और उसके दस गुनाह मिटा दिए जाएँगे।",
+   "grade": [
+    {
+     "by": "Asif al-Mohseni",
+     "en": "Mu'tabar",
+     "ar": "معتبر",
+     "ref": "Muʿjam al-Aḥādīth al-Muʿtabara"
+    }
+   ],
+   "tr": "Ammaar Muslim",
+   "url": "https://thaqalayn.com/hadith/9/5/5/3",
+   "tafsir": false,
+   "by": "",
+   "topic": "quran"
+  },
+  {
+   "id": "d-alkafivolume2kulayni-136",
+   "ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “To Agree With the Decision (of Allah)” · Hadith 8",
+   "book": "Al-Kāfi, Vol. 2",
+   "ar": "أَبُو عَلِيٍّ الأشْعَرِيُّ عَنْ مُحَمَّدِ بْنِ عَبْدِ الْجَبَّارِ عَنْ صَفْوَانَ بْنِ يَحْيَى عَنْ فُضَيْلِ بْنِ عُثْمَانَ عَنِ ابْنِ أَبِي يَعْفُورٍ عَنْ أَبِي عَبْدِ الله (عَلَيهِ السَّلام) قَالَ عَجِبْتُ لِلْمَرْءِ الْمُسْلِمِ لا يَقْضِي الله عَزَّ وَجَلَّ لَهُ قَضَاءً إِلا كَانَ خَيْراً لَهُ وَإِنْ قُرِّضَ بِالْمَقَارِيضِ كَانَ خَيْراً لَهُ وَإِنْ مَلَكَ مَشَارِقَ الأرْضِ وَمَغَارِبَهَا كَانَ خَيْراً لَهُ.",
+   "en": "“The case of a Muslim (believer) man is amazing. There is no decision that Allah, the Most Majestic, the Most Holy, makes about him but that it is in his best interest. Even if he is cut in pieces with scissors, still it is for his good. If he may possess the kingdom of the East and West of the earth, still it is for his good.”",
+   "gu": "ઇમામ જઅફર સાદિક (અ.સ.) એ ફરમાવ્યું: મુસલમાન (મોઅમિન) માણસનો મામલો અજીબ છે. અલ્લાહ અઝ્ઝ વ જલ્લ તેના વિશે જે પણ ફેંસલો કરે છે, તે તેના ભલા માટે જ હોય છે. ભલે તેને કાતરોથી ટુકડે-ટુકડા કરી નાખવામાં આવે, તો પણ તે તેના માટે ભલું છે; અને ભલે તે ધરતીના પૂર્વ અને પશ્ચિમનો માલિક બની જાય, તો પણ તે તેના માટે ભલું છે.",
+   "ur": "امام جعفر صادق علیہ السلام نے فرمایا: مسلمان (مومن) شخص کا معاملہ عجیب ہے۔ اللہ عزوجل اس کے بارے میں جو بھی فیصلہ کرتا ہے وہ اس کے حق میں بہتر ہی ہوتا ہے۔ اگر اسے قینچیوں سے ٹکڑے ٹکڑے کر دیا جائے تب بھی اس کے لیے بہتر ہے، اور اگر وہ زمین کے مشرق و مغرب کا مالک بن جائے تب بھی اس کے لیے بہتر ہے۔",
+   "hi": "इमाम जाफ़र सादिक़ (अ.स.) ने फ़रमाया: मुसलमान (मोमिन) इंसान का मामला अजीब है। अल्लाह अज़्ज़ व जल्ल उसके बारे में जो भी फ़ैसला करता है, वह उसकी भलाई के लिए ही होता है। अगर उसे कैंचियों से टुकड़े-टुकड़े कर दिया जाए तब भी उसके लिए भला है, और अगर वह ज़मीन के पूरब और पश्चिम का मालिक बन जाए तब भी उसके लिए भला है।",
+   "grade": [
+    {
+     "by": "al-Majlisi",
+     "en": "Sahih",
+     "ar": "صحيح",
+     "ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (7/8)"
+    }
+   ],
+   "tr": "Muhammad Sarwar",
+   "url": "https://thaqalayn.com/hadith/1/1/31/8",
+   "tafsir": false,
+   "by": "",
+   "topic": "akhlaq"
+  },
+  {
+   "id": "d-mujamalahadithalmutabaramuhsini-20",
+   "ref": "Muʿjam al-Aḥādīth al-Muʿtabara · Book of Intellect and Knowledge · Ch. “Reward of the Scholar and the Seeker of Knowledge” · Hadith 2",
+   "book": "Muʿjam al-Aḥādīth al-Muʿtabara",
+   "ar": "[2/19] الكافي: محمد بن يحيى، عن أحمد بن محمد، عن الحسن بن محبوب، عن جميل بن صالح عن محمد بن مسلم، عن أبي جعفر عليه السلام قال: إن الذي يعلم العلم منكم له أجر مثل أجر المتعلم وله الفضل عليه، فتعلموا العلم من حملة العلم وعلموه إخوانكم كما علمكموه العلماء",
+   "en": "the one who teaches the knowledge from among you has an equivalent reward with the student who seeks knowledge except that he (the teacher) has a degree over him (the student), so seek knowledge from the bearers of knowledge and teach it to your brothers in the same way as the scholars had taught it to you.",
+   "gu": "ઇમામ મુહમ્મદ બાકિર (અ.સ.) એ ફરમાવ્યું: તમારામાંથી જે ઇલ્મ શીખવે છે, તેને ઇલ્મ શીખનાર જેટલો જ અજ્ર (સવાબ) મળે છે, અને તેને શીખનાર પર એક દરજ્જો વધુ છે. તેથી ઇલ્મ ધરાવનારાઓ પાસેથી ઇલ્મ શીખો, અને જેવી રીતે ઉલમાએ તમને શીખવ્યું છે તેવી રીતે તમારા ભાઈઓને શીખવો.",
+   "ur": "امام محمد باقر علیہ السلام نے فرمایا: تم میں سے جو علم سکھاتا ہے اس کے لیے علم سیکھنے والے جتنا اجر ہے، اور اسے سیکھنے والے پر ایک درجہ فضیلت حاصل ہے۔ پس علم کو اس کے حاملین سے سیکھو، اور اپنے بھائیوں کو اسی طرح سکھاؤ جس طرح علما نے تمہیں سکھایا ہے۔",
+   "hi": "इमाम मुहम्मद बाक़िर (अ.स.) ने फ़रमाया: तुम में से जो इल्म सिखाता है, उसके लिए इल्म सीखने वाले जितना ही अज्र (सवाब) है, और उसे सीखने वाले पर एक दर्जा फ़ज़ीलत हासिल है। इसलिए इल्म को उसके हामिलों (जानने वालों) से सीखो, और अपने भाइयों को उसी तरह सिखाओ जिस तरह उलमा ने तुम्हें सिखाया है।",
+   "grade": [
+    {
+     "by": "Asif al-Mohseni",
+     "en": "Mu'tabar",
+     "ar": "معتبر",
+     "ref": "Muʿjam al-Aḥādīth al-Muʿtabara"
+    }
+   ],
+   "tr": "Ammaar Muslim",
+   "url": "https://thaqalayn.com/hadith/9/1/4/2",
+   "tafsir": false,
+   "by": "",
+   "topic": "knowledge"
+  },
+  {
+   "id": "d-alkafivolume2kulayni-1608",
+   "ref": "Al-Kāfi, Vol. 2 · The Book of Supplication · Ch. “The Excellence of Prayers and Strong Recommendation about it” · Hadith 2",
+   "book": "Al-Kāfi, Vol. 2",
+   "ar": "مُحَمَّدُ بْنُ يَحْيَى عَنْ أَحْمَدَ بْنِ مُحَمَّدٍ عَنْ مُحَمَّدِ بْنِ إِسْمَاعِيلَ وَابْنِ مَحْبُوبٍ جَمِيعاً عَنْ حَنَانِ بْنِ سَدِيرٍ عَنْ أَبِيهِ قَالَ قُلْتُ لأبِي جَعْفَرٍ (عَلَيهِ السَّلام) أَيُّ الْعِبَادَةِ أَفْضَلُ فَقَالَ مَا مِنْ شَيْ‏ءٍ أَفْضَلَ عِنْدَ الله عَزَّ وَجَلَّ مِنْ أَنْ يُسْئَلَ وَيُطْلَبَ مِمَّا عِنْدَهُ وَمَا أَحَدٌ أَبْغَضَ إِلَى الله عَزَّ وَجَلَّ مِمَّنْ يَسْتَكْبِرُ عَنْ عِبَادَتِهِ وَلا يَسْأَلُ مَا عِنْدَهُ.",
+   "en": "“Once I asked Abu Ja’far (al-Baqir) (as), ‘What is the best form of worship?’.  He (as) said, ‘There is nothing more virtuous before Allah (azwj) than to ask and request Him for things.' There is no one more spiteful in the eyes of Allah (azwj) than one who seems himself as above the need to worship Him and does not ask Him.'\"",
+   "gu": "રાવી કહે છે: મેં ઇમામ મુહમ્મદ બાકિર (અ.સ.) ને પૂછ્યું: કઈ ઇબાદત સૌથી શ્રેષ્ઠ છે? આપે ફરમાવ્યું: અલ્લાહ અઝ્ઝ વ જલ્લ પાસે એનાથી વધુ ફઝીલતવાળી કોઈ ચીજ નથી કે તેની પાસે માંગવામાં આવે અને તેની પાસે જે છે તે તલબ કરવામાં આવે. અને અલ્લાહની નજરમાં તેનાથી વધુ નાપસંદ કોઈ નથી જે પોતાને તેની ઇબાદતથી ઉપર સમજે અને તેની પાસે ન માંગે.",
+   "ur": "راوی کہتا ہے: میں نے امام محمد باقر علیہ السلام سے پوچھا: کون سی عبادت سب سے افضل ہے؟ آپ نے فرمایا: اللہ عزوجل کے نزدیک اس سے زیادہ فضیلت والی کوئی چیز نہیں کہ اس سے مانگا جائے اور جو اس کے پاس ہے وہ طلب کیا جائے۔ اور اللہ کے نزدیک اس سے زیادہ ناپسندیدہ کوئی نہیں جو خود کو اس کی عبادت سے بالاتر سمجھے اور اس سے نہ مانگے۔",
+   "hi": "रावी कहते हैं: मैंने इमाम मुहम्मद बाक़िर (अ.स.) से पूछा: कौन सी इबादत सबसे अफ़ज़ल है? आपने फ़रमाया: अल्लाह अज़्ज़ व जल्ल के नज़दीक इससे ज़्यादा फ़ज़ीलत वाली कोई चीज़ नहीं कि उससे माँगा जाए और जो उसके पास है वह तलब किया जाए। और अल्लाह की नज़र में उससे ज़्यादा नापसंद कोई नहीं जो ख़ुद को उसकी इबादत से ऊपर समझे और उससे न माँगे।",
+   "grade": [
+    {
+     "by": "al-Majlisi",
+     "en": "Hasan",
+     "ar": "حسن موثق",
+     "ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (2/3)"
+    }
+   ],
+   "tr": "Muhammad Sarwar",
+   "url": "https://thaqalayn.com/hadith/1/2/1/2",
+   "tafsir": false,
+   "by": "",
+   "topic": "dua"
+  },
+  {
+   "id": "d-alkafivolume2kulayni-1010",
+   "ref": "Al-Kāfi, Vol. 2 · The Book of Belief and Disbelief · Ch. “The Major Sins” · Hadith 20",
+   "book": "Al-Kāfi, Vol. 2",
+   "ar": "يُونُسُ عَنِ ابْنِ مُسْكَانَ عَنْ أَبِي بَصِيرٍ عَنْ أَبِي عَبْدِ الله (عَلَيهِ السَّلام) قَالَ سَمِعْتُهُ يَقُولُ وَمَنْ يُؤْتَ الْحِكْمَةَ فَقَدْ أُوتِيَ خَيْراً كَثِيراً قَالَ مَعْرِفَةُ الإمَامِ وَاجْتِنَابُ الْكَبَائِرِ الَّتِي أَوْجَبَ الله عَلَيْهَا النَّارَ.",
+   "en": "“I heard Abu ‘Abdillah (a.s.) saying about, ‘Whoever is given wisdom, certainly, has received much good. . . .,’ (2:269) it (such wisdom) means (having the ability to) recognize the Imam and avoid committing major sins for which Allah has made it necessary to send the perpetrators to fire.’”",
+   "gu": "રાવી કહે છે: મેં ઇમામ જઅફર સાદિક (અ.સ.) ને આ આયત વિશે ફરમાવતા સાંભળ્યા: \"અને જેને હિકમત આપવામાં આવી, તેને ખરેખર ઘણી ભલાઈ આપવામાં આવી\" (2:269) — આપે ફરમાવ્યું: આ હિકમતનો અર્થ છે ઇમામની મઅરેફત (ઓળખ) અને એવા મોટા ગુનાહો (કબાઇર) થી બચવું જેના પર અલ્લાહે જહન્નમની આગ વાજિબ કરી છે.",
+   "ur": "راوی کہتا ہے: میں نے امام جعفر صادق علیہ السلام کو اس آیت کے بارے میں فرماتے سنا: \"اور جسے حکمت دی گئی اسے یقیناً بہت بھلائی دی گئی\" (2:269) — آپ نے فرمایا: اس حکمت سے مراد امام کی معرفت اور ان گناہانِ کبیرہ سے بچنا ہے جن پر اللہ نے جہنم کی آگ واجب کی ہے۔",
+   "hi": "रावी कहते हैं: मैंने इमाम जाफ़र सादिक़ (अ.स.) को इस आयत के बारे में फ़रमाते सुना: \"और जिसे हिकमत दी गई, उसे यक़ीनन बहुत भलाई दी गई\" (2:269) — आपने फ़रमाया: इस हिकमत से मुराद इमाम की मारिफ़त (पहचान) और उन बड़े गुनाहों (कबाइर) से बचना है जिन पर अल्लाह ने जहन्नम की आग वाजिब की है।",
+   "grade": [
+    {
+     "by": "al-Majlisi",
+     "en": "Sahih",
+     "ar": "صحيح",
+     "ref": "Mirʾāt al-ʿUqūl fī Sharḥ Akhbār Āl al-Rasūl (0/43)"
+    }
+   ],
+   "tr": "Muhammad Sarwar",
+   "url": "https://thaqalayn.com/hadith/1/1/112/20",
+   "tafsir": false,
+   "by": "",
+   "topic": "akhlaq"
+  }
+ ]
+}

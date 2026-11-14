@@ -383,6 +383,22 @@
    "file": "content/tips-4.json",
    "type": "tips",
    "count": 7
+  },
+  {
+   "id": "daily-5",
+   "version": 1,
+   "title": "From the books — set 5",
+   "file": "content/daily-5.json",
+   "type": "daily",
+   "count": 7
+  },
+  {
+   "id": "tips-5",
+   "version": 1,
+   "title": "Tip of the day — set 5",
+   "file": "content/tips-5.json",
+   "type": "tips",
+   "count": 7
   }
  ]
 }
